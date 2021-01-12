@@ -1,0 +1,31 @@
+baseURL = "https://doc.matrix.tu-dresden.de/"
+languageCode = "de-DE"
+DefaultContentLanguage = "de"
+title = "Matrix Dokumentation"
+theme = "learn"
+
+[params]
+  themeVariant = "tud"
+  disableNextPrev = true
+  disableShortcutsTitle = false
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableMermaid = false
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+# No newline (<br/>) unless unsafe is enabled
+# https://gohugo.io/news/0.60.0-relnotes/
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+[languages]
+	[languages.en]
+    		title = "Matrix Documentation"
+    		weight = 2
+		languageName = "English"
+	[languages.de]
+		title = "Matrix Dokumentation"
+		weight = 1
+		languageName = "Deutsch"

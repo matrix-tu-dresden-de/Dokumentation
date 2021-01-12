@@ -1,0 +1,10 @@
+{{if eq .Site.Language.Lang "en"}}
+<a id="logo" href="/en">
+	<img src="{{ .Site.BaseURL }}/images/logo.png">
+</a>
+{{end}}
+{{if eq .Site.Language.Lang "de"}}
+<a id="logo" href="/">
+	<img src="{{ .Site.BaseURL }}/images/logo.png">
+</a>     
+{{end}}
