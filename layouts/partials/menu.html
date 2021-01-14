@@ -10,7 +10,47 @@
             {{ partial "search.html" . }}
         {{end}}
       </div>
-    
+      {{ if or .Site.IsMultiLingual}}
+      <br/>
+      <section id="prefooter">
+        <ul>
+        {{ if and .Site.IsMultiLingual (not .Site.Params.DisableLanguageSwitchingButton)}}
+          <li>
+            <a class="padding">
+              <i class="fas fa-language fa-fw"></i>
+            <div class="select-style">
+              <select id="select-language" onchange="location = this.value;">
+            {{ $siteLanguages := .Site.Languages}}
+            {{ $pageLang := .Page.Lang}}
+            {{ range .Page.AllTranslations }}
+                {{ $translation := .}}
+                {{ range $siteLanguages }}
+                    {{ if eq $translation.Lang .Lang }}
+                      {{ $selected := false }}
+                      {{ if eq $pageLang .Lang}}
+                        <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}</option>
+                      {{ else }}
+                        <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
+                      {{ end }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+          </select>
+          <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+            width="255px" height="255px" viewBox="0 0 255 255" style="enable-background:new 0 0 255 255;" xml:space="preserve">
+            <g>
+              <g id="arrow-drop-down">
+                <polygon points="0,63.75 127.5,191.25 255,63.75 		" />
+              </g>
+            </g>
+          </svg>
+          </div>
+          </a>
+          </li>
+        {{end}}
+        </ul>
+      </section>
+      {{ end }}
         <div class="highlightable">
         <ul class="topics">
             {{if eq .Site.Language.Lang "en"}}
@@ -47,55 +87,16 @@
             </ul>
           </section>
         {{end}}
-    
-        {{ if or .Site.IsMultiLingual $showvisitedlinks }}
+        {{ if .Site.IsMultiLingual }}
         <section id="prefooter">
           <hr/>
           <ul>
-          {{ if and .Site.IsMultiLingual (not .Site.Params.DisableLanguageSwitchingButton)}}
-            <li>
-              <a class="padding">
-                <i class="fas fa-language fa-fw"></i>
-              <div class="select-style">
-                <select id="select-language" onchange="location = this.value;">
-              {{ $siteLanguages := .Site.Languages}}
-              {{ $pageLang := .Page.Lang}}
-              {{ range .Page.AllTranslations }}
-                  {{ $translation := .}}
-                  {{ range $siteLanguages }}
-                      {{ if eq $translation.Lang .Lang }}
-                        {{ $selected := false }}
-                        {{ if eq $pageLang .Lang}}
-                          <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}</option>
-                        {{ else }}
-                          <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
-                        {{ end }}
-                      {{ end }}
-                  {{ end }}
-              {{ end }}
-            </select>
-            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-              width="255px" height="255px" viewBox="0 0 255 255" style="enable-background:new 0 0 255 255;" xml:space="preserve">
-              <g>
-                <g id="arrow-drop-down">
-                  <polygon points="0,63.75 127.5,191.25 255,63.75 		" />
-                </g>
-              </g>
-            </svg>
-            </div>
-            </a>
-            </li>
-          {{end}}
-          
           {{ if $showvisitedlinks}}
             <li><a class="padding" href="#" data-clear-history-toggle=""><i class="fas fa-history fa-fw"></i> {{T "Clear-History"}}</a></li>
           {{ end }}
           </ul>
         </section>
         {{ end }}
-        <section id="footer">
-          {{ partial "menu-footer.html" . }}
-        </section>
       </div>
     </nav>
     
