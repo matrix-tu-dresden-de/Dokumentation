@@ -45,9 +45,9 @@ Diese kann leicht in der Öffentlichkeit bzw. an die Zielgruppe verteilt werden.
 Das Teilen-Symbol oben rechts in jedem Raum, bietet auch einen Link an, sowie einen QR-Code und verschiedene soziale Netzwerke. Dieser Link führt auf eine Seit, auf der ausgewählt werden kann, wie der Link geöffnet werden soll. So kann z.B. der installierte Element Client verwendet werden, oder ausgewählt werden, über welchen Heimserver der Raum betreten werden soll. 
 {{% /notice %}}
 
-Wenn innerhalb von Matrix auf einen anderen Raum verlinkt werden soll, kann dies einfach durch 
+Wenn innerhalb von Matrix auf einen anderen Raum verlinkt werden soll, kann dies einfach durch eintippen in das Nachrichtenfeld von
 ```
-\join #raum_adresse:tu-dresden.de
+#raum_adresse:tu-dresden.de
 ```
-geschehen. Dies ist dann ein spezieller Link innerhalb von Matrix, der auch direkt im Client der empfangenden Person genutzt werden kann.
+geschehen, ist man selber Mitglied in dem Raum, so erscheinen automatisch Vorschläge. Dies ist dann ein spezieller Link innerhalb von Matrix, der auch direkt im Client der empfangenden Person genutzt werden kann.
 

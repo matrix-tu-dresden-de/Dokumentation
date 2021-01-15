@@ -47,8 +47,8 @@ This can be easily distributed to the public or target group.
 The share icon at the top right of each room also offers a link, as well as a QR code and various social networks. This link leads to a page where you can select how the link should be opened. For example, the installed Element Client can be used, or it can be selected via which home server the room is to be entered. 
 {{% /notice %}}
 
-When you want to share a room within matrix, you can use the internal join command
+When you want to share a room within matrix, you can use the internal link feature by typing
 ```
-\join #room_address:tu-dresden.de
+#room_address:tu-dresden.de
 ```
-This is a special link within matrix, which will open directly in the client of the reciever.
+Into the chat line. Automatic clickable completion suggestioins will be displayed. This is a special link within matrix, which will open directly in the client of the reciever.
