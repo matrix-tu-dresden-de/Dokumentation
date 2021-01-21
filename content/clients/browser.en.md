@@ -30,7 +30,7 @@ Analogous to e-mail addresses, this results in matrix addresses with the followi
 @ZIH-Login:tu-dresden.de
 
 {{% notice warning %}}
-If you want to start immediately with a [Matrix Client]({{{< relref "../clients" >}}) instead of the above mentioned website (Element Web-App installed at TU Dresden), it is important to change the home server from the usually default matrix.org to https://matrix.tu-dresden.de (shown in the following three screenshots)
+If you want to start immediately with a [Matrix Client]({{< relref "../clients" >}}) instead of the above mentioned website (Element Web-App installed at TU Dresden), it is important to change the home server from the usually default matrix.org to https://matrix.tu-dresden.de (shown in the following three screenshots)
 {{% /notice %}}
 
 ![Change login page with focus on the homeserver Button](/images/02_Login2_en.png)

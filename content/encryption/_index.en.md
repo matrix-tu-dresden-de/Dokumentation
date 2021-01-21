@@ -8,7 +8,7 @@ weight: 60
 
 # Use of end-to-end encryption
 
-1:1 calls are now encrypted end-to-end by default. Therefore, a configured key backup as well as a verification of all self used client devices is recommended ([Important settings]({{{< ref "settings" >}}))
+1:1 calls are now encrypted end-to-end by default. Therefore, a configured key backup as well as a verification of all self used client devices is recommended ([Important settings]({{< ref "settings" >}}))
 
 The decision whether a created room should be encrypted in this way must be well thought out and cannot be undone. If the room is large or public, checking all keys of all interlocutors could take a lot of time. But this manual check can be done later on occasion and end-to-end encrypted conversations can be started directly with blind trust for the time being.
 
@@ -22,7 +22,7 @@ To do this, move the Encrypted slider on the Security & Privacy tab:
 
 ![Enable encryption in the room settings](/images/03_Roome2e_en.png)
 
-This can be confirmed with OK. From now on the messages can only be read by those involved in the conversation. If you have not set up a key protection in the settings before, you should do this now (see [Important settings]({{{< ref "settings" >}})) to be able to read earlier and in absence received messages.
+This can be confirmed with OK. From now on the messages can only be read by those involved in the conversation. If you have not set up a key protection in the settings before, you should do this now (see [Important settings]({{< ref "settings" >}})) to be able to read earlier and in absence received messages.
 
 Now the encrypted exchange can begin. If you want to verify the correctness of the keys and to document this trustworthiness digitally, you first have to unfold the sidebar by clicking on the person symbol in the upper right corner:
 

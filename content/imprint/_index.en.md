@@ -51,6 +51,6 @@ Phone +49 351 463-42066
 sebastian.itting@tu-dresden.de
 
 
-## [privacy policy]({{{< relref "privacy">}})
+## [privacy policy]({{< relref "privacy">}})
 
 

@@ -10,7 +10,7 @@ weight: 10
 New rooms are created using the + in the left bar in the category Rooms.
 
 ![Marking of the room add button](/images/01_Rooms_en.png)
-Then the room name must be assigned. You can also optionally assign a theme (which can be adapted more often later). Optionally, the room can be made publicly accessible (this is not the default setting). With an additional click on "Show more settings" it can be prevented that Matrix users from outside the TU Dresden home server (Homeserver) can enter the room. By default, all new rooms (just like all new 1:1 calls) have [end-to-end encryption]({{{< relref "encryption" >}}) set up. If this is not desired (e.g. because verification of the participants becomes very impractical in very large rooms) you can use the slider before creating the room to not activate end-to-end encryption.
+Then the room name must be assigned. You can also optionally assign a theme (which can be adapted more often later). Optionally, the room can be made publicly accessible (this is not the default setting). With an additional click on "Show more settings" it can be prevented that Matrix users from outside the TU Dresden home server (Homeserver) can enter the room. By default, all new rooms (just like all new 1:1 calls) have [end-to-end encryption]({{< relref "encryption" >}}) set up. If this is not desired (e.g. because verification of the participants becomes very impractical in very large rooms) you can use the slider before creating the room to not activate end-to-end encryption.
 
 ![Input menu for the room name](/images/02_Rooms_en.png)
 

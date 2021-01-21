@@ -34,7 +34,7 @@ In the search result, click on the target person and then on Go:
 
 ![A search result for the search query entered](/images/04_Found-and-Go_en.png)
 
-The conversation opens, which can begin after the connected person accepts the invitation [end-to-end encrypted]({{{< relref "encryption" >}}) (meanwhile standard). The connection to the server at the TU Dresden is of course also transport-encrypted. If you explicitly do not want end-to-end encryption for a special reason, an unencrypted room and invite the conversation partners to it.
+The conversation opens, which can begin after the connected person accepts the invitation [end-to-end encrypted]({{< relref "encryption" >}}) (meanwhile standard). The connection to the server at the TU Dresden is of course also transport-encrypted. If you explicitly do not want end-to-end encryption for a special reason, an unencrypted room and invite the conversation partners to it.
 
 Further: [formatting messages]({{< relref "formatting.en.md" >}})
 
