@@ -83,6 +83,8 @@ However, the federation with the Matrix servers of other scientific or civil soc
 
 * [Uni Hamburg](http://uni-hamburg.de/)
 
+* [TU Berlin](http://matrix.tu-berlin.de/)
+
 * [Uni Heidelberg](https://uni-heidelberg.de/)
 
 * [Uni Bochum](http://ruhr-uni-bochum.de)
