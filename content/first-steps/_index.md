@@ -93,6 +93,8 @@ Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilges
 
 * [Hochschule Weimar](http://bau-ha.us)
 
+* [ETH Zürich](https://readme.phys.ethz.ch/chat/)
+
 * [University for Business and Technology, Kosovo](https://ubt-uni.net/)
 
 Für die zivilgesellschaftliche Nutzung des Protkolls Matrix gibt es hier eine Liste an öffentlichen Heimservern, die auch von Kolleg:innen genutzt werden können, falls ihre Institution noch keinen Matrix-Server anbietet:
