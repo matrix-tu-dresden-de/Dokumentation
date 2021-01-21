@@ -83,6 +83,8 @@ Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilges
 
 * [Uni Hamburg](http://uni-hamburg.de/)
 
+* [TU Berlin](http://matrix.tu-berlin.de/)
+
 * [Uni Heidelberg](https://uni-heidelberg.de/)
 
 * [Uni Bochum](http://ruhr-uni-bochum.de)
