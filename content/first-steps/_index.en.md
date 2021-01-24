@@ -79,23 +79,33 @@ For scientific cooperations with colleagues without a ZIH account there is the p
 
 However, the federation with the Matrix servers of other scientific or civil society institutions will soon be possible (analogous to the existing e-mail federation). Example servers with which communication is already possible are:
 
-* [TU München](https://tum.de)
+* [TU Freiberg](https://matrix.tu-freiberg.de/) incl. [Docu](https://tu-freiberg.de/en/urz/dienste/chat)
+
+* [TU Chemnitz](https://matrix.tu-chemnitz.de) incl. [Docu](https://www.tu-chemnitz.de/urz/groupware/chat/doku/)
+
+* [Hochschule Zittau-Görlitz](https://matrix.hszg.de) incl. [Docu](https://zfe.hszg.de/das-zfe/aktuelle-entwicklungen/matrix)
+
+* [TU München](https://matrix.tum.de) incl. [Docu](https://wiki.in.tum.de/Informatik/Helpdesk/RIOT)
 
 * [Uni Hamburg](http://uni-hamburg.de/)
 
-* [TU Berlin](http://matrix.tu-berlin.de/)
+* [TU Berlin](https://chat.tu-berlin.de/) incl. [Docu](https://www.innocampus.tu-berlin.de/projekte/matrixinnocampus/)
 
-* [Uni Heidelberg](https://uni-heidelberg.de/)
+* [Uni Heidelberg](https://matrix-im.uni-heidelberg.de/) incl. [Docu](https://www.urz.uni-heidelberg.de/en/heichat)
 
-* [Uni Bochum](http://ruhr-uni-bochum.de)
+* [Ruhr Universität Bochum](https://riot.rub.de/) incl. [Docu](https://www.it-services.ruhr-uni-bochum.de/services/issi/element.html.de)
 
-* [TU Freiberg](https://tu-freiberg.de)
+* [Uni Bonn](https://element.matrix.informatik.uni-bonn.de/)
 
-* [TU Chemnitz](http://tu-chemnitz.de)
+* [Uni Hannover](https://matrix.uni-hannover.de) incl. [Docu](https://www.luis.uni-hannover.de/de/services/kommunikation/matrix-messenger/)
 
-* [Hochschule Weimar](http://bau-ha.us)
+* [Uni Bielefeld](https://www.uni-bielefeld.de/fakultaeten/soziologie/teamchat2/)
 
-* [ETH Zürich](https://readme.phys.ethz.ch/chat/)
+* [Uni Kiel](https://riot.fs-infmath.uni-kiel.de) incl. [Docu](https://www.fs-infmath.uni-kiel.de/wiki/Technische_Dienste)
+
+* [Uni Osnabrück](https://chat.virtuos.uni-osnabrueck.de/#/welcome) incl. [Docu](https://www.rz.uni-osnabrueck.de/homeoffice/riot.html)
+
+* [ETH Zürich](https://element.phys.ethz.ch/) incl. [Docu](https://readme.phys.ethz.ch/chat/)
 
 * [University for Business and Technology, Kosovo](https://ubt-uni.net/)
 
