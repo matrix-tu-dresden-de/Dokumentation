@@ -79,23 +79,33 @@ Für wissenschaftliche Kooperationen mit Kolleg:innen ohne ZIH-Account besteht d
 
 Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilgesellschaftlicher Institutionen ist jedoch in Kürze möglich (analog zur bestehenden E-Mail-Föderation). Beispiel-Server, mit denen jetzt schon kommuniziert werden kann sind:
 
-* [TU München](https://tum.de)
+* [TU Freiberg](https://matrix.tu-freiberg.de/) inkl. [Doku](https://tu-freiberg.de/en/urz/dienste/chat)
+
+* [TU Chemnitz](https://matrix.tu-chemnitz.de) inkl. [Doku](https://www.tu-chemnitz.de/urz/groupware/chat/doku/)
+
+* [Hochschule Zittau-Görlitz](https://matrix.hszg.de) inkl. [Doku](https://zfe.hszg.de/das-zfe/aktuelle-entwicklungen/matrix)
+
+* [TU München](https://matrix.tum.de) inkl. [Doku](https://wiki.in.tum.de/Informatik/Helpdesk/RIOT)
 
 * [Uni Hamburg](http://uni-hamburg.de/)
 
-* [TU Berlin](http://matrix.tu-berlin.de/)
+* [TU Berlin](https://chat.tu-berlin.de/) inkl. [Doku](https://www.innocampus.tu-berlin.de/projekte/matrixinnocampus/)
 
-* [Uni Heidelberg](https://uni-heidelberg.de/)
+* [Uni Heidelberg](https://matrix-im.uni-heidelberg.de/) inkl. [Doku](https://www.urz.uni-heidelberg.de/en/heichat)
 
-* [Uni Bochum](http://ruhr-uni-bochum.de)
+* [Ruhr Universität Bochum](https://riot.rub.de/) inkl. [Doku](https://www.it-services.ruhr-uni-bochum.de/services/issi/element.html.de)
 
-* [TU Freiberg](https://tu-freiberg.de)
+* [Uni Bonn](https://element.matrix.informatik.uni-bonn.de/)
 
-* [TU Chemnitz](http://tu-chemnitz.de)
+* [Uni Hannover](https://matrix.uni-hannover.de) inkl. [Doku](https://www.luis.uni-hannover.de/de/services/kommunikation/matrix-messenger/)
 
-* [Hochschule Weimar](http://bau-ha.us)
+* [Uni Bielefeld](https://www.uni-bielefeld.de/fakultaeten/soziologie/teamchat2/)
 
-* [ETH Zürich](https://readme.phys.ethz.ch/chat/)
+* [Uni Kiel](https://riot.fs-infmath.uni-kiel.de) inkl. [Doku](https://www.fs-infmath.uni-kiel.de/wiki/Technische_Dienste)
+
+* [Uni Osnabrück](https://chat.virtuos.uni-osnabrueck.de/#/welcome) inkl. [Doku](https://www.rz.uni-osnabrueck.de/homeoffice/riot.html)
+
+* [ETH Zürich](https://element.phys.ethz.ch/) inkl. [Doku](https://readme.phys.ethz.ch/chat/)
 
 * [University for Business and Technology, Kosovo](https://ubt-uni.net/)
 
