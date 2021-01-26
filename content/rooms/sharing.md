@@ -31,23 +31,23 @@ Die Raumadresse hat dann folgende Struktur
 
 #Raumadressname:tu-dresden.de
 
-In einem Chat, in dem man auf diesen Raum aufmerksam machen möchte, lässt sich auf einen Raum, der eine lokale Adresse hat, durch beginnendes Tippen von #Raumadressname...  ein Hyperlink zum Raum erzeugen, den man mit einem Mausklick bestätigen muss.
+Wenn innerhalb von Matrix auf einen anderen Raum verlinkt werden soll, kann dies einfach durch (beginnendes) Eintippen in das Nachrichtenfeld von
+```
+#Raumadressname:tu-dresden.de
+```
+geschehen. Ist man selber Mitglied in dem Raum, so erscheinen automatisch Vorschläge. Dies ist dann ein spezieller Hyperlink innerhalb von Matrix, der auch direkt im Client der empfangenden Person (mit einem Mausklick) genutzt werden kann.
 
-Weiterhin resultiert auf der vergebenen Raumadresse eine Internetadresse (URL)
+
+Weiterhin resultiert aus der vergebenen Raumadresse eine Internetadresse (URL)
 
 https://matrix.tu-dresden.de/#/room/#Raumadressname:tu-dresden.de
 
-Diese kann leicht in der Öffentlichkeit bzw. an die Zielgruppe verteilt werden.
+Diese kann leicht in der Öffentlichkeit bzw. an die Zielgruppe verteilt werden, öffnet sich allerdings in Element Web, nich in einem ggf. installiertem Element Desktop.
 
 ![Teilensymbol in der Chatansicht des Raums makiert](/images/04_Sharing-Button_de.png)
 
 {{% notice note %}}
-Das Teilen-Symbol oben rechts in jedem Raum, bietet auch einen Link an, sowie einen QR-Code und verschiedene soziale Netzwerke. Dieser Link führt auf eine Seit, auf der ausgewählt werden kann, wie der Link geöffnet werden soll. So kann z.B. der installierte Element Client verwendet werden, oder ausgewählt werden, über welchen Heimserver der Raum betreten werden soll. 
+Das Teilen-Symbol oben rechts in jedem Raum, bietet auch einen matrix.to-Link an, sowie einen QR-Code und verschiedene soziale Netzwerke. Der matrix.to- Link führt auf eine Seite, auf der ausgewählt werden kann, wie der Link geöffnet werden soll. So kann z.B. der installierte Element-Client verwendet werden, oder ausgewählt werden, über welchen Heimserver der Raum betreten werden soll. 
 {{% /notice %}}
 
-Wenn innerhalb von Matrix auf einen anderen Raum verlinkt werden soll, kann dies einfach durch eintippen in das Nachrichtenfeld von
-```
-#raum_adresse:tu-dresden.de
-```
-geschehen, ist man selber Mitglied in dem Raum, so erscheinen automatisch Vorschläge. Dies ist dann ein spezieller Link innerhalb von Matrix, der auch direkt im Client der empfangenden Person genutzt werden kann.
 
