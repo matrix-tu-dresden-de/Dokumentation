@@ -109,5 +109,7 @@ However, the federation with the Matrix servers of other scientific or civil soc
 
 * [University for Business and Technology, Kosovo](https://ubt-uni.net/)
 
+A map displaying these listed servers is shown at ["Why Matrix?"]({{< ref "why"  >}} "Why Matrix?").
+
 For civil use of the Matrix protocol, here is a list of public home servers that can also be used by Kolleg:innen if their institution does not yet offer a Matrix server:
 [https://www.hello-matrix.net/public_servers.php](https://www.hello-matrix.net/public_servers.php)

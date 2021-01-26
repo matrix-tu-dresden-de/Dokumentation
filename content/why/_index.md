@@ -27,3 +27,7 @@ Es gibt sehr viele Dienste und Programme zum instantanen elektronischen Kommuniz
 Ausführliche Informationen: https://matrix.org/faq/#intro
 
 Ausführliches Fachbegriffs-Glossar: https://matrix.org/faq/#definitions
+
+Hochschulen und Universitäten mit einem Matrix-Dienst: 
+
+<object data="/images/federation_map.svg" type="image/svg+xml" style="width: 600px; max-width: 100%"></object>
