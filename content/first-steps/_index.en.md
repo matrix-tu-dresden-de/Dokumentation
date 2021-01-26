@@ -85,6 +85,8 @@ However, the federation with the Matrix servers of other scientific or civil soc
 
 * [Hochschule Zittau-Görlitz](https://matrix.hszg.de) incl. [Docu](https://zfe.hszg.de/das-zfe/aktuelle-entwicklungen/matrix)
 
+* [HMT Leipzig](https://matrix.hmt-leipzig.de)
+
 * [Uni Kiel](https://riot.fs-infmath.uni-kiel.de) incl. [Docu](https://www.fs-infmath.uni-kiel.de/wiki/Technische_Dienste)
 
 * [Uni Hamburg](http://uni-hamburg.de/)
