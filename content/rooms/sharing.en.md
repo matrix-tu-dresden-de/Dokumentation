@@ -33,7 +33,15 @@ The room address then has the following structure
 
 #Room address name:tu-dresden.de
 
-In a chat where you want to draw attention to this room, you can access a room with a local address by typing #roomaddress:tu-dresden.de. You also can create a hyperlink to the room, which you have to confirm with a mouse click.
+
+When you want to share a room within matrix, you can use the internal link feature by typing the local address
+```
+#room_address:tu-dresden.de
+```
+into the chat line, confirm the auto-completion with a mouse click. This is a special link for a usage within matrix, which will open directly in the client of the receiver.
+
+
+You also can create a hyperlink to the room, which you have to .
 
 Furthermore the assigned room address results in an internet address (URL):
 
@@ -44,11 +52,5 @@ This can be easily distributed to the public or target group.
 ![share icon marked in the chat view of the room](/images/04_Sharing-Button_en.png)
 
 {{% notice note %}}
-The share icon at the top right of each room also offers a link, as well as a QR code and various social networks. This link leads to a page where you can select how the link should be opened. For example, the installed Element Client can be used, or it can be selected via which home server the room is to be entered. 
+The share icon at the top right of each room also offers a matrix.to-link, as well as a QR code and various social networks. The matrix.to-link leads to a page where you can select how the link should be opened. For example, the installed Element Client can be used, or it can be selected via which home server the room is to be entered. 
 {{% /notice %}}
-
-When you want to share a room within matrix, you can use the internal link feature by typing
-```
-#room_address:tu-dresden.de
-```
-Into the chat line. Automatic clickable completion suggestioins will be displayed. This is a special link within matrix, which will open directly in the client of the reciever.
