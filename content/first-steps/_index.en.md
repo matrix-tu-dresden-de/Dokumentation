@@ -85,27 +85,52 @@ However, the federation with the Matrix servers of other scientific or civil soc
 
 * [Hochschule Zittau-Görlitz](https://matrix.hszg.de) incl. [Docu](https://zfe.hszg.de/das-zfe/aktuelle-entwicklungen/matrix)
 
-* [TU München](https://matrix.tum.de) incl. [Docu](https://wiki.in.tum.de/Informatik/Helpdesk/RIOT)
+* [Uni Kiel](https://riot.fs-infmath.uni-kiel.de) incl. [Docu](https://www.fs-infmath.uni-kiel.de/wiki/Technische_Dienste)
 
 * [Uni Hamburg](http://uni-hamburg.de/)
 
+* [Uni Bremen](https://element.stugen.de/#/welcome)
+
 * [TU Berlin](https://chat.tu-berlin.de/) incl. [Docu](https://www.innocampus.tu-berlin.de/projekte/matrixinnocampus/)
 
-* [Uni Heidelberg](https://matrix-im.uni-heidelberg.de/) incl. [Docu](https://www.urz.uni-heidelberg.de/en/heichat)
+* [Humboldt Uni Berlin](https://element.hu-berlin.de/) incl. [Docu](https://www.digitale-lehre.hu-berlin.de/de/lehr-und-lernlandschaft/element)
+
+* [TU München](https://matrix.tum.de) incl. [Docu](https://wiki.in.tum.de/Informatik/Helpdesk/RIOT)
+
+* [Uni Hannover](https://matrix.uni-hannover.de) incl. [Docu](https://www.luis.uni-hannover.de/de/services/kommunikation/matrix-messenger/)
+
+* [Uni Osnabrück](https://chat.virtuos.uni-osnabrueck.de/#/welcome) incl. [Docu](https://www.rz.uni-osnabrueck.de/homeoffice/riot.html)
+
+* [Uni Bielefeld](https://uni-bielefeld.de/teamchat2)
+
+* [Bauhaus-Universität Weimar](https://matrix.bau-ha.us) incl. [Docu](https://m18.uni-weimar.de/stuko/referate/digitale-infrastruktur)
+
+* [RWTH Aachen](https://riot.comsys.rwth-aachen.de/)
 
 * [Ruhr Universität Bochum](https://riot.rub.de/) incl. [Docu](https://www.it-services.ruhr-uni-bochum.de/services/issi/element.html.de)
 
 * [Uni Bonn](https://element.matrix.informatik.uni-bonn.de/)
 
-* [Uni Hannover](https://matrix.uni-hannover.de) incl. [Docu](https://www.luis.uni-hannover.de/de/services/kommunikation/matrix-messenger/)
+* [Uni Heidelberg](https://matrix-im.uni-heidelberg.de/) incl. [Docu](https://www.urz.uni-heidelberg.de/en/heichat)
 
-* [Uni Bielefeld](https://www.uni-bielefeld.de/fakultaeten/soziologie/teamchat2/)
+* [Karlsruher Institut für Technologie (KIT)](https://dsn.tm.kit.edu)
 
-* [Uni Kiel](https://riot.fs-infmath.uni-kiel.de) incl. [Docu](https://www.fs-infmath.uni-kiel.de/wiki/Technische_Dienste)
+* [Uni Augsburg](https://element.physik.uni-augsburg.de/#/welcome) incl. [Docu](https://www.uni-augsburg.de/de/fakultaet/mntf/physik/facilities/itservices/elequick/)
 
-* [Uni Osnabrück](https://chat.virtuos.uni-osnabrueck.de/#/welcome) incl. [Docu](https://www.rz.uni-osnabrueck.de/homeoffice/riot.html)
+* [Uni Stuttgart](https://chat.stuvus.de/) incl. [Docu](https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger)
+
+
+Explizit für Studierende:
+
+* [StudiChat](https://chat.studichat.de/#/welcome) (für alle)
+
+* [Fachschaften](https://matrix.fachschaften.org/) (für Fachschaften)
+
+Weitere europäische Hochschulen:
 
 * [ETH Zürich](https://element.phys.ethz.ch/) incl. [Docu](https://readme.phys.ethz.ch/chat/)
+
+* [Universität Innsbruck](https://chat.uibk.ac.at/) incl. [Docu](https://www.uibk.ac.at/zid/anleitungen/chat/)
 
 * [University for Business and Technology, Kosovo](https://ubt-uni.net/)
 
