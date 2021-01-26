@@ -23,7 +23,7 @@ If you are in a room whose main purpose is to inform yourself about new scientif
 
 Here experiences must be made if necessary, which help with the estimate, which notifications one really needs promptly and when a back-and-forth-looking is sufficient.
 
-See [recommendations for first steps after first login]({{{< ref "settings" >}})
+See [recommendations for first steps after first login]({{< ref "settings" >}})
 
 ![screenshot of the menu to select when to send notifications](/images/notifications2.webp)
 
