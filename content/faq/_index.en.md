@@ -40,7 +40,7 @@ With the matrix.to link, which you can see under the i for the room properties a
 
 ***
 #### Can I write LaTeX? {#latex}
-No, but there is a workaround: include CodiMD as CustomWidget. Native will work soon, see https://github.com/vector-im/element-web/issues/1945
+Yes, but it is an experimental feature right now. It will be available for everybody in a few weeks: https://github.com/vector-im/element-web/issues/1945
 
 ***
 #### Are there something like Threads (like in Mattermost/Slack) in Matrix? {#threads}
@@ -48,17 +48,17 @@ No, threads like in Mattermost or Slack are currently not existing in Matrix. Th
 
 ***
 #### How do I change the passphrase for my key backup? {##change-securityphrase}
-
+?
 ***
 #### How do I reset the key backup if I have lost my passphrase AND my (saved and printed) recovery key? {#reset-securityphrase}
-
+?
 ***
 #### Why is there no room "TU Dresden"? Who is allowed to create it? {#no-tud-room}
 All persons creating a room are administrative persons and are responsible for the room. Matrix is not yet designed for the exchange of thousands of members at the university. Should a central room be needed one day, its establishment and maintenance would certainly be the responsibility of the Rectorate and the Department of "Strategy & Communication".
 
 ***
 #### How can I, as the administrator, delete many messages at once? {#delete-multiple-messages}
-
+?
 ***
 #### Sometimes I see a room marked in bold and click on it, but I don't have the time to edit the content and any consequences for me immediately. How can I mark the room as "unread" again? {#mark-room-as-unread}
 Unfortunately this is not possible in Element. As a workaround, you can mark the room as a favorite and notice yourself that your own favorites should be looked at again.
