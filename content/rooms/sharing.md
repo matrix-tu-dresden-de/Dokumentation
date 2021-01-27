@@ -15,6 +15,10 @@ Da diese kryptische Adresse aber von Menschen nicht leicht gelesen werden kann, 
 
 Entweder durch global veröffentlichte Adressen (auffindbar von Benutzenden in anderen Servern - sinnvoll bei Themen, die über die TU Dresden hinausgehen) oder durch eine lokale Adresse, die nur innerhalb des Matrix-Heimatservers an der TU Dresden gilt.
 
+{{% notice note %}}    
+Um eine globale Adresse zu veröffentlichen, muss diese zu aller erst als lokale Adresse erstellt wurden sein. **Das heißt in beiden Fällen ist es notwendig eine lokale Adresse zu erstellen.**
+{{% /notice %}}  
+
 Für den häufigeren Fall der gewünschten lokalen Adresse in die Raumeinstellungen unter dem Reiter Allgemein auf „Show more“ unter Local Addresses klicken:
 
 ![Raumeinstellungen mit dem mehr anzeigen ausgewählt](/images/01_Sharing_de.png)
