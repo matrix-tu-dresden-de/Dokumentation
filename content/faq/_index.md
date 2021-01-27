@@ -36,7 +36,7 @@ Mit dem matrix.to-Link, den man unter dem i für die Raumeigenschaften und einem
 Mit dem matrix.to-Link, den man unter dem i für die Raumeigenschaften und einem weiteren Klick auf „Teile Raum“ erkennt und einem Austausch vom vorderen matrix.to mit matrix.tu-dresden.de
 ***
 #### Kann ich LaTeX schreiben? {#latex}
-Nein, aber es gibt einen Workaround: CodiMD als CustomWidget einbinden. Nativ wird es auch bald gehen, siehe https://github.com/vector-im/element-web/issues/1945
+Ja! Zur Zeit ist es nur ein experimentelles Feature, aber in wenigen Wochen wird es für alle verfügbar sein. Siehe https://github.com/vector-im/element-web/issues/1945
 
 ***
 #### Gibt es sowas wie Threads (vgl. Mattermost/Slack) in Matrix? {#threads}
@@ -44,7 +44,7 @@ Threads sind bisher noch nicht in Matrix verfügbar. Das Thema ist aber bei den 
 
 ***
 #### Wie ändere ich die Sicherheitsphrase für meine Schlüsselsicherung? {#change-securityphrase}
-
+?
 ***
 #### Wie kann ich die Schlüsselsicherung zurücksetzen, wenn ich meine Sicherheitsphrase UND meinen (abgespeicherten und ausgedruckten) Sicherheitsschlüssel verloren habe? {#reset-securityphrase}
 
@@ -53,7 +53,7 @@ Threads sind bisher noch nicht in Matrix verfügbar. Das Thema ist aber bei den 
 Alle raumerstellenden Personen sind administrierende Personen und tragen die Verantwortung für den Raum. Matrix ist bisher nicht für den Austausch von tausenden Mitgliedern an der Universität gedacht. Sollte eines Tages ein zentraler Raum von Bedarf sein, würde die Einrichtung und Pflege sicher beim Rektorat und dem Dezernat „Strategie & Kommunikation“ liegen.
 ***
 #### Wie kann ich als administrierende Person viele Nachrichten auf einmal löschen? {#delete-multiple-messages}
-
+?
 ***
 #### Manchmal sehe ich einen fett markierten Raum und klicke ihn an, habe aber doch nicht die Zeit, den Inhalt und etwaige Konsequenzen für mich sofort zu bearbeiten. Wie kann ich den Raum wieder als „ungelesen“ markieren? {#mark-room-as-unread}
 Das geht in Element leider nicht. Als Workaround kann man den Raum als Favorit markieren und sich selbst merken, dass eigene Favoriten nochmal in den Blick genommen werden sollten.
