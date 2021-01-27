@@ -17,6 +17,10 @@ Because this cryptic address can not be read easily by humans, custom room addre
 
 Room addresses can either be globally published addresses (findable by users in other servers - useful for topics beyond the TU Dresden) or local addresses, which is only valid within the matrix home server at the TU Dresden.
 
+{{% notice note %}}    
+To publish a global address, you have to create a local address first. **It is neccessary to create a local address in both cases!**
+{{% /notice %}}  
+
 For the more common case of the desired local address, click on "Show more" under Local Addresses in the room settings under the General tab:
 
 ![Room settings with the show more selected](/images/01_Sharing_en.png)
@@ -31,26 +35,31 @@ You can also assign different addresses. If the room address should be published
 
 The room address then has the following structure
 
-#Room address name:tu-dresden.de
+#Room-address-name:tu-dresden.de
 
+**Suggestion Nr. 1 for sharing a room address:**
 
-When you want to share a room within matrix, you can use the internal link feature by typing the local address
+When you want to share a room within matrix, you can use the internal link feature by typing (the first characters of) the local address
 ```
 #room_address:tu-dresden.de
 ```
-into the chat line, confirm the auto-completion with a mouse click. This is a special link for a usage within matrix, which will open directly in the client of the receiver.
+into the chat line. If you are a member of that room, you can confirm the auto-completion with a mouse click. This is a special link for a usage within matrix, which will open directly in the client of the receiver (with a mouse click).
 
 
-You also can create a hyperlink to the room, which you have to .
+**Suggestion Nr. 2 for sharing a room address:**
 
-Furthermore the assigned room address results in an internet address (URL):
-
-https://matrix.tu-dresden.de/#/room/#roomaddress:tu-dresden.de
-
-This can be easily distributed to the public or target group.
+The share icon at the top right of each room also offers a matrix.to-link, as well as a QR code and various social networks. The matrix.to-link leads to a page where you can select how the link should be opened. For example, the installed client Element Desktop can be used, or it can be selected via which home server the room is to be entered. 
 
 ![share icon marked in the chat view of the room](/images/04_Sharing-Button_en.png)
 
-{{% notice note %}}
-The share icon at the top right of each room also offers a matrix.to-link, as well as a QR code and various social networks. The matrix.to-link leads to a page where you can select how the link should be opened. For example, the installed Element Client can be used, or it can be selected via which home server the room is to be entered. 
-{{% /notice %}}
+```
+https://matrix.to/#/#Room-address-name:tu-dresden.de?via=tu-dresden.de
+```
+
+**Suggestion Nr. 3 for sharing a room address:**
+
+Furthermore, you also can create a hyperlink to the room, which you have to construct in this way:
+
+https://matrix.tu-dresden.de/#/room/#roomaddress:tu-dresden.de
+
+resulting in an internet address (URL) which can be easily distributed to the public or target group. BUT, **this link opens only an Element Web in the browser** of the people, not in an installed Element Desktop. More universal (espc. for the large group of people with Element Desktop), and more advised by the Matrix-Admin-Team, is the above mentioned method with the matrix.to-Link.
