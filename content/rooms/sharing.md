@@ -37,17 +37,23 @@ Wenn innerhalb von Matrix auf einen anderen Raum verlinkt werden soll, kann dies
 ```
 geschehen. Ist man selber Mitglied in dem Raum, so erscheinen automatisch Vorschläge. Dies ist dann ein spezieller Hyperlink innerhalb von Matrix, der auch direkt im Client der empfangenden Person (mit einem Mausklick) genutzt werden kann.
 
+Erhält man solche Adressen auf anderem Wege (z.B. via E-Mail) hilft es, diese in einen persönlichen Notizraum (selbst angelegter Raum ohne weitere Personen) zu senden. Anschließend kann man dann bequem auf diesen sich ergebenden Raumlink klicken.
 
-Weiterhin resultiert aus der vergebenen Raumadresse eine Internetadresse (URL)
-
-https://matrix.tu-dresden.de/#/room/#Raumadressname:tu-dresden.de
-
-Diese kann leicht in der Öffentlichkeit bzw. an die Zielgruppe verteilt werden, öffnet sich allerdings in Element Web, nich in einem ggf. installiertem Element Desktop.
+Das Teilen-Symbol oben rechts in jedem Raum, bietet einen matrix.to-Link an, sowie einen QR-Code und verschiedene soziale Netzwerke. Der matrix.to- Link führt auf eine Seite, auf der ausgewählt werden kann, wie der Link geöffnet werden soll. So kann z.B. der installierte Client Element Desktop verwendet werden, oder ausgewählt werden, über welchen Heimserver der Raum betreten werden soll. 
 
 ![Teilensymbol in der Chatansicht des Raums makiert](/images/04_Sharing-Button_de.png)
 
-{{% notice note %}}
-Das Teilen-Symbol oben rechts in jedem Raum, bietet auch einen matrix.to-Link an, sowie einen QR-Code und verschiedene soziale Netzwerke. Der matrix.to- Link führt auf eine Seite, auf der ausgewählt werden kann, wie der Link geöffnet werden soll. So kann z.B. der installierte Element-Client verwendet werden, oder ausgewählt werden, über welchen Heimserver der Raum betreten werden soll. 
-{{% /notice %}}
+```
+https://matrix.to/#/#Raumadressname:tu-dresden.de?via=tu-dresden.de
+```
+
+Weiterhin könnte man aus der vergebenen Raumadresse eine Internetadresse (URL) nach folgender Struktur konstruieren:
+
+https://matrix.tu-dresden.de/#/room/#Raumadressname:tu-dresden.de
+
+Diese könnte, ähnlich des matrix.to-Links, auch leicht in der Öffentlichkeit bzw. an die Zielgruppe verteilt werden, **öffnet sich allerdings nur in Element Web**, nicht in einem ggf. installiertem Element Desktop. Universeller (insb. für die große Gruppe an Personen mit Element Desktop) und inzwischen empfehlenswerter ist daher der zuvor beschriebene Weg mit dem matrix.to-Link.
+
+
+
 
 
