@@ -50,9 +50,9 @@ Analogous to e-mail addresses, this results in matrix addresses with the followi
 ## Convenient use of end-to-end encryption (E2EE)
 
 Matrix not only encrypts transports to and from the home server (in the data center of TU Dresden) but also allows the use of end-to-end encryption (E2EE). For this, cryptographic keys have to be exchanged between all devices that want to write end-to-end encrypted. This technical necessity sounds and is complicated, but in the meantime it has become very convenient for the users. The many cryptographic keys created by the client are stored on the respective device. If this is a tab in a browser, for example, there is a risk that this tab will be closed unintentionally. Then all encrypted contents are no longer readable. To prevent this from happening, a key protection is offered on the home server of the TU Dresden, on which (protected with a security phrase (or security key that can be calculated from it) all cryptographic keys are stored encrypted. 
-
+   
 {{% notice info %}}
-It is highly recommended to use this key backup (with a secure security phrase which is NOT your ZIH password) and read on at [Other important settings]({{< relref "_index.en.md#other-important-settings" >}})!
+It is highly recommended to use this key backup (with a secure security phrase which is NOT your ZIH password) and read on at [Other important settings]({{< relref "settings/_index.en.md" >}})!
 {{% /notice %}}
    
 ![Screenshot of the prompt to enter a security phrase](/images/01_Restore-Session_en.png)
