@@ -83,6 +83,8 @@ However, the federation with the Matrix servers of other scientific or civil soc
 
 * [TU Chemnitz](https://matrix.tu-chemnitz.de) incl. [Docu](https://www.tu-chemnitz.de/urz/groupware/chat/doku/)
 
+* [Hochschule Darmstadt](https://chat.fbi.h-da.de) incl. [Doku](https://its.h-da.io/element-docs/)
+
 * [Hochschule Zittau-Görlitz](https://matrix.hszg.de) incl. [Docu](https://zfe.hszg.de/das-zfe/aktuelle-entwicklungen/matrix)
 
 * [HMT Leipzig](https://matrix.hmt-leipzig.de)
