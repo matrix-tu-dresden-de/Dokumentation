@@ -140,7 +140,7 @@ Weitere europäische Hochschulen:
 
 Eine Karte mit diesen Server ist unter ["Warum Matrix?"]({{< ref "why"  >}} "Warum Matrix?") zu sehen.
 
-Für die zivilgesellschaftliche Nutzung des Protkolls Matrix gibt es hier eine Liste an öffentlichen Heimservern, die auch von Kolleg:innen genutzt werden können, falls ihre Institution noch keinen Matrix-Server anbietet:
+Für die zivilgesellschaftliche Nutzung des Protokolls Matrix gibt es hier eine Liste an öffentlichen Heimservern, die auch von Kolleg:innen genutzt werden können, falls ihre Institution noch keinen Matrix-Server anbietet:
 [https://www.hello-matrix.net/public_servers.php](https://www.hello-matrix.net/public_servers.php)
 
 Datenschutzerklärung: https://matrix.tu-dresden.de/datenschutz.html
