@@ -26,7 +26,7 @@ There are many services and programs for instant electronic communication. Matri
 
 Further informationen: https://matrix.org/faq/#intro
 
-Detailed explaination of technical terms: https://matrix.org/faq/#definitions
+Detailed explanation of technical terms: https://matrix.org/faq/#definitions
 
 Institutions of higher education (e.g. universities) with a Matrix service: 
 
