@@ -24,7 +24,7 @@ Inserting e-mail addresses (e.g. via Ctrl+V) is not enough to find people! Pleas
 
 For the mass invitation of persons (up to 100 at once, then repeatable) the matrix names are necessary, which should be in the form @ZIH-Login:tu-dresden.de. Collect them e.g. in a text editor line by line and then paste them into the search field in Matrix/Element using the clipboard (copy & paste).
 
-If you cannot find anyone, ask for their username or share their username (@ZIH-Login:tu-dresden.de) or https://matrix.to/#/@_Ihr_ZIH-Login_:tu-dresden.de, so that the person addressed can contact you within Matrix.
+If you cannot find anyone, ask for their username or share their username (@ZIH-Login:tu-dresden.de) or https://matrix.to/#/@_Your_ZIH-Login_:tu-dresden.de, so that the person addressed can contact you within Matrix.
 
 An invitation e-mail is not sent by Matrix.
 
