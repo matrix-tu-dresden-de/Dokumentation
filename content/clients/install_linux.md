@@ -6,7 +6,7 @@ chapter: true
 weight: 60
 ---
 # Installation von Element Desktop unter Linux
-Wir empfehlen das Installieren des Clients über die Paketverwaltung der jeweiligen Distrubution. Die folgenden Befehle installieren den Element Desktop Client über die Kommandozeile.
+Wir empfehlen das Installieren des Clients über die Paketverwaltung der jeweiligen Distribution. Die folgenden Befehle installieren den Element Desktop Client über die Kommandozeile.
 
 ### Debian/Ubuntu
 ```sh

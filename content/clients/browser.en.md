@@ -37,7 +37,7 @@ If you want to start immediately with a [Matrix Client]({{< relref "../clients" 
 
 1. click on change
 
-![input field to change the homeser with the input mstrix.tu-dresden.de](/images/02_Login3_en.png)
+![input field to change the home server with the input matrix.tu-dresden.de](/images/02_Login3_en.png)
 
 2. mark the preset home server address and remove it
 

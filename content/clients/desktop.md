@@ -28,4 +28,4 @@ Anschließend ist der einmalige Login mit ZIH-Login und ZIH-Passwort durchzufüh
 
 Mit der Aktivierung des Schiebereglers unter Einstellungen > Einstellungen > „**Nach System-Login automatisch starten**“ startet der Element-Client nach jedem Neustart und man verpasst keine Benachrichtigungen mehr durch ein versehentliches Schließen des Browser-Tabs in der Nutzungsvariante mit der Web-App.
 
-![Einstellungen mit dem Punkt nach Systemstart automatisch starten makiert](/images/05_Settings_de.png)
+![Einstellungen mit dem Punkt nach Systemstart automatisch starten markiert](/images/05_Settings_de.png)
