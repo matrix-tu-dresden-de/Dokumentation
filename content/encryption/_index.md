@@ -32,7 +32,7 @@ In der sich öffnenden Leiste der am Gespräch Beteiligten kann nun auf die Kont
 
 ![Raum mit Hinweis, dass nicht alle eilnehmenden verifiziert sind.](/images/05_People-Unverified_de.png)
 
-Die Leiste zeigt jetzt die Gesprächsperson im Detail an. Hier ist eine Schlüsselverifikation durch Klick auf „Verifizieren“ einleitbar. Durch einen Klick auf "Start Verifikation" wird die Gegenseiten benachtigt und nach Bestätigung (siehe nächstes Bild) kann die "Verifizierung durch Emojis" beginnen.
+Die Leiste zeigt jetzt die Gesprächsperson im Detail an. Hier ist eine Schlüsselverifikation durch Klick auf „Verifizieren“ einleitbar. Durch einen Klick auf "Start Verifikation" wird die Gegenseiten benachrichtigt und nach Bestätigung (siehe nächstes Bild) kann die "Verifizierung durch Emojis" beginnen.
 
 ![Menü zu der zu verifizierenden Person mit dem Verifizieren-Knopf ausgewählt](/images/06_E2EE_Verify_de.png)
 
