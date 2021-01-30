@@ -35,7 +35,7 @@ The drop-down menu "Log in with:" should be left at "User name". Then the follow
 
 **Username: ZIH-Login** (only the ZIH-Login, no e-mail address!)
 
-**Password: ZIH password**
+**Password: ZIH-Password**
 
 An alternative login, e.g. using the e-mail address, is **NOT** possible during the first, initial login, only after the second login.
 
