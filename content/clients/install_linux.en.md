@@ -6,7 +6,7 @@ chapter: true
 weight: 60
 ---
 # Install Element Desktop on Linux
-We recommend using the package manager of your System to install Element Desktop. The following commands will install element desktop. You can enter them on the commandline.
+We recommend using the package manager of your System to install Element Desktop. The following commands will install element desktop. You can enter them on the command line.
 
 ### Debian/Ubuntu
 ```sh

@@ -42,7 +42,7 @@ Alternativ kann mittels einer Integration ein CodiMD erstellt werden (z.B. unter
 Wenn es mehr ungelesene Nachrichten in einem Raum gibt, als der Bildschirm anzeigen kann, lässt einen ein Klick auf das Symbol rechts vom zentralen Inhalt mit Dreieck nach oben und einem Punkt nach oben zur ältesten ungelesenen Nachricht springen.
 
 ![Makierung des Sprung zur letzten ungeleseen Nachrichtbuttons](/images/18_Sprung_hoch.webp)
-Analog springt man zum neuesten Zeitstempel einer Unterhaltung durch Klick auf das Dreieck nach unten in einem Kreis am rechtsn Rand der zentralen Inhaltsseite.
+Analog springt man zum neuesten Zeitstempel einer Unterhaltung durch Klick auf das Dreieck nach unten in einem Kreis am rechten Rand der zentralen Inhaltsseite.
 
 ![Makierung des zur neusten Nachricht-springen buttons](/images/18_Sprung_nach_unten.webp)
 

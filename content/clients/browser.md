@@ -38,7 +38,7 @@ Sollten Sie statt mit der oben genannten Website (Element Web-App an der TU Dres
 
 1. Klick auf Ändern
 
-![Eingabefeld zum Ändern des Homeserers mit der Eingabe mstrix.tu-dresden.de](/images/02_Login3_de.png)
+![Eingabefeld zum Ändern des Homeserers mit der Eingabe matrix.tu-dresden.de](/images/02_Login3_de.png)
 
 2. Markieren der voreingestellten Heimserver-Adresse und entfernen dieser.
 
