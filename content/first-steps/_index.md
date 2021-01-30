@@ -8,11 +8,11 @@ weight: 2
 
 # Erste Schritte - Wie kann Matrix genutzt werden?
 
-Mitgliedern und Angehörigen der TU Dresden (selbstverständlich auch Studierenden) wird unter Einhaltung der einschlägigen gesetzlichen und rechtlichen Bestimmungen zum Datenschutz und zur IT-Sicherheit ermöglicht, mittels ihres **ZIH-Logins** mit Angehörigen dieser und anderer Universitäten sowie weiteren Matrix-Nutzenden (bspw. akademischen Partner:innen) per Chat sowie Audio-/Video-Telefonie zu
+Mitgliedern und Angehörigen der TU Dresden (selbstverständlich auch Studierenden) wird unter Einhaltung der einschlägigen gesetzlichen und rechtlichen Bestimmungen zum Datenschutz und zur IT-Sicherheit ermöglicht, mittels ihres **ZIH-Logins** mit Angehörigen dieser und anderer Hochschulen und Universitäten sowie weiteren Matrix-Nutzenden (bspw. akademischen Partner:innen) per Chat sowie Audio-/Video-Telefonie zu
 kommunizieren.
 
 {{% notice tip %}}
-Wir empfehlen die Nutzung des Element Desktopclients, weil so viele Probleme, die bei dem Nutzen der Verschlüsselung entstehen können, so vermieden werden.
+Wir empfehlen die Nutzung des Element Desktopclients, weil so viele Probleme, die bei dem Nutzen der Verschlüsselung entstehen können, vermieden werden können.
 {{% /notice %}}
 
 Downloads für: {{% button href="https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe" icon="fas fa-download" %}}Windows{{% /button %}} {{% button href="https://packages.riot.im/desktop/install/macos/Element.dmg" icon="fas fa-download" %}}macOS{{% /button %}} {{% button href="/clients/install_linux" icon="fas fa-download" %}}Linux{{% /button %}}
