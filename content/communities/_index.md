@@ -28,5 +28,5 @@ Eine Community kann gelöscht werden, wenn die administrierende Person diese ver
 
 ### weitere Administratoren
 
-Über Element können aktuell keine weiteren Administratoren zu einer Community hinzugefügt werden. [Issue auf Github](https://github.com/vector-im/riot-web/issues/5240) Wenn Sie weitere Adminstratoren in einer Community benötigen, können diese durch das Matrix Admin Team hinzugefügt werden. Schreiben Sie dazu bitte eine Supportanfrage an servicedesk@tu-dresden.de.
+Über Element können aktuell keine weiteren Administratoren zu einer Community hinzugefügt werden. [Issue auf Github](https://github.com/vector-im/riot-web/issues/5240) Wenn Sie weitere Administratoren in einer Community benötigen, können diese durch das Matrix Admin Team hinzugefügt werden. Schreiben Sie dazu bitte eine Supportanfrage an servicedesk@tu-dresden.de.
 

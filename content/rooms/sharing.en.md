@@ -7,9 +7,9 @@ weight: 40
 ---
 # Share rooms and make them public
  {{% notice warning %}}
-The share icon in the upper right corner of each room also provides a link, a QR code and various social networks. The link, however, leads to https://matrix.to/ from where you can access the room via an Element web app from https://element.io. In order to share a room within TU Dresden please use the methodes exlained in this artice.
+The share icon in the upper right corner of each room also provides a link, a QR code and various social networks. The link, however, leads to https://matrix.to/ from where you can access the room via an Element web app from https://element.io. In order to share a room within TU Dresden please use the methode explained in this artice.
  {{% /notice %}}
-Every room has a socalled room-address, which can be found in the room settings under the submenu Advanced. A room address looks like this:
+Every room has a so-called room-address, which can be found in the room settings under the sub-menu Advanced. A room address looks like this:
 
 !aen6iekahv8Pi0zohf:tu-dresden.de
 
@@ -18,7 +18,7 @@ Because this cryptic address can not be read easily by humans, custom room addre
 Room addresses can either be globally published addresses (findable by users in other servers - useful for topics beyond the TU Dresden) or local addresses, which is only valid within the matrix home server at the TU Dresden.
 
 {{% notice note %}}    
-To publish a global address, you have to create a local address first. **It is neccessary to create a local address in both cases!**
+To publish a global address, you have to create a local address first. **It is necessary to create a local address in both cases!**
 {{% /notice %}}  
 
 For the more common case of the desired local address, click on "Show more" under Local Addresses in the room settings under the General tab:

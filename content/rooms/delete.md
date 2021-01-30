@@ -12,7 +12,7 @@ Durch das Verlassen von Räumen erscheinen diese nicht mehr in der Raumliste (li
 
 ![Raumeinstellungen mit der Auswahl Verlassen](/images/01_Leave_de.png)
 
-Als Adminstrator:in sollten erst alle Raummitglieder „gekickt“ werden (aus dem Raum entfernt werden), anschließend verlässt die Person als letzte den Raum und initiiert so die spätere Löschung durch den Server.
+Als Administrator:in sollten erst alle Raummitglieder „gekickt“ werden (aus dem Raum entfernt werden), anschließend verlässt die Person als letzte den Raum und initiiert so die spätere Löschung durch den Server.
 
 Ein Export der Raumhistorie bspw. in eine .txt- oder .html-Datei ist noch nicht möglich, wird aber schon gefordert: https://github.com/vector-im/element-web/issues/2630
 
