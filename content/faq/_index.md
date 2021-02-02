@@ -58,7 +58,7 @@ Unter `Einstellungen`-> `Sicherheit & Datenschutz` -> `Sicheres Backup` so lange
   * Eine Nachricht an den Servicedesk schreiben, mit der Bitte in der Datenbank die Sicherheitsschlüssel zu löschen
   * die letzte Sitzung abmelden
   * auf die Antwort warten
-  * anmelden, kontrollieren, ob unter `Einstellungen`-> `Sicherheit & Datenschutz` -> `Sicheres Backup` und `Cross-Signing` nur noch grüne Knöpfe zu sehen sind, ansonsten den FAQ Punkt [Sicherheitsschlüssel änder]#change-securityphrase abarbeiten.
+  * anmelden, kontrollieren, ob unter `Einstellungen`-> `Sicherheit & Datenschutz` -> `Sicheres Backup` und `Cross-Signing` nur noch grüne Knöpfe zu sehen sind, ansonsten den FAQ Punkt [Sicherheitsschlüssel änder](#change-securityphrase) abarbeiten.
   * wenn das alles nicht geht auf das Ticket antworten mit der Bitte um eine Jitsibesprechung
 
 ***
