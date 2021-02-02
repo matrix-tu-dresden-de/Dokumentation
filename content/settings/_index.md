@@ -60,6 +60,7 @@ Im Reiter **Sprache & Video** können Sie den Matrix-Client Element berechtigen 
 
 Erfreulicherweise starten 1:1 Gespräche standardmäßig Ende-zu-Ende-verschlüsselt. Um dieser Verschlüsselung wirklich mit gutem Gefühl zu vertrauen, können Nutzer:innen den Schlüsselvergleich mit Gesprächspartner:innen durchführen. Damit dies dann auch für alle Geräte dieser Gesprächspartner:innen gilt, müssen Matrix-Nutzenden ihrerseits wiederum die Schlüssel all ihrer Geräte untereinander verifizieren (Fachbegriff: Cross-Signing). Unter Beachtung der nachfolgenden Hinweise kann dies alles sehr bequem geschehen.
 
+## Sicherheit & Datenschutz
 Im Reiter **Sicherheit & Datenschutz** finden Sie alle Ihre Geräte, die bisher vom Matrix-Account genutzt wurden. 
 
 * Entfernen Sie ggf. nicht mehr benutzte Sitzungen durch Markierung der quadratischen Box am Zeilenende und dem Klick auf den sich dann zeigenden roten Button.
