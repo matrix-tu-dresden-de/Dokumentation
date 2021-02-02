@@ -7,6 +7,7 @@ weight: 200
 ---
 Dies ist eine Zusammenstellung häufiger Fragen und deren Antworten. Teilweise sind die Antworten noch nicht formuliert. In diesen Fällen bitte im Raum ```#matrix-support:tu-dresden.de``` nachfragen.
 
+* [Nachrichten nicht lesbar](#unable-to-decrypt)
 * [Was ist der Unterschied zwischen Sicherheitsphrase und Sicherheitsschlüssel?](#securityphrase-vs-securitykey)
 * [Warum sieht man im Element Desktop-Client keine Statuszeile am unteren Ende des Bildschirms wenn man über Hyperlinks hovert (= Maus drüber bewegt und verweilt)? Wie kann man diesen dann vertrauen?](#no-statusline)
 * [Wie teilt man Leuten mit Element Desktop-Client eine Raumadresse mit?](#desktop-share-room)
@@ -21,6 +22,12 @@ Dies ist eine Zusammenstellung häufiger Fragen und deren Antworten. Teilweise s
 * [Was muss ich tun, wenn auf einem MacOS Video oder Audio in einer Videokonferenz nicht funktioniert.](#apple-no-video)
 * [Wie viele Personen können gleichzeitig in einen Raum eingeladen werden? Kann ich Personen über ihre E-Mail-Adressen einladen?](#how-many-invites-can-i-do)
 * [Kann ich die Beitrittsrechte aller Räume meiner Community so anpassen, dass nur Mitglieder der Community Zutritt haben?](#roompermissions-in-communities)
+
+***
+#### Nachrichten nicht lesbar{#unable-to-decrypt}
+  * Es muss zur zeit mindestens immer eine verifizierte Sitzung offen sein, am einfachsten geht dies, wenn der Desktop Client oder Element auf dem tragbarem Handrechner eingerichtet ist. Diese Programme können beendet und neu gestartet werden, ohne sich erneut anmelden zu müssen. Anderweitig kann eine verifizierte Matrixsitzung in einem privaten Webbetrachterfenster erstellt werden, indem man sich dort bei Matrix anmeldet und diese Sitzung aus einer bestehenden verifziert. Dieses Fenster kann nach ca. fünf Minuten geschlossen werden. Die Schlüssel werden durch die Verifikation in die anderen Matrixclients übernommen. Das erzeugt eine Geistersitzung welche dann immer offen ist. Dann können alle anderen Clients abgemeldet werden. Ansonsten können Nachrichten welche in dem Zeitraum ohne offene Matrixsitzung empfangen werden später nicht mehr gelesen werden.
+  * Wurde die Schlüsselsicherung ordnungsgemäß eingerichtet?
+  * Nachrichten bleiben nicht lesbar, wenn Matrixsitzungen erstellt werden und dann das Fenster des Webbetrachters einfach geschlossen wird, ohne sich abzumelden. Lösung: nur für neue Nachrichten möglich: diese Dokumentation durchlesen.
 
 ***
 #### Was ist der Unterschied zwischen Sicherheitsphrase und Sicherheitsschlüssel? {#securityphrase-vs-securitykey}
