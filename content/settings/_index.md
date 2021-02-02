@@ -75,6 +75,7 @@ Im Reiter **Sicherheit & Datenschutz** finden Sie alle Ihre Geräte, die bisher 
 
 ![Screenshot des Menüpunkts zur Schlüsselsicherung](/images/10_Setup-Keystore_de.png)
 
+## Schlüsselsicherung 
 Sofern nicht nach Erstanmeldung eingerichtet: Die **Schlüsselsicherung** ist eine wertvolle Errungenschaft, da Sie ermöglicht, die Schlüssel aller Gespräche, die Ende-zu-Ende-verschlüsselt sind, mit einem Passwort versehen zentral auf dem Server der TU Dresden zu sichern. Dies ermöglicht bequem die Nutzung mehrerer Geräte bzw. Matrix-Clients. Hierzu ist auf „Beginne Schlüsselsicherung zu nutzen“ zu klicken und eine starke Sicherheitsphrase (aber nicht das ZIH-Passwort) zu wählen. Diese Sicherheitsphrase wird immer einzugeben sein, wenn Schlüssel mit der Schlüsselsicherung synchronisiert werden sollen.
 
 ![Aufforderung den Sicherheitsschlüssel zu generieren oder eine Sicherheitsphrase einzugeben](/images/11_Setup-Key_de.png)
