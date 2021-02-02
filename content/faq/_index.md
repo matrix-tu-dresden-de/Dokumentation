@@ -43,6 +43,10 @@ Ja! Zur Zeit ist es nur ein experimentelles Feature, aber in wenigen Wochen wird
 Threads sind bisher noch nicht in Matrix verfügbar. Das Thema ist aber bei den Entwickler:innen bekannt und wurde in die Entwicklungsperspektive mit aufgenommen und sollte in Zukunft integriert werden. Verfolge dazu: https://github.com/vector-im/roadmap/projects/1
 
 ***
+#### Ich habe keinen Wiederherstellungsschlüssel
+Dafür bitte prüfen, ob diese überhaupt eingerichtet wurde. Siehe [Schlüsselsicherung](/settings/#schlüsselsicherung)
+
+***
 #### Wie ändere ich die Sicherheitsphrase für meine Schlüsselsicherung? {#change-securityphrase}
 ?
 ***
