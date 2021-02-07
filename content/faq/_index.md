@@ -22,6 +22,7 @@ Dies ist eine Zusammenstellung häufiger Fragen und deren Antworten. Teilweise s
 * [Was muss ich tun, wenn auf einem MacOS Video oder Audio in einer Videokonferenz nicht funktioniert.](#apple-no-video)
 * [Wie viele Personen können gleichzeitig in einen Raum eingeladen werden? Kann ich Personen über ihre E-Mail-Adressen einladen?](#how-many-invites-can-i-do)
 * [Kann ich die Beitrittsrechte aller Räume meiner Community so anpassen, dass nur Mitglieder der Community Zutritt haben?](#roompermissions-in-communities)
+* [Kann ich mit Element mehrere Matrix-Accounts verwalten (Multi-Account-Client)?](#multiple-accounts-element)
 
 ***
 #### Nachrichten nicht lesbar{#unable-to-decrypt}
@@ -91,3 +92,13 @@ Die Masseneinladung per E-Mail wird derzeit in Element nicht unterstützt. Wenn 
 ***
 #### Kann ich die Beitrittsrechte aller Räume meiner Community so anpassen, dass nur Mitglieder der Community Zutritt haben? {#roompermissions-in-communities}
 Nein, dies ist nicht möglich. Räume können in mehreren Communities sein. Der Zutritt zu Räumen wird daher raumweise eingestellt. 
+
+***
+#### Kann ich mit Element mehrere Matrix-Accounts verwalten (Multi-Account-Client)? {#multiple-accounts-element}
+Ein Element-Fenster kann zur Zeit nur einen Matrix-Account verwalten. Es ist aber möglich, mehrere Element-Fenster mit unterschiedlichen Matrix-Konten zu starten, auch im Autostart des Rechners. Dazu ist der Programmaufruf so abzuändern, dass ein spezifisches Profil geöffnet wird:
+``` 
+element-desktop --profile PROFILNAME
+``` 
+So lassen sich mehrere Starter im Autostart platzieren, die dann verschiedene Profilnamen haben, z.B. --profile TUD und --profile Privat. Beide geöffneten Fenster haben leider gleichaussehende Icons im Indicator-Applet. Hierfür gibt es aber sicher auch bald eine Lösung...
+
+Darüber hinaus gibt es andere Matrix-Clients, die mehrere Matrix-Konten verwalten können, u.a. [weechat](https://matrix.org/docs/projects/client/weechat-matrix), [Spectral](https://matrix.org/docs/projects/client/spectral), [Quaternion](https://matrix.org/docs/projects/client/quaternion) oder [Mirage](https://matrix.org/docs/projects/client/mirage).
