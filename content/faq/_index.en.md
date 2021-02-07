@@ -21,7 +21,7 @@ This is a collection of frequently asked questions and their answers. Some of th
 * [What should I do if video or audio in a video conference does not work on a MacOS?](#apple-no-video)
 * [How many people can be invited at ones into a room? Can I invite people by their E-Mail address?](#how-many-invites-can-i-do)
 * [Can I modify access permissions for all rooms in my community, that only members of the community can enter?](#roompermissions-in-communities)
-
+* [Can I manage multiple Matrix-Account on my Element Desktop Client?](#multiple-accounts-element)
 ***
 #### What is the difference between passphrase and recovery key? {#securityphrase-vs-securitykey}
 The password that can access the key backup is called the recovery key and is very long, starts with a capital E and should be saved or printed after setup. Since this password is hard to remember in everyday life (e.g. when you are on the road, want to have a look at Matrix, but only have access to other computers) you can think of a (easy to remember) passphrase from which the recovery key can be calculated (in the browser/client) before trying to "open" the key backup.
@@ -74,3 +74,15 @@ Mass invite by E-Mail is currently not supported in Element. If you want to mass
 ***
 #### Can I modify access permissions for all rooms in my community, that only members of the community can enter? {#roompermissions-in-communities}
 No, this is not possible. Rooms can be part of multiple communities. Therefore the access permission will be set on room based level.
+
+
+***
+#### Can I manage multiple Matrix-Account on my Element Desktop Client? {#multiple-accounts-element}
+With the Element Desktop client, you can only manage one Matrix-Account right now. But it is possible to start several Element-windows with different Matrix-Accounts, also within your Autostart-settings of your computer. Therefore, you need to change (or create additional) execution commands to open a specific profile:
+
+``` 
+element-desktop --profile PROFILE_NAME
+``` 
+So you can place several Element-Starters in your Autorstart, with different profile names, e.g. --profile TUD or --profile Private. Unfortunately, both opened windows will appear with the same Icon in the Indicator-Applet. But therefore, a solution will upcome soon, for sure...
+
+Furthermore, there are other Matrix-Clients, that can handle more Matrix-Accounts per se, e.g. [weechat](https://matrix.org/docs/projects/client/weechat-matrix), [Spectral](https://matrix.org/docs/projects/client/spectral), [Quaternion](https://matrix.org/docs/projects/client/quaternion), or [Mirage](https://matrix.org/docs/projects/client/mirage).
