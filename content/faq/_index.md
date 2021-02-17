@@ -57,19 +57,25 @@ Dafür bitte prüfen, ob diese überhaupt eingerichtet wurde. Siehe [Schlüssels
 ***
 #### Wie ändere ich die Sicherheitsphrase für meine Schlüsselsicherung? {#change-securityphrase}
   * bei allen Matrix-Sitzungen bis auf eine, auf die noch Zugriff besteht, die Raumschlüssel exportieren `Einstellungen`-> `Sicherheit & Datenschutz` -> `Verschlüsselung` hier am besten mit dem Matrixanmeldekennwort versehen. Abschließend abmelden, dafür links oben auf den Benutzernamen und abmelden, bei der Frage möglicherweise auftretenden Fage ob die verschüsselten Nachrichten gewünscht werden den Knopf `Ich möchte meine verschlüsselten Nachrichten nicht` betätigen, da diese Schlüssel eben schon exportiert wurden.
-  * Unter `Einstellungen`-> `Sicherheit & Datenschutz` -> `Sicheres Backup` so lange die roten Knöpfe betätigen, möglicherweise ist ein löschen des Zwischenspeichers unter `Einstellungen`-> `Hilfe & Über` nötig, möglicherweise auch ein abmelden und erneutes anmelden. Wenn das alles nicht geht, im nächsten Punkt fortfahren. Die Aktion war erfolgreich, wenn nur noch der grüne Einrichten Knopf angezeigt wird. Dann bitte einen neuen einrichten. Siehe [Schlüsselsicherung](/settings/#schlüsselsicherung)
+  * Unter `Einstellungen`-> `Sicherheit & Datenschutz` -> `Sicheres Backup` erst den Knopf `Sicherung löschen`, dann den Knopf `Zurücksetzen`, möglicherweise ist ein löschen des Zwischenspeichers unter `Einstellungen`-> `Hilfe & Über` nötig, möglicherweise auch ein abmelden und erneutes anmelden mit anschließendem erneuten Versuch. Wenn das alles nicht geht, im nächsten Punkt fortfahren. Die Aktion war erfolgreich, wenn nur noch der grüne Einrichten Knopf angezeigt wird.
+  * Für alle vorher exportieren Schlüsselsicherungen den manuellen importweg ausführen.
+  * Neue Schlüsselsicherung einrichten. Siehe [Schlüsselsicherung](/settings/#schlüsselsicherung)
 
 ***
 #### Wie kann ich die Schlüsselsicherung zurücksetzen, wenn ich meine Sicherheitsphrase UND meinen (abgespeicherten und ausgedruckten) Sicherheitsschlüssel verloren habe? {#reset-securityphrase}
 Bitte folgendes ausführen:
   * bei allen Matrix-Sitzungen bis auf eine, auf die noch Zugriff besteht, die Raumschlüssel exportieren `Einstellungen`-> `Sicherheit & Datenschutz` -> `Verschlüsselung` hier am besten mit dem Matrixanmeldekennwort versehen. Abschließend abmelden, dafür links oben auf den Benutzernamen und abmelden, bei der Frage möglicherweise auftretenden Fage ob die verschüsselten Nachrichten gewünscht werden den Knopf `Ich möchte meine verschlüsselten Nachrichten nicht` betätigen, da diese Schlüssel eben schon exportiert wurden.
   * alle Sitzungen auf die kein Zugriff mehr besteht [löschen](/settings/#sicherheit--datenschutz)  die oberste in Fettschrift ist die aktuelle Sitzung, diese nicht mit anhaken
-  * Unter `Einstellungen`-> `Sicherheit & Datenschutz` -> `Sicheres Backup` so lange die roten Knöpfe betätigen, möglicherweise ist ein löschen des Zwischenspeichers unter `Einstellungen`-> `Hilfe & Über` nötig, möglicherweise auch ein abmelden und erneutes anmelden. Ebenso `Einstellungen`-> `Sicherheit & Datenschutz` -> `Cross-Signing`. Die Aktion war erfolgreich, wenn für `Sicheres Backup` und `Cross-Signing` nur noch der grüne Einrichten Knopf angezeigt wird. 
-  * Eine Nachricht an den Servicedesk schreiben, mit der Bitte in der Datenbank die Sicherheitsschlüssel zu löschen
   * die letzte Sitzung abmelden
+  * Eine Nachricht an den Servicedesk schreiben, mit der Bitte in der Datenbank die Sicherheitsschlüssel zu löschen
   * auf die Antwort warten
-  * anmelden, kontrollieren, ob unter `Einstellungen`-> `Sicherheit & Datenschutz` -> `Sicheres Backup` und `Cross-Signing` nur noch grüne Knöpfe zu sehen sind, ansonsten den FAQ Punkt [Sicherheitsschlüssel ändern](#change-securityphrase) abarbeiten.
+  * bei Matrix anmelden und bei den Fenstern und Meldungen die Verifikation überspringen
+  * bei Matrix abmelden
+  * bei Matrix erneut anmelden und bei den Fenstern und Meldungen die Verifikation überspringen
+  * Unter `Einstellungen`-> `Sicherheit & Datenschutz` -> `Sicheres Backup` schauen ob dort ein grüner Knopf `Einrichten` und keine roten Knöpfe da sind. Wenn noch rote Knöpfe da sind, erst den Knopf `Sicherung löschen`, dann den Knopf `Zurücksetzen` möglicherweise ist ein löschen des Zwischenspeichers unter `Einstellungen`-> `Hilfe & Über` nötig, möglicherweise auch ein abmelden und erneutes anmelden. Ebenso kann es sein, das unter `Einstellungen`-> `Sicherheit & Datenschutz` -> `Cross-Signing` auf den roten Knopf `Zurücksetzen` gedrückt werden muss. Die Aktion war erfolgreich, wenn für `Sicheres Backup` und `Cross-Signing` nur noch der grüne Einrichten Knopf angezeigt wird. 
   * wenn das alles nicht geht auf das Ticket antworten mit der Bitte um eine Jitsibesprechung
+  * Für alle vorher exportieren Schlüsselsicherungen den manuellen importweg ausführen.
+  * Neue Schlüsselsicherung einrichten. Siehe [Schlüsselsicherung](/settings/#schlüsselsicherung)
 
 ***
 #### Warum gibt es keinen Raum „TU Dresden“? Wer dürfte ihn erstellen? {#no-tud-room}
