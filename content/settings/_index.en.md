@@ -60,6 +60,7 @@ In the **Voice & Video** tab, you can authorize the Matrix client element to use
 
 Fortunately, 1:1 calls start end-to-end encrypted by default. To really trust this encryption with a good feeling, users:inside can perform the key comparison with interlocutor:inside. To ensure that this also applies to all devices of these conversational partners, Matrix users must in turn verify the keys of all their devices with each other (technical term: cross-signing). If you follow the instructions below, this can be done very conveniently.
 
+## Security & Privacy
 In the **Security & Privacy** tab you will find all your devices that have been used by the Matrix account so far. 
 
 * Remove any sessions that are no longer in use by marking the square box at the end of the line and clicking on the red button that appears.
@@ -74,7 +75,8 @@ In the **Security & Privacy** tab you will find all your devices that have been 
 
 ![Screenshot of the menu item for key protection](/images/10_Setup-Keystore_en.png)
 
-If not set up after initial registration: The **Key Backup** is a valuable achievement, as it enables the keys of all end-to-end encrypted calls to be centrally secured on the TU Dresden server with a password. This allows convenient use of multiple devices or matrix clients. To do so, click on "Start using key backup" and choose a strong security phrase (but not the ZIH password). This security phrase will always have to be entered if keys are to be synchronized with the key backup.
+## Secure Backup
+If not set up after initial registration: The **Secure Backup** is a valuable achievement, as it enables the keys of all end-to-end encrypted calls to be centrally secured on the TU Dresden server with a password. This allows convenient use of multiple devices or matrix clients. To do so, click on "Start using key backup" and choose a strong security phrase (but not the ZIH password). This security phrase will always have to be entered if keys are to be synchronized with the key backup.
 
 ![Prompt to generate the security key or enter a security phrase](/images/11_Setup-Key_en.png)
 ![Prompt to enter a password for the key backup](/images/12_Enter-Key_en.png)

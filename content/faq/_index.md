@@ -26,9 +26,9 @@ Dies ist eine Zusammenstellung häufiger Fragen und deren Antworten. Teilweise s
 
 ***
 #### Nachrichten nicht lesbar{#unable-to-decrypt}
-  * Es muss zur zeit mindestens immer eine verifizierte Sitzung offen sein, am einfachsten geht dies, wenn der Desktop Client oder Element auf dem tragbarem Handrechner eingerichtet ist. Diese Programme können beendet und neu gestartet werden, ohne sich erneut anmelden zu müssen. Anderweitig kann eine verifizierte Matrixsitzung in einem privaten Webbetrachterfenster erstellt werden, indem man sich dort bei Matrix anmeldet und diese Sitzung aus einer bestehenden verifziert. Dieses Fenster kann nach ca. fünf Minuten geschlossen werden. Die Schlüssel werden durch die Verifikation in die anderen Matrixclients übernommen. Das erzeugt eine Geistersitzung welche dann immer offen ist. Dann können alle anderen Clients abgemeldet werden. Ansonsten können Nachrichten welche in dem Zeitraum ohne offene Matrixsitzung empfangen werden später nicht mehr gelesen werden. Dies soll in Zukunft mittels der Funktion dehydrated devices gelöst werden.
+  * Es muss zur zeit mindestens immer eine verifizierte Sitzung offen sein, am einfachsten geht dies, wenn der Desktop Client oder Element auf dem tragbarem Handrechner eingerichtet ist. Diese Programme können beendet und neu gestartet werden, ohne sich erneut anmelden zu müssen. Anderweitig kann eine verifizierte Matrixsitzung in einem privaten Browserfenster erstellt werden, indem man sich dort bei Matrix anmeldet und diese Sitzung aus einer bestehenden verifziert. Dieses Fenster kann nach ca. fünf Minuten geschlossen werden. Die Schlüssel werden durch die Verifikation in die anderen Matrixclients übernommen. Das erzeugt eine Geistersitzung welche dann immer offen ist. Dann können alle anderen Clients abgemeldet werden. Ansonsten können Nachrichten welche in dem Zeitraum ohne offene Matrixsitzung empfangen werden später nicht mehr gelesen werden. Dies soll in Zukunft mittels der Funktion dehydrated devices gelöst werden.
   * Wurde die Schlüsselsicherung ordnungsgemäß eingerichtet?
-  * Nachrichten bleiben nicht lesbar, wenn Matrixsitzungen erstellt werden und dann das Fenster des Webbetrachters einfach geschlossen wird, ohne sich abzumelden. Lösung: nur für neue Nachrichten möglich: diese Dokumentation durchlesen.
+  * Nachrichten bleiben nicht lesbar, wenn Matrixsitzungen erstellt werden und dann das Fenster des Browsers einfach geschlossen wird, ohne sich abzumelden. Lösung: nur für neue Nachrichten möglich: diese Dokumentation durchlesen.
 
 ***
 #### Was ist der Unterschied zwischen Sicherheitsphrase und Sicherheitsschlüssel? {#securityphrase-vs-securitykey}
@@ -65,17 +65,17 @@ Dafür bitte prüfen, ob diese überhaupt eingerichtet wurde. Siehe [Schlüssels
 #### Wie kann ich die Schlüsselsicherung zurücksetzen, wenn ich meine Sicherheitsphrase UND meinen (abgespeicherten und ausgedruckten) Sicherheitsschlüssel verloren habe? {#reset-securityphrase}
 Bitte folgendes ausführen:
   * bei allen Matrix-Sitzungen bis auf eine, auf die noch Zugriff besteht, die Raumschlüssel exportieren `Einstellungen`-> `Sicherheit & Datenschutz` -> `Verschlüsselung` hier am besten mit dem Matrixanmeldekennwort versehen. Abschließend abmelden, dafür links oben auf den Benutzernamen und abmelden, bei der Frage möglicherweise auftretenden Fage ob die verschüsselten Nachrichten gewünscht werden den Knopf `Ich möchte meine verschlüsselten Nachrichten nicht` betätigen, da diese Schlüssel eben schon exportiert wurden.
-  * alle Sitzungen auf die kein Zugriff mehr besteht [löschen](/settings/#sicherheit--datenschutz)  die oberste in Fettschrift ist die aktuelle Sitzung, diese nicht mit anhaken
+  * alle Sitzungen auf die kein Zugriff mehr besteht [löschen]({{< relref "settings/#sicherheit--datenschutz" >}}) die oberste in Fettschrift ist die aktuelle Sitzung, diese nicht mit anhaken
   * die letzte Sitzung abmelden
   * Eine Nachricht an den Servicedesk schreiben, mit der Bitte in der Datenbank die Sicherheitsschlüssel zu löschen
   * auf die Antwort warten
   * bei Matrix anmelden und bei den Fenstern und Meldungen die Verifikation überspringen
   * bei Matrix abmelden
   * bei Matrix erneut anmelden und bei den Fenstern und Meldungen die Verifikation überspringen
-  * Unter `Einstellungen`-> `Sicherheit & Datenschutz` -> `Sicheres Backup` schauen ob dort ein grüner Knopf `Einrichten` und keine roten Knöpfe da sind. Wenn noch rote Knöpfe da sind, erst den Knopf `Sicherung löschen`, dann den Knopf `Zurücksetzen` möglicherweise ist ein löschen des Zwischenspeichers unter `Einstellungen`-> `Hilfe & Über` nötig, möglicherweise auch ein abmelden und erneutes anmelden. Ebenso kann es sein, das unter `Einstellungen`-> `Sicherheit & Datenschutz` -> `Cross-Signing` auf den roten Knopf `Zurücksetzen` gedrückt werden muss. Die Aktion war erfolgreich, wenn für `Sicheres Backup` und `Cross-Signing` nur noch der grüne Einrichten Knopf angezeigt wird. 
+  * Unter `Einstellungen`-> `Sicherheit & Datenschutz` -> `Sicheres Backup` schauen ob dort ein grüner Knopf `Einrichten` und keine roten Knöpfe da sind. Wenn noch rote Knöpfe da sind, erst den Knopf `Sicherung löschen`, dann den Knopf `Zurücksetzen` möglicherweise ist ein löschen des Zwischenspeichers unter `Einstellungen`-> `Hilfe & Über` nötig, möglicherweise auch ein abmelden und erneutes anmelden. Ebenso kann es sein, das unter `Einstellungen`-> `Sicherheit & Datenschutz` -> `Cross-Signing` auf den roten Knopf `Zurücksetzen` gedrückt werden muss. Die Aktion war erfolgreich, wenn für `Sicheres Backup` und `Cross-Signing` nur noch der grüne Einrichten Knopf angezeigt wird.
   * wenn das alles nicht geht auf das Ticket antworten mit der Bitte um eine Jitsibesprechung
   * Für alle vorher exportieren Schlüsselsicherungen den manuellen importweg ausführen.
-  * Neue Schlüsselsicherung einrichten. Siehe [Schlüsselsicherung](/settings/#schlüsselsicherung)
+  * Neue Schlüsselsicherung einrichten. Siehe [Schlüsselsicherung]({{< relref "settings/#schlüsselsicherung" >}})
 
 ***
 #### Warum gibt es keinen Raum „TU Dresden“? Wer dürfte ihn erstellen? {#no-tud-room}
@@ -93,18 +93,18 @@ Häufig hat Element nicht die Rechte, auf die Webcam und das Mikrofon zu zugreif
 
 ***
 #### Wie viele Personen können gleichzeitig in einen Raum eingeladen werden? Kann ich Personen über ihre E-Mail-Adressen einladen? {#how-many-invites-can-i-do}
-Die Masseneinladung per E-Mail wird derzeit in Element nicht unterstützt. Wenn Sie eine Masseneinladung durchführen möchten, senden Sie bitte eine Anfrage über den Servicedesk, damit wir Ihnen helfen können. Sie können selbst 100 Personen über ihren ZIH-Benutzernamen einladen.  
+Die Masseneinladung per E-Mail wird derzeit in Element nicht unterstützt. Wenn Sie eine Masseneinladung durchführen möchten, senden Sie bitte eine Anfrage über den Servicedesk, damit wir Ihnen helfen können. Sie können selbst 100 Personen über ihren ZIH-Benutzernamen einladen.
 
 ***
 #### Kann ich die Beitrittsrechte aller Räume meiner Community so anpassen, dass nur Mitglieder der Community Zutritt haben? {#roompermissions-in-communities}
-Nein, dies ist nicht möglich. Räume können in mehreren Communities sein. Der Zutritt zu Räumen wird daher raumweise eingestellt. 
+Nein, dies ist nicht möglich. Räume können in mehreren Communities sein. Der Zutritt zu Räumen wird daher raumweise eingestellt.
 
 ***
 #### Kann ich mit Element mehrere Matrix-Accounts verwalten (Multi-Account-Client)? {#multiple-accounts-element}
 Ein Element-Fenster kann zur Zeit nur einen Matrix-Account verwalten. Es ist aber möglich, mehrere Element-Fenster mit unterschiedlichen Matrix-Konten zu starten, auch im Autostart des Rechners. Dazu ist der Programmaufruf so abzuändern, dass ein spezifisches Profil geöffnet wird:
-``` 
+```
 element-desktop --profile PROFILNAME
-``` 
+```
 So lassen sich mehrere Starter im Autostart platzieren, die dann verschiedene Profilnamen haben, z.B. --profile TUD und --profile Privat. Beide geöffneten Fenster haben leider gleichaussehende Icons im Indicator-Applet. Hierfür gibt es aber sicher auch bald eine Lösung...
 
 Darüber hinaus gibt es andere Matrix-Clients, die mehrere Matrix-Konten verwalten können, u.a. [weechat](https://matrix.org/docs/projects/client/weechat-matrix), [Spectral](https://matrix.org/docs/projects/client/spectral), [Quaternion](https://matrix.org/docs/projects/client/quaternion) oder [Mirage](https://matrix.org/docs/projects/client/mirage).
