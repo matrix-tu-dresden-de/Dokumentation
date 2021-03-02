@@ -1,5 +1,5 @@
 ---
-title: "Nachrichten schreiben"
+title: "Nachrichten"
 date: 2020-07-15T18:10:07+02:00
 draft: false
 chapter: true
