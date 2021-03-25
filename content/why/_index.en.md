@@ -14,15 +14,15 @@ There are many services and programs for instant electronic communication. Matri
 - Communication protocol for federated real-time communication (no isolated solution but like e-mail with worldwide connectivity)
 - Differentiated communication possible (1:1, multiple teams, topic-specific)
 - Decentralized, persistent and interoperable communication (no central control instances, connectable with other protocols and tools)
-- Data protection: end-to-end encryption in 1:1 conversations standard, can be switched on in (group) rooms as required
+- Data protection: end-to-end encryption standard in 1:1 conversations and (group) rooms, can be switched off in the latter
 - Web application + desktop client + mobile apps available
-  - The contacts on your own cell phone are not automatically passed on to third parties
+  - The contacts on your own cell phone are not automatically passed on to third parties (no address book upload)
 - Connection to existing authentication systems (e.g. TU Dresden)
 - Existing successful security audit
 - Autonomy and control: locally installable (server location TU Dresden)
 - Recognize the presence status
 - Active further development
-- Up-and-coming use by other scientific institutions (e.g. the majority of German universities)
+- Up-and-coming use by other scientific institutions (e.g. lots of German universities)
 
 Further informationen: https://matrix.org/faq/#intro
 
