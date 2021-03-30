@@ -18,7 +18,7 @@ Dies wird durch Klick auf **Ändern** realisiert. Dann landet man nicht versehen
 
 ![Anmeldeseite mit Fokus auf dem Homeserver ändern Button](/images/02_Change-Homeserver_de.png)
 
-Nun kann man manuell die Angabe des Heimservers durchführen: https://matrix.tu-dresden.de
+Nun kann man manuell die Angabe des Heimservers durchführen: tu-dresden.de
 
 ![Eingabefeld zum Ändern des Homeservers mit der Eingabe matrix.tu-dresden.de](/images/03_Set-Homeserver_de.png)
 

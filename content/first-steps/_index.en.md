@@ -25,7 +25,7 @@ This is done by clicking on **Change**. Then you will not accidentally end up on
 
 ![Change login page with focus on the homeserver button](/images/02_Change-Homeserver_en.png)
 
-Now you can manually specify the home server: https://matrix.tu-dresden.de
+Now you can manually specify the home server: tu-dresden.de
 
 ![Input field to change the home server with the input matrix.tu-dresden.de](/images/03_Set-Homeserver_en.png)
 
