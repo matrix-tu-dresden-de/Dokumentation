@@ -24,6 +24,7 @@ This is a collection of frequently asked questions and their answers. Some of th
 * [How many people can be invited at ones into a room? Can I invite people by their E-Mail address?](#how-many-invites-can-i-do)
 * [Can I modify access permissions for all rooms in my community, that only members of the community can enter?](#roompermissions-in-communities)
 * [Can I manage multiple Matrix-Account on my Element Desktop Client?](#multiple-accounts-element)
+* [I can no longer see profile/room pictures or other pictures.](#relogin)
 
 #### Messages not readable {#message-not-readable}
   * At least one verified session must be open at all times, the easiest way to do this is to set up the Desktop Client or Element on a smartphone. These programs can be closed and restarted without having to log in again. Otherwise, a verified Matrix session can be created in a private web browser window by logging into Matrix there and verifying this session from an existing one. This window can be closed after about five minutes. The keys are transferred to the other Matrix clients by the verification process. This creates a ghost session which is then always open. Then all other clients can be logged out. Otherwise messages which are received in the period without open matrix session cannot be read later. This is to be solved in the future by means of the function dehydrated devices.
@@ -115,3 +116,26 @@ element-desktop --profile PROFILE_NAME
 So you can place several Element-Starters in your Autorstart, with different profile names, e.g. --profile TUD or --profile Private. Unfortunately, both opened windows will appear with the same Icon in the Indicator-Applet. But therefore, a solution will upcome soon, for sure...
 
 Furthermore, there are other Matrix-Clients, that can handle more Matrix-Accounts per se, e.g. [weechat](https://matrix.org/docs/projects/client/weechat-matrix), [Spectral](https://matrix.org/docs/projects/client/spectral), [Quaternion](https://matrix.org/docs/projects/client/quaternion), or [Mirage](https://matrix.org/docs/projects/client/mirage).
+
+***
+#### I can no longer see profile/room pictures or other pictures. {#relogin}
+Due to an update on the Matrix server (28.03.2021), clients that have been logged in since then can no longer find media files. To solve this problem, it is necessary to log off and log on again. Attention: So that you do not lose any of your messages you should follow the procedure below:
+
+<ul type="1">
+  <li>Make sure you have fulfilled at least one point:</li>
+  <ol type="a">
+    <li>... an additional verified session (e.g. with the smartphone) is active and usable</li>
+    <li>... the <a href="{{< relref "settings/#secure-backup" >}} ">Secure Backup</a> is set up and the securityphrase or -key is present</li>
+    <li>... you have exportet your room keys</li>
+  </ol>
+  <li>Log off and log on again within the client and use as Matrix <strong>homeserver</strong>: "<strong>tu-dresden.de</strong>"</li>
+  <li>Restore your messages:</li>
+  <ol type="a">
+    <li>... Verify the new session in the additional active session to start the key exchange between these sessions</li>
+    <li>... Connect to the Secure Backup to get your message keys back</li>
+    <li>... Import the room keys and set up the <a href="{{< relref "settings/#secure-backup" >}} ">Secure Backup</a></li>
+  </ol>
+
+**Annotations:**
+* Losing the room keys will result in the loss of your messages, as they can only be read by you and your communication participants. No admin can help with that.
+* Because of the new session, a red warning sign is subsequently displayed for all your previous messages. This is not an error, but just a little too dramatic information setting (further information can be found here: [external link](https://github.com/vector-im/element-web/issues/13701))
