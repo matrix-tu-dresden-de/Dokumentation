@@ -119,10 +119,10 @@ Furthermore, there are other Matrix-Clients, that can handle more Matrix-Account
 
 ***
 #### I can no longer see profile/room pictures or other pictures. {#relogin}
-Due to an update on the Matrix server (28.03.2021), clients that have been logged in since then can no longer find media files. To solve this problem, it is necessary to log off and log on again. Attention: So that you do not lose any of your messages you should follow the procedure below:
+Due to an update on the Matrix server (28.03.2021), clients that have been logged in since then can no longer find media files. To solve this problem, it is necessary to log off and log on again. **Attention: So that you do not lose any of your messages you should follow the procedure below.** If multiple clients are affected, the procedure should be performed one after each other and not in parallel.
 
 <ul type="1">
-  <li>Make sure you have fulfilled at least one point:</li>
+  <li>Make sure you have fulfilled at least one following prerequisites:</li>
   <ol type="a">
     <li>... an additional verified session (e.g. with the smartphone) is active and usable</li>
     <li>... the <a href="{{< relref "settings/#secure-backup" >}} ">Secure Backup</a> is set up and the securityphrase or -key is present</li>

@@ -112,7 +112,7 @@ Darüber hinaus gibt es andere Matrix-Clients, die mehrere Matrix-Konten verwalt
 
 ***
 #### Ich kann keine Profil-/Raumbilder oder gesendete Bilder mehr sehen. {#relogin}
-Aufgrund einer Aktualisierung am Matrix Server (28.03.2021) finden Clients die seitdem angemeldet sind keine Mediendateien mehr. Um dieses Problem zu lösen, ist ein Ab- und erneutes Anmelden notwendig. Damit Sie keine Ihrer Nachrichten verlieren sollten Sie folgendes Vorgehen beachten:
+Aufgrund einer Aktualisierung am Matrix Server (28.03.2021) finden Clients die seitdem angemeldet sind keine Mediendateien mehr. Um dieses Problem zu lösen, ist ein Ab- und erneutes Anmelden notwendig. **Damit Sie keine Ihrer Nachrichten verlieren sollten Sie folgendes Vorgehen beachten.** Sind mehrere Clients betroffen, so sollten die Prozedur nacheinander pro Client durchgeführt werden und nicht parallel.
 
 <ul type="1">
   <li>Stellen Sie sicher, dass Sie mindestens einen Punkt erfüllt haben:</li>
