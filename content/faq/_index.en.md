@@ -119,13 +119,13 @@ Furthermore, there are other Matrix-Clients, that can handle more Matrix-Account
 
 ***
 #### I can no longer see profile/room pictures or other pictures. {#relogin}
-Due to an update on the Matrix server (28.03.2021), clients that have been logged in since then can no longer find media files. To solve this problem, it is necessary to log off and log on again. **Attention: So that you do not lose any of your messages you should follow the procedure below.** If multiple clients are affected, the procedure should be performed one after each other and not in parallel.
+Due to an update on the Matrix server (28.03.2021), clients that have been logged in since then can no longer find media files. To solve this problem, it is necessary to log off and log on again. **Attention: So that you do not loose any of your messages you should follow the procedure below.** If multiple clients are affected, the procedure should be performed one after each other and not in parallel.
 
 <ul type="1">
-  <li>Make sure you have fulfilled at least one following prerequisites:</li>
+  <li>Make sure you have fulfilled at least one of the following prerequisites:</li>
   <ol type="a">
     <li>... an additional verified session (e.g. with the smartphone) is active and usable</li>
-    <li>... the <a href="{{< relref "settings/#secure-backup" >}} ">Secure Backup</a> is set up and the securityphrase or -key is present</li>
+    <li>... the <a href="{{< relref "settings/#secure-backup" >}} ">Secure Backup</a> is set up and the security phrase or the security key are present</li>
     <li>... you have exportet your room keys</li>
   </ol>
   <li>Log off and log on again within the client and use as Matrix <strong>homeserver</strong>: "<strong>tu-dresden.de</strong>"</li>
@@ -139,3 +139,4 @@ Due to an update on the Matrix server (28.03.2021), clients that have been logge
 **Annotations:**
 * Losing the room keys will result in the loss of your messages, as they can only be read by you and your communication participants. No admin can help with that.
 * Because of the new session, a red warning sign is subsequently displayed for all your previous messages. This is not an error, but just a little too dramatic information setting (further information can be found here: [external link](https://github.com/vector-im/element-web/issues/13701))
+* If you only use Matrix on one device and you do not have access to your security phrase or security key you have to follow route c) to not loose your encrypted messages.
