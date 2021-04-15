@@ -112,19 +112,19 @@ Darüber hinaus gibt es andere Matrix-Clients, die mehrere Matrix-Konten verwalt
 
 ***
 #### Ich kann keine Profil-/Raumbilder oder gesendete Bilder mehr sehen. {#relogin}
-Aufgrund einer Aktualisierung am Matrix Server (28.03.2021) finden Clients die seitdem angemeldet sind keine Mediendateien mehr. Um dieses Problem zu lösen, ist ein Ab- und erneutes Anmelden notwendig. **Damit Sie keine Ihrer Nachrichten verlieren sollten Sie folgendes Vorgehen beachten.** Sind mehrere Clients betroffen, so sollten die Prozedur nacheinander pro Client durchgeführt werden und nicht parallel.
+Aufgrund einer Aktualisierung am Matrix Server (28.03.2021) finden Clients, die seitdem angemeldet sind, keine Mediendateien mehr. Um dieses Problem zu lösen, ist ein Ab- und erneutes Anmelden notwendig. **Damit Sie keine Ihrer Nachrichten verlieren sollten Sie folgendes Vorgehen beachten:** Sind mehrere Clients betroffen, so sollte die Prozedur nacheinander pro Client durchgeführt werden und nicht parallel.
 
 <ul type="1">
   <li>Stellen Sie sicher, dass Sie mindestens einen Punkt erfüllt haben:</li>
   <ol type="a">
     <li>... eine zusätzliche verifizierte Sitzung (z.B. mit dem Smartphone) ist aktiv und benutzbar</li>
-    <li>... die <a href="{{< relref "settings/#schlüsselsicherung" >}}">Schlüsselsicherung</a> ist eingerichtet und die Sicherheitsphrase oder -schlüssel ist vorhanden</li>
+    <li>... die <a href="{{< relref "settings/#schlüsselsicherung" >}}">Schlüsselsicherung</a> ist eingerichtet und die Sicherheitsphrase oder der Sicherheitsschlüssel ist vorhanden</li>
     <li>... die Raumschlüssel sind exportiert wurden</li>
   </ol>
   <li>Melden Sie sich im Client ab und erneut an und verwenden Sie als <strong>Heimserver:</strong> "<strong>tu-dresden.de</strong>"</li>
   <li>Stellen Sie Ihre Nachrichten wieder her:</li>
   <ol type="a">
-    <li>... Verifizieren die neuen Sitzung in der zusätzlichen aktiven Sitzung, um den Schlüsselaustausch zwischen diesen Sitzungen zu starten</li>
+    <li>... Verifizieren Sie die neue Sitzung in einer zusätzlichen aktiven Sitzung (z.B. mit dem Smartphone), um den Schlüsselaustausch zwischen diesen Sitzungen zu starten</li>
     <li>... Verbinden Sie sich mit der Schlüsselsicherung, um Ihre Nachrichtenschlüssel zurück zu erhalten</li>
     <li>... Importieren Sie die Raumschlüssel und richten Sie die <a href="{{< relref "settings/#schlüsselsicherung" >}}">Schlüsselsicherung</a> ein</li>
   </ol>
@@ -133,3 +133,4 @@ Aufgrund einer Aktualisierung am Matrix Server (28.03.2021) finden Clients die s
 * **Anmerkungen:**
   * Das Verlieren der Raumschlüssel führt zum Verlust Ihrer Nachrichten, da diese nur für Sie und ihre Kommunikationsteilnehmer:innen lesbar sind. Da kann kein Admin helfen.
   * Aufgrund der neuen Sitzung wird anschließend bei allen Ihrer früheren Nachrichten ein rotes Warnschild anzeigt. Das ist kein Fehler, sondern nur eine etwas zu dramatisch eingestellte Information (Diskussionen diesbzgl. gibt es hier: [externer Link](https://github.com/vector-im/element-web/issues/13701))
+  * Sollten Sie Matrix nur auf einem Gerät nutzen und derzeit keinen Zugriff auf Ihre schon eingerichtete Schlüsselsicherung haben (also die Sicherheitsphrase oder den Sicherheitsschlüssel nicht finden, dann müssen Sie Option c) folgen um keinen Verlust Ihrer verschlüsselten Nachrichten zu erfahren)
