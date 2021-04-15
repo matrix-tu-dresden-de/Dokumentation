@@ -157,7 +157,11 @@ Für die zivilgesellschaftliche Nutzung des Protokolls Matrix gibt es hier eine 
 [https://publiclist.anchel.nl/](https://publiclist.anchel.nl/)
 [https://fediverse.blog/~/FossMessenger/matrix-server](https://fediverse.blog/~/FossMessenger/matrix-server)
 
+## Datenschutzerklärung
+
 Datenschutzerklärung: [Link]({{< relref "privacy/_index.md" >}})
+
+## Impressum
 
 Impressum: [Link]({{< relref "imprint/_index.md" >}})
 

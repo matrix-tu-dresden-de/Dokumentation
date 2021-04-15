@@ -158,3 +158,12 @@ For civil use of the Matrix protocol, here is a list of public home servers that
 [https://www.hello-matrix.net/public_servers.php](https://www.hello-matrix.net/public_servers.php)
 [https://publiclist.anchel.nl/](https://publiclist.anchel.nl/)
 [https://fediverse.blog/~/FossMessenger/matrix-server](https://fediverse.blog/~/FossMessenger/matrix-server)
+
+
+## Privacy policy
+
+Privacy policy: [Link]({{< relref "privacy/_index.en.md" >}})
+
+## Imprint
+
+Imprint: [Link]({{< relref "imprint/_index.en.md" >}})
