@@ -47,7 +47,7 @@ Analog zu E-Mail-Adressen ergeben sich damit Matrix-Adressen folgender Struktur:
 
 ![Loginfenster mit Aufforderung ZIH Login und Passwort einzugeben](/images/04_Username_de.png)
 
-### Bequemes Nutzen der Ende-zu-Ende-Verschlüsselung (E2EE)
+## Bequemes Nutzen der Ende-zu-Ende-Verschlüsselung (E2EE)
 
 Matrix verschlüsselt nicht nur die Transporte von und zu dem Heimserver (im Rechenzentrum der TU Dresden) sondern erlaubt auch die Nutzung von Ende-zu-Ende-Verschlüsselung (E2EE). Hierzu müssen kryptografische Schlüssel zwischen allen Geräten ausgetauscht werden, die sich Ende-zu-Ende-verschlüsselt schreiben möchten. Obwohl diese technische Notwendigkeit kompliziert klingt und im Hintergrund auch ist, ist sie inzwischen für die Anwendenden sehr bequem geworden. Die vielen kryptografischen Schlüssel werden vom Client erstellt auf dem jeweiligen Gerät gespeichert. Sollte dies bspw. ein Tab in einem Browser sein, besteht die Gefahr, dass dieser Tab einmal unbeabsichtigt geschlossen wird. Dann sind alle verschlüsselten Inhalte nicht mehr lesbar. Damit dies nicht geschieht, wird eine Schlüsselsicherung auf dem Heimserver der TU Dresden angeboten, auf der (mit einer Sicherheitsphrase (bzw. daraus errechenbaren Sicherheitsschlüssel) geschützt) alle kryptografischen Schlüssel verschlüsselt abgelegt sind.
 
@@ -63,7 +63,7 @@ Alternativ können Sie sich statt der Sicherheitsphrase auch einen Sicherheitssc
 [Weitere wichtige Einstellungen]({{< relref "settings/_index.md" >}}) können Ihr Matrix-Erlebnis verbessern!
 
 
-### Aufforderungen zum Einrichten der Schlüsselsicherung
+## Aufforderungen zum Einrichten der Schlüsselsicherung
 
 ![Screenshot der Aufforderung eine Sicherheitsphrase einzugeben](/images/01_Restore-Session_de.png)
 
@@ -153,8 +153,11 @@ Kartendarstellung der Hochschulen und Universitäten mit einem Matrix-Dienst:
 <object data="/images/federation_map.svg" type="image/svg+xml" style="width: 600px; max-width: 100%"></object>
 
 Für die zivilgesellschaftliche Nutzung des Protokolls Matrix gibt es hier eine Liste an öffentlichen Heimservern, die auch von Kolleg:innen genutzt werden können, falls ihre Institution noch keinen Matrix-Server anbietet:
+
 [https://www.hello-matrix.net/public_servers.php](https://www.hello-matrix.net/public_servers.php)
+
 [https://publiclist.anchel.nl/](https://publiclist.anchel.nl/)
+
 [https://fediverse.blog/~/FossMessenger/matrix-server](https://fediverse.blog/~/FossMessenger/matrix-server)
 
 ## Datenschutzerklärung

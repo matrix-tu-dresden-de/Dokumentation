@@ -49,7 +49,7 @@ Analogous to e-mail addresses, this results in matrix addresses with the followi
 
 ![Login window with request to enter ZIH login and password](/images/04_Username_en.png)
 
-### Convenient use of end-to-end encryption (E2EE)
+## Convenient use of end-to-end encryption (E2EE)
 
 Matrix not only encrypts transports to and from the home server (in the data center of TU Dresden) but also allows the use of end-to-end encryption (E2EE). For this, cryptographic keys have to be exchanged between all devices that want to write end-to-end encrypted. This technical necessity sounds and is complicated, but in the meantime it has become very convenient for the users. The many cryptographic keys created by the client are stored on the respective device. If this is a tab in a browser, for example, there is a risk that this tab will be closed unintentionally. Then all encrypted contents are no longer readable. To prevent this from happening, a key protection is offered on the home server of the TU Dresden, on which (protected with a security phrase (or security key that can be calculated from it) all cryptographic keys are stored encrypted. 
    
@@ -65,7 +65,7 @@ Alternatively, instead of the security phrase, you can also have a security key 
 [Other important settings]({{< relref "settings/_index.en.md" >}}) may improve your Matrix experience!
 
 
-### Requests to setup the key backup
+## Requests to setup the key backup
 
 ![Screenshot of the prompt to enter a security phrase](/images/01_Restore-Session_en.png)
 
@@ -156,7 +156,9 @@ Weitere europäische Hochschulen:
 
 For civil use of the Matrix protocol, here is a list of public home servers that can also be used by Kolleg:innen if their institution does not yet offer a Matrix server:
 [https://www.hello-matrix.net/public_servers.php](https://www.hello-matrix.net/public_servers.php)
+
 [https://publiclist.anchel.nl/](https://publiclist.anchel.nl/)
+
 [https://fediverse.blog/~/FossMessenger/matrix-server](https://fediverse.blog/~/FossMessenger/matrix-server)
 
 
