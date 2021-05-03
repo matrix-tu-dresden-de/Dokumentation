@@ -8,6 +8,8 @@ weight: 2
 
 # First steps - How to use Matrix?
 
+## Matrix-Login with ZIH account
+
 Members and members of the TU Dresden (of course also students) can use their **ZIH login** to communicate with members of the TU Dresden and other universities and other Matrix users (e.g. academic partners) via chat and audio/video telephony in compliance with the relevant legal and regulatory provisions on data protection and IT security.
 communicate.
 
@@ -52,13 +54,23 @@ Analogous to e-mail addresses, this results in matrix addresses with the followi
 Matrix not only encrypts transports to and from the home server (in the data center of TU Dresden) but also allows the use of end-to-end encryption (E2EE). For this, cryptographic keys have to be exchanged between all devices that want to write end-to-end encrypted. This technical necessity sounds and is complicated, but in the meantime it has become very convenient for the users. The many cryptographic keys created by the client are stored on the respective device. If this is a tab in a browser, for example, there is a risk that this tab will be closed unintentionally. Then all encrypted contents are no longer readable. To prevent this from happening, a key protection is offered on the home server of the TU Dresden, on which (protected with a security phrase (or security key that can be calculated from it) all cryptographic keys are stored encrypted. 
    
 {{% notice info %}}
-It is highly recommended to use this key backup (with a secure security phrase which is NOT your ZIH password) and read on at [Other important settings]({{< relref "settings/_index.en.md" >}})!
+It is highly recommended to use this key backup (with a secure security phrase which is NOT your ZIH password)!
 {{% /notice %}}
    
+![Prompt to generate the security key or enter a security phrase](/images/11_Setup-Key_en.png)
+![Prompt to enter a password for the key backup](/images/12_Enter-Key_en.png)
+Alternatively, instead of the security phrase, you can also have a security key generated that serves the same purpose as the security phrase. Furthermore, the security key is generated in addition to the security phrase and should be kept safe and retrievable as an emergency key (e.g. save it as .txt file AND print it out) 
+![Display of the security key to write or save away](/images/13_Present-Key_en.png) 
+
+[Other important settings]({{< relref "settings/_index.en.md" >}}) may improve your Matrix experience!
+
+
+## Requests to setup the key backup
+
 ![Screenshot of the prompt to enter a security phrase](/images/01_Restore-Session_en.png)
 
-If you skip this now, the next screen would look like this:
-   
+If you skipped the request to setup the key backup, the next screen would look like this:
+
 ![Confirmation of skipping the input of a security phrase](/images/03_Cancel-Restore_en.png)
 
 Key protection is highly recommended for worry-free end-to-end encryption. For this reason, a smaller tooltip will prompt you to set up the encryption even after you skip further:
@@ -69,9 +81,9 @@ If you omit this here as well, you will get a last warning if you log off consci
    
 ![Query if messages should be encrypted](/images/05_Logout-Notify_en.png)
 
-## Webclient
+Avoid this situation by setting up a key backup!
 
-For using the Webclient, see the manuel under [clients -> browser]({{< relref "clients/browser.en.md" >}})
+## Matrix-Login without ZIH account
 
 A registration of accounts (as known from other matrix servers) is not possible here at the TU Dresden, because only persons with ZIH login can use the service. The TU Dresden is not a communication service provider. 
 
@@ -138,7 +150,22 @@ Weitere europäische Hochschulen:
 
 * [University for Business and Technology, Kosovo](https://ubt-uni.net/)
 
-A map displaying these listed servers is shown at ["Why Matrix?"]({{< ref "why"  >}} "Why Matrix?").
+
+<object data="/images/federation_map.svg" type="image/svg+xml" style="width: 600px; max-width: 100%"></object>
+
 
 For civil use of the Matrix protocol, here is a list of public home servers that can also be used by Kolleg:innen if their institution does not yet offer a Matrix server:
 [https://www.hello-matrix.net/public_servers.php](https://www.hello-matrix.net/public_servers.php)
+
+[https://publiclist.anchel.nl/](https://publiclist.anchel.nl/)
+
+[https://fediverse.blog/~/FossMessenger/matrix-server](https://fediverse.blog/~/FossMessenger/matrix-server)
+
+
+## Privacy policy
+
+Privacy policy: [Link]({{< relref "privacy/_index.en.md" >}})
+
+## Imprint
+
+Imprint: [Link]({{< relref "imprint/_index.en.md" >}})

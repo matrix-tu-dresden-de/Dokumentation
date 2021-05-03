@@ -23,6 +23,7 @@ Dies ist eine Zusammenstellung häufiger Fragen und deren Antworten. Teilweise s
 * [Wie viele Personen können gleichzeitig in einen Raum eingeladen werden? Kann ich Personen über ihre E-Mail-Adressen einladen?](#how-many-invites-can-i-do)
 * [Kann ich die Beitrittsrechte aller Räume meiner Community so anpassen, dass nur Mitglieder der Community Zutritt haben?](#roompermissions-in-communities)
 * [Kann ich mit Element mehrere Matrix-Accounts verwalten (Multi-Account-Client)?](#multiple-accounts-element)
+* [Ich kann keine Profil-/Raumbilder oder gesendete Bilder mehr sehen.](#relogin)
 
 ***
 #### Nachrichten nicht lesbar{#unable-to-decrypt}
@@ -108,3 +109,28 @@ element-desktop --profile PROFILNAME
 So lassen sich mehrere Starter im Autostart platzieren, die dann verschiedene Profilnamen haben, z.B. --profile TUD und --profile Privat. Beide geöffneten Fenster haben leider gleichaussehende Icons im Indicator-Applet. Hierfür gibt es aber sicher auch bald eine Lösung...
 
 Darüber hinaus gibt es andere Matrix-Clients, die mehrere Matrix-Konten verwalten können, u.a. [weechat](https://matrix.org/docs/projects/client/weechat-matrix), [Spectral](https://matrix.org/docs/projects/client/spectral), [Quaternion](https://matrix.org/docs/projects/client/quaternion) oder [Mirage](https://matrix.org/docs/projects/client/mirage).
+
+***
+#### Ich kann keine Profil-/Raumbilder oder gesendete Bilder mehr sehen. {#relogin}
+Aufgrund einer Aktualisierung am Matrix Server (28.03.2021) finden Clients, die seitdem angemeldet sind, keine Mediendateien mehr. Um dieses Problem zu lösen, ist ein Ab- und erneutes Anmelden notwendig. **Damit Sie keine Ihrer Nachrichten verlieren sollten Sie folgendes Vorgehen beachten:** Sind mehrere Clients betroffen, so sollte die Prozedur nacheinander pro Client durchgeführt werden und nicht parallel.
+
+<ul type="1">
+  <li>Stellen Sie sicher, dass Sie mindestens einen Punkt erfüllt haben:</li>
+  <ol type="a">
+    <li>... eine zusätzliche verifizierte Sitzung (z.B. mit dem Smartphone) ist aktiv und benutzbar</li>
+    <li>... die <a href="{{< relref "settings/#schlüsselsicherung" >}}">Schlüsselsicherung</a> ist eingerichtet und die Sicherheitsphrase oder der Sicherheitsschlüssel ist vorhanden</li>
+    <li>... die Raumschlüssel sind exportiert wurden</li>
+  </ol>
+  <li>Melden Sie sich im Client ab und erneut an und verwenden Sie als <strong>Heimserver:</strong> "<strong>tu-dresden.de</strong>"</li>
+  <li>Stellen Sie Ihre Nachrichten wieder her:</li>
+  <ol type="a">
+    <li>... Verifizieren Sie die neue Sitzung in einer zusätzlichen aktiven Sitzung (z.B. mit dem Smartphone), um den Schlüsselaustausch zwischen diesen Sitzungen zu starten</li>
+    <li>... Verbinden Sie sich mit der Schlüsselsicherung, um Ihre Nachrichtenschlüssel zurück zu erhalten</li>
+    <li>... Importieren Sie die Raumschlüssel und richten Sie die <a href="{{< relref "settings/#schlüsselsicherung" >}}">Schlüsselsicherung</a> ein</li>
+  </ol>
+</ul>
+
+* **Anmerkungen:**
+  * Das Verlieren der Raumschlüssel führt zum Verlust Ihrer Nachrichten, da diese nur für Sie und ihre Kommunikationsteilnehmer:innen lesbar sind. Da kann kein Admin helfen.
+  * Aufgrund der neuen Sitzung wird anschließend bei allen Ihrer früheren Nachrichten ein rotes Warnschild anzeigt. Das ist kein Fehler, sondern nur eine etwas zu dramatisch eingestellte Information (Diskussionen diesbzgl. gibt es hier: [externer Link](https://github.com/vector-im/element-web/issues/13701))
+  * Sollten Sie Matrix nur auf einem Gerät nutzen und derzeit keinen Zugriff auf Ihre schon eingerichtete Schlüsselsicherung haben (also die Sicherheitsphrase oder den Sicherheitsschlüssel nicht finden, dann müssen Sie Option c) folgen um keinen Verlust Ihrer verschlüsselten Nachrichten zu erfahren)
