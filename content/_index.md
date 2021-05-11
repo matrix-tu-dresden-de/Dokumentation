@@ -13,15 +13,17 @@ Matrix ist ein freies und offenes, sicheres, dezentralisiertes Protokoll für Ec
 
 <object data="/images/matrix_interactive.svg" type="image/svg+xml" style="width: 1280px; max-width: 100%"></object>
 
-<img>
+<img id="image-id">
+<script>
 var cssSelector = "#image-id";
 var imageFolderPath = "/images/statements";
-var imageCount = 10;
+var imageCount = 19;
 var displayTime = 30000; //in ms
 document.querySelector(cssSelector).src = imageFolderPath+"/"+Math.floor(Math.random() * imageCount)+".jpg";
 setInterval(() => {
     document.querySelector(cssSelector).src = imageFolderPath+"/"+Math.floor(Math.random() * imageCount)+".jpg";
 }, displayTime);
+</script>
 
 Zur Zusammenarbeit in Teams stieg in den letzten Jahren der Bedarf an unterstützenden digitalen Werkzeugen (engl. *tool*). Ein zentrales Werkzeug ist dabei ein Team-Chat. Ein Chat bezeichnet, laut Wikipedia, „die elektronische Kommunikation mittels geschriebenem Text in Echtzeit, meist über das Internet“ ([Quelle](https://de.wikipedia.org/wiki/Chat)). Die dazugehörige Handlung nennt man „*chatten*“. Mit einem Chattool (manchmal auch Messenger genannt) können sich Teammitglieder gegenseitig auf aktuelle Informationen aufmerksam machen und insb. Verknüpfungen (*Hyperlinks* / *Links*) zur weitergehenden Zusammenarbeit teilen (bspw. zur Terminfindung, zum kollaborativen Schreiben, zum Planen von Events, zum Bearbeiten von Daten, Code, Mindmaps oder Prozessen). Viele Teams an der TU Dresden haben sich aufgrund des bisher fehlenden zentralen Angebots eigene Lösungen gesucht, die zum Teil datenschutzbedenklich sind oder nicht mit anderen Systemen verknüpfbar sind.
 
