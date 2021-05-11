@@ -13,7 +13,7 @@ Matrix ist ein freies und offenes, sicheres, dezentralisiertes Protokoll für Ec
 
 <object data="/images/matrix_interactive.svg" type="image/svg+xml" style="width: 1280px; max-width: 100%"></object>
 
-<img id="image-id">
+<img id="image-id" style="width:32cm; margin-left:0;">
 <script>
 var cssSelector = "#image-id";
 var imageFolderPath = "/images/statements";
