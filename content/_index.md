@@ -17,7 +17,7 @@ Zur Zusammenarbeit in Teams stieg in den letzten Jahren der Bedarf an unterstüt
 
 Zur Deckung des Bedarfes an Echtzeitkommunikation wurde daher Ende 2018, nach vergleichender Analyse mehrerer potentieller Lösungsoptionen, innerhalb der TU Dresden das offene Kommunikationsprotokoll Matrix in einem Pilotbetrieb eingeführt und im April 2019 im CIO präsentiert. Im Herbst 2019 wurde der Pilotbetrieb in den Regelbetrieb überführt. U.a. in der [digitalen](https://invidious.13ad.de/AtkA-sE-9uU) [Lehre](https://invidious.13ad.de/jEvKdFTKSxU) (Videos von Prof. Lasch) findet Matrix als Ergänzung zu [OPAL](https://bildungsportal.sachsen.de/opal) Anwendung.
 
-<img id="image-id" style="width=60%; margin-left:0;">
+<img id="image-id" style="width: 1280px; max-width: 100%; margin-left:0;">
 <script>
 var cssSelector = "#image-id";
 var imageFolderPath = "/images/statements";
