@@ -1,0 +1,41 @@
+---
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+stages:
+  - build
+  - deploy
+
+build-dev:
+  stage: build
+  only:
+    - dev
+  script:
+    - hugo --minify --baseUrl $HUGO_DEV_BASE_URL --buildDrafts --buildFuture
+  artifacts:
+    paths:
+      - public
+
+deploy-dev:
+  stage: deploy
+  only:
+    - dev
+  script:
+    - rsync -avz --delete public/ $HUGO_DEPLOY_DEV_RSYNC_DEST
+
+build-prod:
+  stage: build
+  only:
+    - main
+  script:
+    - hugo --minify --buildDrafts --buildFuture
+  artifacts:
+    paths:
+      - public
+
+deploy-prod:
+  stage: deploy
+  only:
+    - main
+  script:
+    - rsync -avz --delete public/ $HUGO_DEPLOY_PROD_RSYNC_DEST
