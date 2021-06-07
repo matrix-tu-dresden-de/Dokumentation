@@ -4,9 +4,6 @@ date: 2020-08-02T21:26:25+02:00
 chapter: false
 draft: false
 ---
-{{% notice info %}}
-Der Matrix Server der TU Dresden wurde aktualisiert (28.03.2021). Falls Sie keine Profil-/Raumbilder oder andere gesendete Medien sehen können, so befolgen Sie bitte folgende Hinweise: [Client neu anmelden]({{< relref "faq/#relogin" >}})
-{{% /notice %}}
 
 ## Matrix an der TU Dresden
 Matrix ist ein freies und offenes, sicheres, dezentralisiertes Protokoll für Echtzeit-Kommunikation, das auch unter dem Namen eines seiner nutzenden Programme, Element, bekannt ist.
