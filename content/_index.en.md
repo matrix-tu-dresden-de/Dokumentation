@@ -4,10 +4,6 @@ date: 2020-08-02T21:26:25+02:00
 chapter: false
 draft: false
 ---
-{{% notice info %}}
-The Matrix Server of TU Dresden has been updated (28.03.2021). If you cannot see profile/room pictures or other sent media, please follow these instructions: [Relogin your Client]({{< relref "faq/#relogin" >}})
-{{% /notice %}}
-
 ## Matrix at TU Dresden
 Matrix is a free and open, secure, decentralized protocol for real-time communication, also known by the name of one of its clients, Element.
 
