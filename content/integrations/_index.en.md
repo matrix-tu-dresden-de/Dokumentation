@@ -49,6 +49,13 @@ For this purpose, a name must be assigned which must have less than 16 character
 {{% /notice %}}
 Etherpads have no user rights management, everyone can write and overwrite other texts (caution!). If user management is needed, better use [Nextcloud Text](https://github.com/nextcloud/text) (contact TUD cloudstore) or [CodiMD](https://md.inf.tu-dresden.de/)
 
+
+## Element Matrix Services (EMS) offers Bridge for Microsoft Teams
+
+To bringt together users from Element & MS Teams EMS offers a MS Teams Bridge, which you have to pay for:
+[https://element.io/blog/ems-launches-bridging-for-microsoft-teams/](https://element.io/blog/ems-launches-bridging-for-microsoft-teams/) and [https://element.io/blog/microsoft-teams-and-slack-integration-using-matrix/](https://element.io/blog/ems-launches-bridging-for-microsoft-teams/).
+
+
 ## Custom widget
 
 Any Internet pages can be integrated. For example [CodiMD](https://md.inf.tu-dresden.de/) to display LaTeX formulas.
