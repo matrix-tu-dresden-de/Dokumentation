@@ -8,7 +8,7 @@ weight: 80
 
 # Integrations, Bridges, Bots nutzen (u.a. Jitsi)
 
-Über die Rauminformationen oben rechts können Integrations / Widgets verwaltet werden.
+Über die Rauminformationen oben rechts können [Integrations]/(https://matrix.org/docs/guides/types-of-bridging) / Widgets verwaltet werden.
 
 ![Integration hinzufügen button](/images/01_Widgets_de.png)
 
@@ -48,6 +48,11 @@ Zum kollaborativen Schreiben oder Anheften von wichtigen Informationen an einen 
 Hierzu ist ein Name zu vergeben, der weniger als 16 Zeichen haben muss!
 {{% /notice %}}
 Etherpads haben kein Benutzerrechtemanagement, alle können schreiben und andere Texte überschreiben (Vorsicht!). Falls Benutzermanagement benötigt wird besser [Nextcloud Text](https://github.com/nextcloud/text) (Forderung an TUD cloudstore richten) oder [CodiMD](https://md.inf.tu-dresden.de/) nutzen
+
+## Element Matrix Services (EMS) bieten Bridge für Microsoft Teams an
+
+Um Benutzende von Element und MS Teams zusammenzubringen bietet EMS eine MS Teams Bridge an, die allerdings kostenpflichtig ist:
+[https://element.io/blog/ems-launches-bridging-for-microsoft-teams/](https://element.io/blog/ems-launches-bridging-for-microsoft-teams/) und [https://element.io/blog/microsoft-teams-and-slack-integration-using-matrix/](https://element.io/blog/ems-launches-bridging-for-microsoft-teams/).
 
 ## Custom Widget
 
