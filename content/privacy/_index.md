@@ -83,7 +83,7 @@ Einschränkung der Verarbeitung zu verlangen.
 <u>Recht auf Datenübertragbarkeit (Art. 20 DSGVO)</u>
 
 Die Betroffenen können verlangen, dass der Verantwortliche ihnen ihre
-personenbezogenen Daten maschinenlesbaren Format übermittelt.
+personenbezogenen Daten maschinenlesbaren in Format übermittelt.
 
 <u>Beschwerderecht (Art. 77 DSGVO)</u>
 
