@@ -9,3 +9,5 @@ weight: 200
 
 ***
 #### Introduction of Spaces {#spaces}
+
+Mit den aktuellsten Element-Clients kann man Beta-Tests der Spaces durchführen. Diese sind im Client (Beta!) zu aktivieren.
