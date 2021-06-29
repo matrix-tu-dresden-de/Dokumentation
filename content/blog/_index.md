@@ -10,4 +10,4 @@ weight: 200
 ***
 #### Spaces{#spaces}
 
-Mit den aktuellsten Element-Clients kann man Beta-Tests der Spaces durchführen.
+Mit den aktuellsten Element-Clients kann man Beta-Tests der Spaces durchführen. Diese sind im Client zu aktivieren.
