@@ -17,6 +17,7 @@ Diese Erklärung wurde am 05.09.2020 erstellt und zuletzt am 05.09.2020 aktualis
 
 ## Stand der Barrierefreiheit
 Es wurde bisher noch kein BITV-Test für die Webapplikation Element durchgeführt.
+[Erfahrungsbericht einer blinden Person zur Nutzung von Matrix mittels diverser Element-Clients.](https://www.marcos-leben.de/element-und-matrix-mit-einem-screen-reader-verwenden/)
 
 ## Nicht barrierefreie Inhalte 
 * Die Anmeldeseite weist zu niedrige Kontraste auf.
