@@ -28,7 +28,7 @@ Mit den aktuellsten Element-Clients kann man Beta-Tests der Spaces durchführen.
 
 #### 16.08.2021 Sprachnachrichten in Matrix/Element {#sprachnachrichten}
 
-Seit Element-Version 1.8 sind Sprachnachrichten leicht einsprech- und absendbar.
+Seit Element-Version 1.8 sind [Sprachnachrichten](https://element.io/blog/introducing-voice-messages-and-so-much-more/) leicht einsprech- und absendbar.
 
 ![Sprachnachrichten](https://element.io/blog/content/images/2021/08/output-1.gif)
 
@@ -87,7 +87,7 @@ Uns bekannte Hochschulen und Universitäten mit einem Matrix-Dienst:
 
 Eine interaktive svg gibt einen Überblick über die Funktionalität und das Aussehen von Matrix/Element auf der Startseite der Dokumentation. Die Download-Links für Element sind so auch schnell erreichbar:
 
-<object data="/images/matrix_interactive.svg" type="image/svg+xml" style="width: 1280px; max-width: 100%"></object>
+<object data="/images/matrix_interactive.svg" type="image/svg+xml" style="width: 1280px; max-width: 100%; align: center"></object>
 
 
 
