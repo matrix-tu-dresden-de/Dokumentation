@@ -28,11 +28,9 @@ Mit den aktuellsten Element-Clients kann man Beta-Tests der Spaces durchführen.
 
 #### 16.08.2021 Sprachnachrichten in Matrix/Element {#sprachnachrichten}
 
+Seit Element-Version 1.8 sind Sprachnachrichten leicht einsprech- und absendbar.
 
-
-
-
-
+![Sprachnachrichten](https://element.io/blog/content/images/2021/08/output-1.gif)
 
 
 #### 13.06.2021 TU Dresden hat mehr als 20.000 Matrix User {#20000}
