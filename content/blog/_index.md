@@ -79,22 +79,34 @@ Die Veröffentlichung der zweisprachigen [Matrix Dokumentation auf GitHub](https
 
 #### 22.01.2021 Instanzkarte
 
+Uns bekannte Hochschulen und Universitäten mit einem Matrix-Dienst:
+
 <object data="/images/federation_map.svg" type="image/svg+xml" style="width: 600px; max-width: 100%"></object>
 
 
 
+#### 15.01.2021 Instanzkarte
 
-Interaktive SVG
+Eine interaktive svg gibt einen Überblick über die Funktionalität und das Aussehen von Matrix/Element auf der Startseite der Dokumentation. Die Download-Links für Element sind so auch schnell erreichbar:
 
-
-
-Aus Riot wird Element
-
+<object data="/images/matrix_interactive.svg" type="image/svg+xml" style="width: 1280px; max-width: 100%"></object>
 
 
-Cross-Signing
+
+#### 07/2020 Aus Riot wird Element
+
+[1] https://element.io/blog/welcome-to-element/
+[2] https://element.io/previously-riot
+
+
+
+#### 07.05.2020 Cross-Signing
 
 https://jochen-plikat.com/2020/05/07/riot-cross-signing/
+
+
+
+
 
 #### 04/2020 - Einführung von worker
 
