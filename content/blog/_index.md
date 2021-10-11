@@ -53,16 +53,9 @@ Durch eine Aktualisierung am Matrix Server haben sich die Orte für Mediendateie
 
 #### 22.01.2021 Beitrag bei *This Week in Matrix (TWIM)*
 
-Die Veröffentlichung der [Matrix Dokumentation auf GitHub](https://github.com/matrix-tu-dresden-de/Dokumentation) sowie die [Instanzkarte deutscher Hochschulen](https://doc.matrix.tu-dresden.de/why/) führten zu einer Einladung zu einem [Interview für *This Week in Matrix (TWIM)*](https://matrix.org/blog/2021/01/22/this-week-in-matrix-2021-01-22#superb-documentation-from-tu-dresden-as-they-roll-out-their-deployment). Hier stellten Marvin Dropp und Christian Bruchatz die Doku sowie die interaktive SVG der Instanzkarte vor und berichteten von den Matrix-Entwicklungen an der TU Dresden.
+Die Veröffentlichung der zweisprachigen [Matrix Dokumentation auf GitHub](https://github.com/matrix-tu-dresden-de/Dokumentation) sowie die [Instanzkarte deutscher Hochschulen](https://doc.matrix.tu-dresden.de/why/) führten zu einer Einladung zu einem [Interview für *This Week in Matrix (TWIM)*](https://matrix.org/blog/2021/01/22/this-week-in-matrix-2021-01-22#superb-documentation-from-tu-dresden-as-they-roll-out-their-deployment). Hier stellten Marvin Dropp und Christian Bruchatz die Doku sowie die interaktive SVG der Instanzkarte vor und berichteten von den Matrix-Entwicklungen an der TU Dresden.
 
 ![TWIM-Interview 22.01.2021](/images/blog/04_TWIM-2021-01-22.png)
-
-![TWIM-Interview 22.01.2021](/images/01_Find_de.png)
-
-
-We set up a bilingual (de, en) documentation for all of our university members, to help them get in touch with our matrix instance easily. This documentation is rich on screenshots, simple explanations and will be improved continuously.
-
-Also we mirroring the documentation to GitHub to provide access of our sources to everyone.
 
 
 
