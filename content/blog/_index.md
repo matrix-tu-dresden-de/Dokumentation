@@ -20,10 +20,9 @@ Mit den aktuellsten Element-Clients kann man Beta-Tests der Spaces durchführen.
 #### TU Dresden hat mehr als 20.000 Matrix User (#20000)
 
 
-#### 03/2021 Relogin
 
 
-Hochschulen-Artikel (Element), Uni Linz
+
 
 
 
@@ -43,7 +42,21 @@ Die Ausnutzung von synapse-worker durch Pull Request 456 versetzt andere große 
 
 
 
-#### 22.01.2021 Instanzkarte & Beitrag bei *This Week in Matrix (TWIM)*
+Hochschulen-Artikel (Element), Uni Linz
+
+
+
+#### 29.03.2021 Relogin
+
+
+
+
+
+
+
+
+
+#### 22.01.2021 Beitrag bei *This Week in Matrix (TWIM)*
 
 Die Veröffentlichung der [Matrix Dokumentation auf GitHub](https://github.com/matrix-tu-dresden-de/Dokumentation) sowie die [Instanzkarte deutscher Hochschulen](https://doc.matrix.tu-dresden.de/why/) führten zu einer Einladung zu einem [Interview für *This Week in Matrix (TWIM)*](https://matrix.org/blog/2021/01/22/this-week-in-matrix-2021-01-22#superb-documentation-from-tu-dresden-as-they-roll-out-their-deployment). Hier stellten Marvin Dropp und Christian Bruchatz die Doku sowie die interaktive SVG der Instanzkarte vor und berichteten von den Matrix-Entwicklungen an der TU Dresden.
 
@@ -51,11 +64,18 @@ Die Veröffentlichung der [Matrix Dokumentation auf GitHub](https://github.com/m
 
 
 
+We set up a bilingual (de, en) documentation for all of our university members, to help them get in touch with our matrix instance easily. This documentation is rich on screenshots, simple explanations and will be improved continuously.
+
+Also we mirroring the documentation to GitHub to provide access of our sources to everyone.
 
 
-#### 22.01.2021 Instanzkarte & Beitrag bei *This Week in Matrix (TWIM)*
+
+#### 22.01.2021 Instanzkarte
 
 <object data="/images/federation_map.svg" type="image/svg+xml" style="width: 600px; max-width: 100%"></object>
+
+
+
 
 Interaktive SVG
 
