@@ -20,9 +20,12 @@ Vielen Dank an [Jaiwanth Vemula von der IIT Kharagpur University in Indien](http
 
 #### 08.10.2021 Spaces {#spaces}
 
-Mit den aktuellsten Element-Clients kann man Beta-Tests der Spaces durchführen. Diese sind im Client (Beta!) zu aktivieren. 
+Spaces heißt die Möglichkeit, Räume zu gruppieren und auch anderen Personen Zugriff auf viele Räume zu geben, sie bspw. in einen Space einzuladen, statt sie in viele Räume einzuladen.
+Ideal für Studierende eines Jahrgangs, in deren Space sich alle Räume aller Lehrveranstaltungen befinden. Oder für Arbeitsgruppen, deren verschiedene Themenräume sich hier gebündelt vorfinden und neuen Teammitgliedern so schnell den Zugriff auf alle Räume bieten.
+Spaces lösen die bisherigen Communities als Raumfilter ab.
 
-
+https://element.io/blog/spaces-blast-out-of-beta/
+https://element.io/blog/spaces-the-next-frontier/
 
 
 
@@ -33,11 +36,25 @@ Seit Element-Version 1.8 sind [Sprachnachrichten](https://element.io/blog/introd
 ![Sprachnachrichten](https://element.io/blog/content/images/2021/08/output-1.gif)
 
 
+#### 27.07.2021 Deutsches Gesundheitswesen erhält Matrix Messenger
+
+Das Deutsche Gesundheitsministerium verkündet die Einführung von Matrix als Messaging-Standard für das deutsche Gesundheitswesen ab 2022. Die [Gematik](https://fachportal.gematik.de/anwendungen/ti-messenger) benennt für diese Wahl vor allem folgende Gründe:
+Das Open-Source-Messenger-Protokoll Matrix gewährleistet:
+- Interoperabilität - und somit den sektoren- und anbieterübergreifenden Austausch
+- Integrität dank hohem Out-of-the-box-Sicherheitsniveau,
+- Ende-zu-Ende-Verschlüsselung sowie
+- Innovation durch fortlaufende Weiterentwicklung.
+
+
+Hochschulen-Artikel (Element), Uni Linz
+
+
 #### 13.06.2021 TU Dresden hat mehr als 20.000 Matrix User {#20000}
 
 Inzwischen hat wohl schon mehr als die Hälfte der TU Dresden Angehörigen Matrix ausprobiert. 
 
 
+[![20.000 Matrix User @ TU Dresden](/images/blog/20210613_20000_Matrix_User.png)](https://doc.matrix.tu-dresden.de/Statistik/matrix-logins.html)
 
 
 
@@ -58,13 +75,15 @@ Die Ausnutzung von synapse-worker durch Pull Request 456 versetzt andere große 
 
 
 
-Hochschulen-Artikel (Element), Uni Linz
 
 
 
-#### 29.03.2021 Relogin
 
-Durch eine Aktualisierung am Matrix Server haben sich die Orte für Mediendateien verändert. Clients, die seit einem Zeitpunkt vor dem 28.03.2021 angemeldet sind, sehen Medien nicht mehr. Um dieses Problem zu lösen ist ein einmaliges Ab- und erneutes Anmelden nötig. Damit dabei keine früheren verschlüsselten Nachrichten unlesbar werden ist dringend auf die [in den FAQ beschriebene Prozedur]({{< relref "faq/_index.md" >}}) zu achten!
+
+
+#### 27.03.2021 Relogin
+
+Durch eine Aktualisierung am Matrix Server haben sich die Orte für Mediendateien verändert. Clients, die seit einem Zeitpunkt vor dem 28.03.2021 angemeldet sind, sehen Medien nicht mehr. Um dieses Problem zu lösen ist ein einmaliges Ab- und erneutes Anmelden nötig. Damit dabei keine früheren verschlüsselten Nachrichten unlesbar werden ist dringend auf die [in den FAQ beschriebene Prozedur]({{< relref "faq/_index.md" >}}) zu achten! Unsere großen Vorteile dadurch: Ab nun ist unser Matrix-Setup aber ein [MDAD](https://github.com/spantaleev/matrix-docker-ansible-deploy) mit automatischer Konfiguration der synapse worker und einer Verringerung der Angriffsgefahr durch Cross-Site Scripting (XSS).
 
 
 #### 22.01.2021 Beitrag bei *This Week in Matrix (TWIM)*
@@ -73,32 +92,34 @@ Die Veröffentlichung der zweisprachigen [Matrix Dokumentation auf GitHub](https
 
 [![TWIM-Interview 22.01.2021](/images/blog/04_TWIM-2021-01-22.png)](https://inv.13ad.de/watch?v=UHJX2pmT2gk)
 
-
-
 #### 22.01.2021 Instanzkarte
 
 Uns bekannte Hochschulen und Universitäten mit einem Matrix-Dienst:
 
 <object data="/images/federation_map.svg" type="image/svg+xml" style="width: 600px; max-width: 100%"></object>
 
-
-
 #### 15.01.2021 Instanzkarte
 
 Eine interaktive svg gibt einen Überblick über die Funktionalität und das Aussehen von Matrix/Element auf der Startseite der Dokumentation. Die Download-Links für Element sind so auch schnell erreichbar:
 
-<object data="/images/matrix_interactive.svg" type="image/svg+xml" style="width: 1280px; max-width: 100%; align: center"></object>
+<object data="/images/matrix_interactive.svg" type="image/svg+xml" style="width: 1280px; max-width: 100%"></object>
 
+#### 15.07.2020 Aus Riot wird Element
 
-
-#### 07/2020 Aus Riot wird Element
+Der weniger geeignete Name *Riot* für den Referent-Client wird ad acta gelegt und mit Element bereichert sich die Matrix-Namenswelt der Firma New Vector Ltd. wieder im mathematischen Milieu. Passend auch für eine Technische Universität.
 
 [1] https://element.io/blog/welcome-to-element/
 [2] https://element.io/previously-riot
 
 
+#### 01.07.2020 Intensivere Weiterentwicklung dank CIO-Unterstützung
+
+Bisher finanzierten verschiedene Stellen der TUD verschiedene studentische Hilfskräfte, die das Matrix Setup der TU Dresden pflegen und weiterentwickeln. Seit Juli sind nun auch Mittel des CIO im Einsatz, was dem ganzen Projekt einen deutlichen Schub gibt und neuen SHK-Administrator:innen die Möglichkeit gibt, der TU Dresden an der Verbesserung ihrer Kommunikationsinfrastrukturen zu helfen!
+
 
 #### 07.05.2020 Cross-Signing
+
+
 
 https://jochen-plikat.com/2020/05/07/riot-cross-signing/
 
@@ -106,9 +127,9 @@ https://jochen-plikat.com/2020/05/07/riot-cross-signing/
 
 
 
-#### 04/2020 - Einführung von worker
+#### 6.04.2020 - Einführung von synapse workers
 
-
+Wir nutzen [Matrix-Docker-Ansible-Deploy (MDAD)](https://github.com/spantaleev/matrix-docker-ansible-deploy), ein Geflecht von Ansible-Rollen für die verschiedenen Matrix-Dienste in Docker-Containern mit systemd-Steuerung. In diesem Framework ist ein Support für die experimentellen [synapse workers](https://github.com/matrix-org/synapse/blame/master/docs/workers.md) bisher noch von niemandem implementiert worden, es gibt dazu seit heute einen [Feature Request](https://github.com/spantaleev/matrix-docker-ansible-deploy/issues/221) von der TU Dresden. Diese Integration (also Anpassung der Ansible-Rollen) muss vorgenommen werden, so dass eine optimale Nutzung der Hardware (CPU-Kerne) gewährleistet und der TUD Matrix-Homeserver langfristig performant betrieben werden kann. Vielen Dank an Marcel Partap für die Arbeit an einem [Pull Request](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/456) und den parallelen manuellen Anpassungen hier an der TU Dresden, eine Entwicklung sozusagen am offenen Herzen...!
 
 
 #### 03/2020 - Stark ansteigende Nachfrage durch Corona {#firewall}
