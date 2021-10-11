@@ -56,34 +56,25 @@ Inzwischen hat wohl schon mehr als die Hälfte der TU Dresden Angehörigen Matri
 
 [![20.000 Matrix User @ TU Dresden](/images/blog/20210613_20000_Matrix_User.png)](https://doc.matrix.tu-dresden.de/Statistik/matrix-logins.html)
 
+#### 28.04.2021 Relogin
 
-
-
-Pull Request MDAD worker
-
-Erfolgreicher Beitrag an der Matrix-Entwicklung durch die TU Dresden
-
-Am Wochenende wurde ein Pull Request (Vorschlag für verbesserten Programmcode) mit der Nummer 456 innerhalb des Matrix-Docker-Ansible-Deploy Paketes (MDAD) angenommen und in den Master-Zweig übernommen, der von der TU Dresden angestoßen und maßgeblich in den letzten 10 Monaten mitentwickelt wurde.
-
-Die Code-Anpassungen, die den Dresdner Matrix-Dienst für mittlerweile > 18.000 User stabil durch gezielte Lastverteilung auf sogenannte synapse-worker ermöglichen, wurden durch .... Personen kollaborativ weiterentwickelt und stehen nun allen MDAD-Nutzenden weltweit frei zur Verfügung.
-
-Die TU Dresden hat hier einmal mehr bewiesen, dass die Förderung von freier Software nicht nur durch die finanzielle Unterstützung einer Gruppe von Entwickelnden (Beispiel ?) oder der direkten Beauftragung für die Entwicklung neuer Funktionen (Beispiel LibreOffice (Link) oder Okular (Link)) möglich ist. Wenn kaum Geld vorhanden ist, dann ist das Zurückspeisen von eigenen Weiterentwicklungen an die globale Community das Mindeste. 
-
-Die Ausnutzung von synapse-worker durch Pull Request 456 versetzt andere große Institutionen (z.B. die vielen Hochschulen, die auch Matrix einsetzen) in die Lage eine stabile, skalierbare Instanz zu betreiben.
-
-
-
-
-
-
-
-
-
+Die TU Dresden taucht im [Element Blog](https://element.io/blog/universal-universities/) sowie einer [Element Education Sector Seite](https://element.io/sectors/education) als erfolgreiches Installations-Beispiel und mit der Instanzkarte auf.
+Die [ETH Zürich](https://matrix.org/using-matrix/case-studies/eth-zurich-adopts-matrix-for-physics-department) berichtet darüber, wie mehr und mehr Teams von Slack zu Matrix wechseln.
+Und die [Uni Innsbruch](https://element.io/case-studies/university-of-innsbruck) erklärt ausführlich ihren Weg zur Adoption von Matrix.
 
 
 #### 27.03.2021 Relogin
 
 Durch eine Aktualisierung am Matrix Server haben sich die Orte für Mediendateien verändert. Clients, die seit einem Zeitpunkt vor dem 28.03.2021 angemeldet sind, sehen Medien nicht mehr. Um dieses Problem zu lösen ist ein einmaliges Ab- und erneutes Anmelden nötig. Damit dabei keine früheren verschlüsselten Nachrichten unlesbar werden ist dringend auf die [in den FAQ beschriebene Prozedur]({{< relref "faq/_index.md" >}}) zu achten! Unsere großen Vorteile dadurch: Ab nun ist unser Matrix-Setup aber ein [MDAD](https://github.com/spantaleev/matrix-docker-ansible-deploy) mit automatischer Konfiguration der synapse worker und einer Verringerung der Angriffsgefahr durch Cross-Site Scripting (XSS).
+
+
+
+#### 02.03.2021 Pull Request für MDAD synapse worker erfolgreich gemergt
+
+Auf diesen Beitrag an der Matrix-Entwicklung kann die TU Dresden stolz sein! Am Wochenende wurde Pull Request (Vorschlag für verbesserten Programmcode) mit der Nummer [456](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/456) innerhalb des Matrix-Docker-Ansible-Deploy (MDAD) Repositoriums angenommen und in den Master-Zweig übernommen, der von der TU Dresden angestoßen und maßgeblich in den letzten 10 Monaten mitentwickelt wurde.
+Die Code-Anpassungen, die den Dresdner Matrix-Dienst schon seit April 2020 für mittlerweile > 18.000 User stabil durch gezielte Lastverteilung auf sogenannte *synapse worker* ermöglichen, wurden durch mehrere Personen kollaborativ weiterentwickelt und stehen nun allen MDAD-Nutzenden weltweit frei zur Verfügung.
+Die TU Dresden hat hier einmal mehr bewiesen, dass die Förderung von freier Software nicht nur durch die finanzielle Unterstützung einer Gruppe von Entwickelnden oder der direkten Beauftragung für die Entwicklung neuer Funktionen ([Beispiel LibreOffice](https://osb-alliance.de/pressemitteilungen/osb-alliance-meldet-erneut-erfolgreiches-crowdfunding-von-libreoffice-verbesserungen) oder [Beispiel PDF-Signaturen mit Okular](https://forums.puri.sm/t/okular-digital-signatures-and-tu-dresden/13808)) möglich ist. Wenn kaum Geld vorhanden ist, dann bleibt immerhin noch das Zurückspeisen von eigenen Weiterentwicklungen an die globale Community. 
+Die Ausnutzung von synapse-worker durch Pull Request 456 versetzt andere große Institutionen (z.B. die vielen Hochschulen, die auch Matrix einsetzen) in die Lage eine stabile, skalierbare Instanz zu betreiben.
 
 
 #### 22.01.2021 Beitrag bei *This Week in Matrix (TWIM)*
@@ -119,24 +110,20 @@ Bisher finanzierten verschiedene Stellen der TUD verschiedene studentische Hilfs
 
 #### 07.05.2020 Cross-Signing
 
-
-
-https://jochen-plikat.com/2020/05/07/riot-cross-signing/
-
+Prof. Plikat erklärt fulminant das Cross-Signing zwischen verschiedenen Clients: https://jochen-plikat.com/2020/05/07/riot-cross-signing/
 
 
 
-
-#### 6.04.2020 - Einführung von synapse workers
+#### 06.04.2020 - Einführung von synapse workers
 
 Wir nutzen [Matrix-Docker-Ansible-Deploy (MDAD)](https://github.com/spantaleev/matrix-docker-ansible-deploy), ein Geflecht von Ansible-Rollen für die verschiedenen Matrix-Dienste in Docker-Containern mit systemd-Steuerung. In diesem Framework ist ein Support für die experimentellen [synapse workers](https://github.com/matrix-org/synapse/blame/master/docs/workers.md) bisher noch von niemandem implementiert worden, es gibt dazu seit heute einen [Feature Request](https://github.com/spantaleev/matrix-docker-ansible-deploy/issues/221) von der TU Dresden. Diese Integration (also Anpassung der Ansible-Rollen) muss vorgenommen werden, so dass eine optimale Nutzung der Hardware (CPU-Kerne) gewährleistet und der TUD Matrix-Homeserver langfristig performant betrieben werden kann. Vielen Dank an Marcel Partap für die Arbeit an einem [Pull Request](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/456) und den parallelen manuellen Anpassungen hier an der TU Dresden, eine Entwicklung sozusagen am offenen Herzen...!
 
 
-#### 03/2020 - Stark ansteigende Nachfrage durch Corona {#firewall}
+#### 03/2020 - Stark ansteigende Nachfrage durch Corona {#corona}
 
 
 
-#### 01/2020 - Neustart des Servermonitorings {#firewall}
+#### 01/2020 - Neustart des Servermonitorings {#servermonitoring}
 
 
 
