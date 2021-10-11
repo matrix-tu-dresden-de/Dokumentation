@@ -48,12 +48,7 @@ Hochschulen-Artikel (Element), Uni Linz
 
 #### 29.03.2021 Relogin
 
-
-
-
-
-
-
+Durch eine Aktualisierung am Matrix Server haben sich die Orte für Mediendateien verändert. Clients, die seit einem Zeitpunkt vor dem 28.03.2021 angemeldet sind, können dieses Problem nur durch ein Ab- und erneutes Anmelden lösen. Damit dabei keine früheren verschlüsselten Nachrichten verloren gehen ist dringend auf die [in den FAQ beschriebene Prozedur]({{< relref "faq/_index.md" >}}) zu achten!
 
 
 #### 22.01.2021 Beitrag bei *This Week in Matrix (TWIM)*
