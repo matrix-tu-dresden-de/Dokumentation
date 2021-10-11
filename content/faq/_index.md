@@ -33,7 +33,7 @@ Dies ist eine Zusammenstellung häufiger Fragen und deren Antworten. Teilweise s
 
 ***
 #### Was ist der Unterschied zwischen Sicherheitsphrase und Sicherheitsschlüssel? {#securityphrase-vs-securitykey}
-Das Kennwort, welches für die Schlüsselsicherung benötigt wird heißt Sicherheitsprase. Damit verschlüssel der Matrixclient den Sicherheitsschlüssel/Wiederherstellungsschlüssel. Der Sicherheitsschlüssel wird beim erstellen als recovery-key.txt angeboten und sollte bei Windows nicht unter Downloads gespeichert werden, da dieser von Windows gegebenenfalls automatisch bereinigt wird. Der Sicherheitsschlüssel besteht aus 12 Blöcken zu je vier Zeichen. Es emphielt sich nach dem Einrichten des Sicherheitsschlüssels diesen in einem Passwortmanager, als Datei und evlt. ausgedruckt zu speichern. Da der Sicherheitsschlüssel im Alltag schlecht gemerkt werden kann (bspw. unterwegs, wenn man mal eben in Matrix vorbeischauen möchte, aber nur fremde Rechner zur Verfügung hat) kann man sich eine (gut merkbare) Sicherheitsphrase ausdenken, damit kann dann die Sitzung verifiziert werden und wird damit mit der Schlüsselsicherung verbunden.
+Das Kennwort, welches für die Schlüsselsicherung benötigt wird heißt Sicherheitsprase. Damit verschlüssel der Matrixclient den Sicherheitsschlüssel/Wiederherstellungsschlüssel. Der Sicherheitsschlüssel wird beim erstellen als security-key.txt angeboten und sollte bei Windows nicht unter Downloads gespeichert werden, da dieser von Windows gegebenenfalls automatisch bereinigt wird. Der Sicherheitsschlüssel besteht aus 12 Blöcken zu je vier Zeichen und startet mit einem großen E. Es empfiehlt sich nach dem Einrichten des Sicherheitsschlüssels diesen in einem Passwortmanager, als Datei und evlt. ausgedruckt zu speichern. Da der Sicherheitsschlüssel im Alltag schlecht gemerkt werden kann (bspw. unterwegs, wenn man mal eben in Matrix vorbeischauen möchte, aber nur fremde Rechner zur Verfügung hat) kann man sich eine (gut merkbare) Sicherheitsphrase ausdenken (z.B. ein [Passsatz](https://inv.13ad.de/watch?v=jtFc6B5lmIM)), damit kann dann die Sitzung verifiziert werden und wird damit mit der Schlüsselsicherung verbunden.
 ***
 #### Warum sieht man im Element Desktop-Client keine Statuszeile am unteren Ende des Bildschirms wenn man über Hyperlinks hovert (= Maus drüber bewegt und verweilt)? Wie kann man diesen dann vertrauen? {#no-statusline}
 Tatsächlich ist die Statusleiste eine beliebte Prüfung der Seriösität von Hyperlinks, die man versucht ist anzuklicken. Im Element Desktop Client geht das ähnlich der mobilen Clients nicht. Hier kann man nur mit der rechten Maustaste auf den Link klicken und so die präsentierte Zielseite auf Seriösität prüfen.
@@ -42,7 +42,7 @@ Tatsächlich ist die Statusleiste eine beliebte Prüfung der Seriösität von Hy
 Mit dem matrix.to-Link, den man unter dem i für die Raumeigenschaften und einem weiteren Klick auf „Teile Raum“ erkennt.
 ***
 #### Wie teilt man Leuten mit Element Web-Client eine Raumadresse mit? {#web-share-room}
-Mit dem matrix.to-Link, den man unter dem i für die Raumeigenschaften und einem weiteren Klick auf „Teile Raum“ erkennt und einem Austausch vom vorderen matrix.to mit matrix.tu-dresden.de
+Mit dem matrix.to-Link, den man unter dem i für die Raumeigenschaften und einem weiteren Klick auf „Teile Raum“ erkennt und einem Austausch vom vorderen matrix.to/#/ mit matrix.tu-dresden.de/#/room/
 ***
 #### Kann ich LaTeX schreiben? {#latex}
 Ja! Zur Zeit ist es nur ein experimentelles Feature, aber in wenigen Wochen wird es für alle verfügbar sein. Siehe https://github.com/vector-im/element-web/issues/1945
@@ -95,10 +95,6 @@ Häufig hat Element nicht die Rechte, auf die Webcam und das Mikrofon zu zugreif
 ***
 #### Wie viele Personen können gleichzeitig in einen Raum eingeladen werden? Kann ich Personen über ihre E-Mail-Adressen einladen? {#how-many-invites-can-i-do}
 Die Masseneinladung per E-Mail wird derzeit in Element nicht unterstützt. Wenn Sie eine Masseneinladung durchführen möchten, senden Sie bitte eine Anfrage über den Servicedesk, damit wir Ihnen helfen können. Sie können selbst 100 Personen über ihren ZIH-Benutzernamen einladen.
-
-***
-#### Kann ich die Beitrittsrechte aller Räume meiner Community so anpassen, dass nur Mitglieder der Community Zutritt haben? {#roompermissions-in-communities}
-Nein, dies ist nicht möglich. Räume können in mehreren Communities sein. Der Zutritt zu Räumen wird daher raumweise eingestellt.
 
 ***
 #### Kann ich mit Element mehrere Matrix-Accounts verwalten (Multi-Account-Client)? {#multiple-accounts-element}

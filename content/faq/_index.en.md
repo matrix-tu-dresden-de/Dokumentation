@@ -45,7 +45,7 @@ With the matrix.to link, which you can see under the i for the room properties a
 
 ***
 #### How do you tell people a room address with Element Web-Client? {#web-share-room}
-With the matrix.to link, which you can see under the i for the room properties and a further click on "Part room" and an exchange of the front matrix.to with matrix.tu-dresden.de
+With the matrix.to link, which you can see under the i for the room properties and a further click on "Part room" and an exchange of the front matrix.to/#/ with matrix.tu-dresden.de/#/room/
 
 ***
 #### Can I write LaTeX? {#latex}
