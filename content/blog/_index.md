@@ -13,18 +13,68 @@ weight: 200
 Mit den aktuellsten Element-Clients kann man Beta-Tests der Spaces durchführen. Diese sind im Client (Beta!) zu aktivieren. 
 
 
+
+
+
+
 #### TU Dresden hat mehr als 20.000 Matrix User (#20000)
 
 
-#### 03/2021 Relogin
+
+
+
+
+
+
+Pull Request MDAD worker
+
+Erfolgreicher Beitrag an der Matrix-Entwicklung durch die TU Dresden
+
+Am Wochenende wurde ein Pull Request (Vorschlag für verbesserten Programmcode) mit der Nummer 456 innerhalb des Matrix-Docker-Ansible-Deploy Paketes (MDAD) angenommen und in den Master-Zweig übernommen, der von der TU Dresden angestoßen und maßgeblich in den letzten 10 Monaten mitentwickelt wurde.
+
+Die Code-Anpassungen, die den Dresdner Matrix-Dienst für mittlerweile > 18.000 User stabil durch gezielte Lastverteilung auf sogenannte synapse-worker ermöglichen, wurden durch .... Personen kollaborativ weiterentwickelt und stehen nun allen MDAD-Nutzenden weltweit frei zur Verfügung.
+
+Die TU Dresden hat hier einmal mehr bewiesen, dass die Förderung von freier Software nicht nur durch die finanzielle Unterstützung einer Gruppe von Entwickelnden (Beispiel ?) oder der direkten Beauftragung für die Entwicklung neuer Funktionen (Beispiel LibreOffice (Link) oder Okular (Link)) möglich ist. Wenn kaum Geld vorhanden ist, dann ist das Zurückspeisen von eigenen Weiterentwicklungen an die globale Community das Mindeste. 
+
+Die Ausnutzung von synapse-worker durch Pull Request 456 versetzt andere große Institutionen (z.B. die vielen Hochschulen, die auch Matrix einsetzen) in die Lage eine stabile, skalierbare Instanz zu betreiben.
+
+
+
 
 
 Hochschulen-Artikel (Element), Uni Linz
 
-Instanzkarte & TWIM
 
 
-Pull Request MDAD worker
+#### 29.03.2021 Relogin
+
+
+
+
+
+
+
+
+
+#### 22.01.2021 Beitrag bei *This Week in Matrix (TWIM)*
+
+Die Veröffentlichung der [Matrix Dokumentation auf GitHub](https://github.com/matrix-tu-dresden-de/Dokumentation) sowie die [Instanzkarte deutscher Hochschulen](https://doc.matrix.tu-dresden.de/why/) führten zu einer Einladung zu einem [Interview für *This Week in Matrix (TWIM)*](https://matrix.org/blog/2021/01/22/this-week-in-matrix-2021-01-22#superb-documentation-from-tu-dresden-as-they-roll-out-their-deployment). Hier stellten Marvin Dropp und Christian Bruchatz die Doku sowie die interaktive SVG der Instanzkarte vor und berichteten von den Matrix-Entwicklungen an der TU Dresden.
+
+![TWIM-Interview 22.01.2021](/images/blog/04_TWIM-2021-01-22.png)
+
+
+
+We set up a bilingual (de, en) documentation for all of our university members, to help them get in touch with our matrix instance easily. This documentation is rich on screenshots, simple explanations and will be improved continuously.
+
+Also we mirroring the documentation to GitHub to provide access of our sources to everyone.
+
+
+
+#### 22.01.2021 Instanzkarte
+
+<object data="/images/federation_map.svg" type="image/svg+xml" style="width: 600px; max-width: 100%"></object>
+
+
 
 
 Interaktive SVG
