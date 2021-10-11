@@ -8,6 +8,17 @@ weight: 200
 
 
 ***
+
+#### 11.10.2021 Rauminhalte bequem exportieren
+
+Seit Element-Version 1.9.1 ist es möglich, die Rauminhalte in einer .html, .txt oder .json Datei zu exportieren. 
+
+![Export der Raumnachrichten](https://element.io/blog/content/images/size/w1000/2021/10/Screenshot-2021-10-11-at-10.21.21.png)
+
+Vielen Dank an [Jaiwanth Vemula von der IIT Kharagpur University in Indien](https://element.io/blog/element-1-9-1-export-is-finally-here/)!
+
+
+
 #### Spaces{#spaces}
 
 Mit den aktuellsten Element-Clients kann man Beta-Tests der Spaces durchführen. Diese sind im Client (Beta!) zu aktivieren. 
@@ -17,9 +28,9 @@ Mit den aktuellsten Element-Clients kann man Beta-Tests der Spaces durchführen.
 
 
 
-#### TU Dresden hat mehr als 20.000 Matrix User (#20000)
+#### 13.06.2021 TU Dresden hat mehr als 20.000 Matrix User (#20000)
 
-
+Inzwischen hat wohl schon mehr als die Hälfte der TU Dresden Angehörigen Matrix ausprobiert. 
 
 
 
@@ -48,14 +59,14 @@ Hochschulen-Artikel (Element), Uni Linz
 
 #### 29.03.2021 Relogin
 
-Durch eine Aktualisierung am Matrix Server haben sich die Orte für Mediendateien verändert. Clients, die seit einem Zeitpunkt vor dem 28.03.2021 angemeldet sind, können dieses Problem nur durch ein Ab- und erneutes Anmelden lösen. Damit dabei keine früheren verschlüsselten Nachrichten verloren gehen ist dringend auf die [in den FAQ beschriebene Prozedur]({{< relref "faq/_index.md" >}}) zu achten!
+Durch eine Aktualisierung am Matrix Server haben sich die Orte für Mediendateien verändert. Clients, die seit einem Zeitpunkt vor dem 28.03.2021 angemeldet sind, sehen Medien nicht mehr. Um dieses Problem zu lösen ist ein einmaliges Ab- und erneutes Anmelden nötig. Damit dabei keine früheren verschlüsselten Nachrichten unlesbar werden ist dringend auf die [in den FAQ beschriebene Prozedur]({{< relref "faq/_index.md" >}}) zu achten!
 
 
 #### 22.01.2021 Beitrag bei *This Week in Matrix (TWIM)*
 
 Die Veröffentlichung der zweisprachigen [Matrix Dokumentation auf GitHub](https://github.com/matrix-tu-dresden-de/Dokumentation) sowie die [Instanzkarte deutscher Hochschulen](https://doc.matrix.tu-dresden.de/why/) führten zu einer Einladung zu einem [Interview für *This Week in Matrix (TWIM)*](https://matrix.org/blog/2021/01/22/this-week-in-matrix-2021-01-22#superb-documentation-from-tu-dresden-as-they-roll-out-their-deployment). Hier stellten Marvin Dropp und Christian Bruchatz die Doku sowie die interaktive SVG der Instanzkarte vor und berichteten von den Matrix-Entwicklungen an der TU Dresden.
 
-![TWIM-Interview 22.01.2021](/images/blog/04_TWIM-2021-01-22.png)
+[![TWIM-Interview 22.01.2021](/images/blog/04_TWIM-2021-01-22.png)](https://inv.13ad.de/watch?v=UHJX2pmT2gk)
 
 
 
