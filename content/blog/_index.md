@@ -9,7 +9,7 @@ weight: 200
 
 ***
 
-#### 11.10.2021 Rauminhalte bequem exportieren
+#### 11.10.2021 Rauminhalte bequem exportieren {#export}
 
 Seit Element-Version 1.9.1 ist es möglich, die Rauminhalte in einer .html, .txt oder .json Datei zu exportieren. 
 
@@ -18,8 +18,7 @@ Seit Element-Version 1.9.1 ist es möglich, die Rauminhalte in einer .html, .txt
 Vielen Dank an [Jaiwanth Vemula von der IIT Kharagpur University in Indien](https://element.io/blog/element-1-9-1-export-is-finally-here/)!
 
 
-
-#### Spaces{#spaces}
+#### 08.10.2021 Spaces {#spaces}
 
 Mit den aktuellsten Element-Clients kann man Beta-Tests der Spaces durchführen. Diese sind im Client (Beta!) zu aktivieren. 
 
@@ -27,8 +26,16 @@ Mit den aktuellsten Element-Clients kann man Beta-Tests der Spaces durchführen.
 
 
 
+#### 16.08.2021 Sprachnachrichten in Matrix/Element {#sprachnachrichten}
 
-#### 13.06.2021 TU Dresden hat mehr als 20.000 Matrix User (#20000)
+
+
+
+
+
+
+
+#### 13.06.2021 TU Dresden hat mehr als 20.000 Matrix User {#20000}
 
 Inzwischen hat wohl schon mehr als die Hälfte der TU Dresden Angehörigen Matrix ausprobiert. 
 
