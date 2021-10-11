@@ -62,6 +62,7 @@ Die Veröffentlichung der [Matrix Dokumentation auf GitHub](https://github.com/m
 
 ![TWIM-Interview 22.01.2021](/images/blog/04_TWIM-2021-01-22.png)
 
+![TWIM-Interview 22.01.2021](/images/01_Find_de.png)
 
 
 We set up a bilingual (de, en) documentation for all of our university members, to help them get in touch with our matrix instance easily. This documentation is rich on screenshots, simple explanations and will be improved continuously.
