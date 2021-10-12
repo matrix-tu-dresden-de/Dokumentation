@@ -140,9 +140,14 @@ Prof. Plikat erklärt, wie die Sicherung der Schlüssel von verschlüsselten Cha
 Wir nutzen [Matrix-Docker-Ansible-Deploy (MDAD)](https://github.com/spantaleev/matrix-docker-ansible-deploy), ein Geflecht von Ansible-Rollen für die verschiedenen Matrix-Dienste in Docker-Containern mit systemd-Steuerung. In diesem Framework ist ein Support für die experimentellen [synapse workers](https://github.com/matrix-org/synapse/blame/master/docs/workers.md) bisher noch von niemandem implementiert worden, es gibt dazu seit heute einen [Feature Request](https://github.com/spantaleev/matrix-docker-ansible-deploy/issues/221) von der TU Dresden. Diese Integration (also Anpassung der Ansible-Rollen) muss vorgenommen werden, so dass eine optimale Nutzung der Hardware (CPU-Kerne) gewährleistet und der TUD Matrix-Homeserver langfristig performant betrieben werden kann. Vielen Dank an Marcel Partap für die Arbeit an einem [Pull Request](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/456) und den parallelen manuellen Anpassungen hier an der TU Dresden, eine Entwicklung sozusagen am offenen Herzen...!
 
 
-#### 03/2020 - Stark ansteigende Nachfrage durch Corona {#corona}
+#### 16.03.2020 - Stark ansteigende Nachfrage durch Corona {#corona}
 
-Aktuell ohne dedizierte Finanzierung engagiert sich das dezentrale Matrix-Admin-Team insb. mit Studierenden aufgrund des akuten Bedarfes für eine Sicherstellung der nachgefragten Kommunikationsinfrastruktur. Ein besonderer Dank geht hierzu an Christoph Johannes Kleine und Marcel Partap! Aber auch ringsherum ist die Professionalisierung des Teams mit OTRS-Ticket-Queue und 
+Start des landesweiten Homeschoolings = Home-Office für Alle mit schulpflichtigen Kindern. Aktuell ohne dedizierte Finanzierung engagiert sich das dezentrale Matrix-Admin-Team insb. mit Studierenden aufgrund des akuten Bedarfes für eine Sicherstellung der nachgefragten Kommunikationsinfrastruktur. Ein besonderer Dank geht hierzu an Christoph Johannes Kleine und Marcel Partap! Aber auch ringsherum ist die Professionalisierung des Teams mit OTRS-Ticket-Queue, Matrix-mail und Support-Raum zu spüren. 
+
+Lehrende, wie z.B. Prof. Alexander Lasch (Institut für Germanistik ), bereiten sich unterdessen auf ein digitales Sommersemester vor und entdecken u.a. auch den TUD Matrix Messenger.
+
+[![Digitale Lehre 1: MATRIX Web Messenger](/images/blog/20210316_Matrix_TUDresden.jpg)](https://inv.13ad.de/watch?v=AtkA-sE-9uU)
+
 
 
 #### 01/2020 - Firewall-Freigabe für matrix.tu-dresden.de und Neustart des Servermonitorings {#firewall}
