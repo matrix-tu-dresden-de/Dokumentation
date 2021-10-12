@@ -93,13 +93,7 @@ Die Veröffentlichung der zweisprachigen [Matrix Dokumentation auf GitHub](https
 
 [![TWIM-Interview 22.01.2021](/images/blog/04_TWIM-2021-01-22.png)](https://inv.13ad.de/watch?v=UHJX2pmT2gk)
 
-{{< figure src="/images/blog/04_TWIM-2021-01-22.png" alt="TWIM-Interview 22.01.2021" width="600px" >}}
-
-[{{< figure src="/images/blog/04_TWIM-2021-01-22.png" alt="TWIM-Interview 22.01.2021" width="600px" >}}](https://inv.13ad.de/watch?v=UHJX2pmT2gk)
-
 [![Matrix Doku auf GitHub](/images/blog/02_TUD-Matrix-Doc-Github-Repo.png)](https://github.com/matrix-tu-dresden-de/Dokumentation)
-
-[{{< figure src="/images/blog/02_TUD-Matrix-Doc-Github-Repo.png" alt="Matrix Doku auf GitHub" width="600px" >}}](https://github.com/matrix-tu-dresden-de/Dokumentation)
 
 #### 22.01.2021 - Instanzkarte für Hochschulen
 
