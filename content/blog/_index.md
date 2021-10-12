@@ -144,7 +144,7 @@ Wir nutzen [Matrix-Docker-Ansible-Deploy (MDAD)](https://github.com/spantaleev/m
 
 Start des landesweiten Homeschoolings = Home-Office für Alle mit schulpflichtigen Kindern. Aktuell ohne dedizierte Finanzierung engagiert sich das dezentrale Matrix-Admin-Team insb. mit Studierenden aufgrund des akuten Bedarfes für eine Sicherstellung der nachgefragten Kommunikationsinfrastruktur. Ein besonderer Dank geht hierzu an Christoph Johannes Kleine und Marcel Partap! Aber auch ringsherum ist die Professionalisierung des Teams mit OTRS-Ticket-Queue, Matrix-mail und Support-Raum zu spüren. 
 
-Lehrende, wie z.B. Prof. Alexander Lasch (Institut für Germanistik), bereiten sich unterdessen auf ein digitales Sommersemester vor und entdecken u.a. auch den TUD Matrix Messenger.
+Lehrende beginnen sich auf ein digitales Sommersemester vorzubereiten und Prof. Alexander Lasch (Institut für Germanistik) hilft Allen neue Tools zu entdecken, z.B. auch den TUD Matrix Messenger:
 
 [![Digitale Lehre 1: MATRIX Web Messenger](/images/blog/20210316_Matrix_TUDresden.jpg)](https://inv.13ad.de/watch?v=AtkA-sE-9uU)
 
@@ -153,6 +153,8 @@ Lehrende, wie z.B. Prof. Alexander Lasch (Institut für Germanistik), bereiten s
 #### 01/2020 - Firewall-Freigabe für matrix.tu-dresden.de und Neustart des Servermonitorings {#firewall}
 
 Der TUD Matrix Messenger ist nun weltweit erreichbar und föderiert mit vielen Partnerinstitutionen. Gleichzeitig wird ab jetzt die [Anzahl der neuen User](https://doc.matrix.tu-dresden.de/Statistik/matrix-logins.html) mitgeschrieben und zeigt, wie sich Matrix an der TU Dresden entwickelt.
+
+[![TUD Matrix User](/images/blog/20200403_Matrix_TUD_User.png)](https://doc.matrix.tu-dresden.de/Statistik/matrix-logins.html)
 
 
 #### 10/2019 - Pilotbetrieb unter matrix.tu-dresden.de beginn {#stable}
