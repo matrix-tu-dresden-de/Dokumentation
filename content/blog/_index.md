@@ -69,7 +69,7 @@ setInterval(() => {
 
 
 
-#### 28.04.2021 - Relogin
+#### 28.04.2021 - Sichere Kollaboration im Bildungswesen
 
 Die TU Dresden taucht im [Element Blog](https://element.io/blog/universal-universities/) sowie einer [Element Education Sector Seite](https://element.io/sectors/education) als erfolgreiches Installations-Beispiel und mit der Instanzkarte auf.
 Die [ETH Zürich](https://matrix.org/using-matrix/case-studies/eth-zurich-adopts-matrix-for-physics-department) berichtet darüber, wie mehr und mehr Teams von Slack zu Matrix wechseln.
