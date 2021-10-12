@@ -144,22 +144,22 @@ Wir nutzen [Matrix-Docker-Ansible-Deploy (MDAD)](https://github.com/spantaleev/m
 
 Start des landesweiten Homeschoolings = Home-Office für Alle mit schulpflichtigen Kindern. Aktuell ohne dedizierte Finanzierung engagiert sich das dezentrale Matrix-Admin-Team insb. mit Studierenden aufgrund des akuten Bedarfes für eine Sicherstellung der nachgefragten Kommunikationsinfrastruktur. Ein besonderer Dank geht hierzu an Christoph Johannes Kleine und Marcel Partap! Aber auch ringsherum ist die Professionalisierung des Teams mit OTRS-Ticket-Queue, Matrix-mail und Support-Raum zu spüren. 
 
-Lehrende beginnen sich auf ein digitales Sommersemester vorzubereiten und Prof. Alexander Lasch (Institut für Germanistik) hilft Allen neue Tools zu entdecken, z.B. auch den TUD Matrix Messenger:
+Lehrende beginnen sich auf ein digitales Sommersemester vorzubereiten und Prof. Alexander Lasch (Institut für Germanistik) hilft Allen neue Tools zu entdecken, z.B. auch den TUD Matrix Messenger. Andere, wie Dr. Eike Dohmen, helfen mit einer PDF-Anleitung zur Matrix-Nutzung, die innerhalb der Universität zirkuliert... Vielen Dank auch für all diese Unterstützung!
 
 [![Digitale Lehre 1: MATRIX Web Messenger](/images/blog/20210316_Matrix_TUDresden.jpg)](https://inv.13ad.de/watch?v=AtkA-sE-9uU)
 
 
 
-#### 01/2020 - Firewall-Freigabe für matrix.tu-dresden.de und Neustart des Servermonitorings {#firewall}
+#### 29.01.2020 - Firewall-Freigabe für matrix.tu-dresden.de und Neustart des Servermonitorings {#firewall}
 
-Der TUD Matrix Messenger ist nun weltweit erreichbar und föderiert mit vielen Partnerinstitutionen. Gleichzeitig wird ab jetzt die [Anzahl der neuen User](https://doc.matrix.tu-dresden.de/Statistik/matrix-logins.html) mitgeschrieben und zeigt, wie sich Matrix an der TU Dresden entwickelt.
+Der TUD Matrix Messenger ist nun weltweit erreichbar und föderiert mit vielen Partnerinstitutionen. Zuvor begann ab 10.01. das neue Registrieren der [Anzahl der neuen User](https://doc.matrix.tu-dresden.de/Statistik/matrix-logins.html). Dies zeigt, wie sich Matrix an der TU Dresden entwickelt.
 
 [![TUD Matrix User](/images/blog/20200403_Matrix_TUD_User.png)](https://doc.matrix.tu-dresden.de/Statistik/matrix-logins.html)
 
 
-#### 10/2019 - Pilotbetrieb unter matrix.tu-dresden.de beginn {#stable}
+#### 01.10.2019 - Pilotbetrieb unter matrix.tu-dresden.de beginnt {#stable}
 
-Nach Abschluss der einjährigen Betaphase beginnt, nach Rücksprache mit dem CIO, nun der Pilotbetrieb innerhalb der TU Dresden unter der neuen Domain [matrix.tu-dresden.de](https://matrix.tu-dresden.de)
+Nach Abschluss der ca. einjährigen Betaphase beginnt, nach Rücksprache mit dem CIO, nun der Pilotbetrieb innerhalb der TU Dresden unter der neuen Domain [matrix.tu-dresden.de](https://matrix.tu-dresden.de).
 
 
 #### 01.06.2019 - Bedeutung von Matrix wird an vielen Stellen wahrgenommen
@@ -167,18 +167,18 @@ Nach Abschluss der einjährigen Betaphase beginnt, nach Rücksprache mit dem CIO
 „Die einzige App, die alle relevanten Kriterien für eine Alternative zu WhatsApp erfüllt ist Riot“, so schreibt Jun.-Prof. Jochen Plikat (Institut für Romanistik) in seinem [Blockbeitrag](https://jochen-plikat.com/2019/06/01/whatsapp-alternative-riot/). Weiter führt er die Einführung eines auf Matrix basierenden Chat-Systems „[für alle französischen Staatsbediensteten](https://www.golem.de/news/statt-whatsapp-frankreich-wandert-in-die-matrix-1902-139167.html)“ an. 
 
 
-#### 04/2019 - CIO-Präsentation zu Empfehlungen von interner digitaler Kommunikation {#cio-vortrag}
+#### 15.04.2019 - CIO-Präsentation zu Empfehlungen von interner digitaler Kommunikation {#cio-vortrag}
 
-Das [Team Impuls & Interaktion (TII)](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) berät den CIO-Beirat der TU Dresden, mit welchen freien Tools eine Verbesserung der digitalen Infrastrukturen zur internen Kommunikation und Zusammenarbeit erzielt werden würde und wie den Wissenschaftler:innen an der TU Dresden dabei am meisten geholfen werden könnte. Als zentrales und wichtigstes Tool wird Matrix präsentiert. Die Unterstützung zahlreicher IT-Referenten bestätigte den eingeschlagenen Weg. Aufgrund mangelnder finanzieller Ressourcen wird eine Weiterentwicklung zwar nicht direkt unterstützt jedoch unter Selbstorganisation eines dezentralen Admin-Teams toleriert, dass unter der Schirmherrschaft vom Bereichs-CIO Mathematik und Naturwissenschaften, Prof. Dr. Oliver Sander, und unter Koordination des TIIs weiterarbeitet. Für eine geringfügige Fortführung der Arbeiten der studentischen Hilfskräfte sind der Professur für Softwaretechnologie und dem Team Impuls & Interaktion für ihre finanzielle Unterstützung zu danken.
+Das [Team Impuls & Interaktion (TII)](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) berät den CIO-Beirat der TU Dresden, mit welchen freien Tools eine Verbesserung der digitalen Infrastrukturen zur internen Kommunikation und Zusammenarbeit erzielt werden würde und wie den Wissenschaftler:innen an der TU Dresden dabei am meisten geholfen werden könnte. Als zentrales und wichtigstes Tool wird Matrix präsentiert. Die Unterstützung zahlreicher IT-Referenten bestätigte den eingeschlagenen Weg. Aufgrund mangelnder finanzieller Ressourcen wird eine Weiterentwicklung zwar nicht direkt unterstützt jedoch unter Selbstorganisation eines dezentralen Admin-Teams toleriert, dass unter der Schirmherrschaft vom Bereichs-CIO Mathematik und Naturwissenschaften, Prof. Dr. Oliver Sander, und unter Koordination des TIIs weiterarbeitet. Für eine kurzfristige Fortführung der Arbeiten der studentischen Hilfskräfte sind der Professur für Softwaretechnologie und dem [Team Impuls & Interaktion](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) für ihre finanzielle Unterstützung zu danken.
 
 
 
 #### 10/2018 - Matrix-Testserver geht online {#testserver}
 
-Das [Team Impuls & Interaktion](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) startet nach Tests mit [Mattermost](https://de.wikipedia.org/wiki/Mattermost), [Rocket.Chat](https://en.wikialpha.org/wiki/Rocket.chat) und [Zulip](https://en.wikipedia.org/wiki/Zulip) den ersten Matrix-Homeserver unter https://matrix.tii.tu-dresden.de und testet diesen mit interdisziplinären Communities aus der TU Dresden und ihren umliegenden Kooperationspartner:innen. Vielen Dank an Joris Baum für die initiale Installation sowie an die [Hochschulgruppe Freie Software Freies Wissen](https://fsfw-dresden.de/), insb. an Marcel Partap und Christoph Kleine, für die intensive Weiterentwicklung. Ein großer Dank gebührt auch dem [Zentrum für Informationsdienste und Hochleistungsrechnen (ZIH)](https://tu-dresden.de/zih/) sowie dem [Bereich Mathematik und Naturwissenschaften](https://tu-dresden.de/mn/der-bereich/leitung-und-verwaltung) für die finanzielle Unterstützung der ersten studentischen Hilfskräfte.
+Das [Team Impuls & Interaktion](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) startet nach Tests mit [Mattermost](https://de.wikipedia.org/wiki/Mattermost), [Rocket.Chat](https://en.wikialpha.org/wiki/Rocket.chat) und [Zulip](https://en.wikipedia.org/wiki/Zulip) den ersten Matrix-Homeserver unter https://matrix.tii.tu-dresden.de und testet diesen mit interdisziplinären Communities aus der TU Dresden und ihren umliegenden Kooperationspartner:innen. Vielen Dank an Joris Baum für die initiale Synapse-Installation sowie an die [Hochschulgruppe Freie Software Freies Wissen](https://fsfw-dresden.de/), insb. an Marcel Partap und Christoph Johannes Kleine, für die intensive Weiterentwicklung. Ein großer Dank gebührt auch dem [Zentrum für Informationsdienste und Hochleistungsrechnen (ZIH)](https://tu-dresden.de/zih/) sowie dem [Bereich Mathematik und Naturwissenschaften](https://tu-dresden.de/mn/der-bereich/leitung-und-verwaltung) für die finanzielle Unterstützung der ersten studentischen Hilfskräfte.
 
 
 
 #### 06/2018 - Start der Planung{#start}
 
-Im Zuge der Vorbereitung auf die zu erwartende digitale, asynchrone Zusammenarbeit im Exzellenzcluster *DCM - Dresden Center for Materiomics* begann das [Team Impuls & Interaktion](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) mit der Konzipierung der zukünftigen internen Kommunikation.
+Im Zuge der Vorbereitung auf die zu erwartende digitale, asynchrone Zusammenarbeit im Exzellenzcluster *DCM - Dresden Center for Materiomics* begann das [Team Impuls & Interaktion](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) mit der Konzipierung der zukünftigen internen Kommunikation des Clusters. Eine erste Präsentation findet im CAB-Meeting des Zentrums für Informationsdienste und Hochleitstungsrechnen im August 2018 statt und begründet die weitere Unterstützung des Matrix-Projektes durch das ZIH.
