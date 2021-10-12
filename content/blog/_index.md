@@ -11,12 +11,9 @@ weight: 200
 
 #### 11.10.2021 Rauminhalte bequem exportieren {#export}
 
-Seit Element-Version 1.9.1 ist es möglich, die Rauminhalte in einer .html, .txt oder .json Datei zu exportieren. 
+Seit Element-Version 1.9.1 ist es möglich, die Rauminhalte in einer .html, .txt oder .json Datei zu exportieren. Vielen Dank an [Jaiwanth Vemula von der IIT Kharagpur University in Indien](https://element.io/blog/element-1-9-1-export-is-finally-here/)!
 
 ![Export der Raumnachrichten](https://element.io/blog/content/images/size/w1000/2021/10/Screenshot-2021-10-11-at-10.21.21.png)
-
-Vielen Dank an [Jaiwanth Vemula von der IIT Kharagpur University in Indien](https://element.io/blog/element-1-9-1-export-is-finally-here/)!
-
 
 #### 08.10.2021 Spaces {#spaces}
 
@@ -24,17 +21,19 @@ Spaces heißt die Möglichkeit, Räume zu gruppieren und auch anderen Personen Z
 Ideal für Studierende eines Jahrgangs, in deren Space sich alle Räume aller Lehrveranstaltungen befinden. Oder für Arbeitsgruppen, deren verschiedene Themenräume sich hier gebündelt vorfinden und neuen Teammitgliedern so schnell den Zugriff auf alle Räume bieten.
 Spaces lösen die bisherigen Communities als Raumfilter ab.
 
-https://element.io/blog/spaces-blast-out-of-beta/
-https://element.io/blog/spaces-the-next-frontier/
+[1] https://element.io/blog/spaces-blast-out-of-beta/
+[2] https://element.io/blog/spaces-the-next-frontier/
+[3] https://gnulinux.ch/element-spaces
 
 
+![Räume in einem Space hinzufügen](https://element.io/blog/content/images/2021/09/spaces-add-existing-02-min.gif)
+![Space mit Anderen teilen](https://element.io/blog/content/images/size/w1000/2021/09/Invite@2x.png)
 
 #### 16.08.2021 Sprachnachrichten in Matrix/Element {#sprachnachrichten}
 
 Seit Element-Version 1.8 sind [Sprachnachrichten](https://element.io/blog/introducing-voice-messages-and-so-much-more/) leicht einsprech- und absendbar.
 
 ![Sprachnachrichten](https://element.io/blog/content/images/2021/08/output-1.gif)
-
 
 #### 27.07.2021 Deutsches Gesundheitswesen erhält Matrix Messenger
 
@@ -46,13 +45,9 @@ Das Open-Source-Messenger-Protokoll Matrix gewährleistet:
 - Innovation durch fortlaufende Weiterentwicklung.
 
 
-Hochschulen-Artikel (Element), Uni Linz
-
-
 #### 13.06.2021 TU Dresden hat mehr als 20.000 Matrix User {#20000}
 
 Inzwischen hat wohl schon mehr als die Hälfte der TU Dresden Angehörigen Matrix ausprobiert. 
-
 
 [![20.000 Matrix User @ TU Dresden](/images/blog/20210613_20000_Matrix_User.png)](https://doc.matrix.tu-dresden.de/Statistik/matrix-logins.html)
 
