@@ -127,11 +127,11 @@ Der weniger geeignete Name *Riot* für den Referent-Client wird ad acta gelegt u
 
 Bisher finanzierten verschiedene Stellen der TUD verschiedene studentische Hilfskräfte von Zeit zu Zeit, die das Matrix Setup der TU Dresden pflegen und weiterentwickeln. Seit Juli sind nun auch Mittel des CIO im Einsatz, was dem ganzen Projekt einen deutlichen Schub gibt und neuen SHK-Administrator:innen die Möglichkeit gibt, der TU Dresden an der Verbesserung ihrer Kommunikationsinfrastrukturen zu helfen! Vielen Dank an den CIO und Prof. Sander für seinen Einsatz in der CIO-Beiratssitzung vom 27.4.2020.
 
-#### 07.05.2020 - Cross-Signing
+#### 07.05.2020 - Cross-Signing (Quersignierung)
 
-Prof. Plikat erklärt, wie die Sicherung der Schlüssel von verschlüsselten Chats in Matrix/Riot funktioniert, und welche Rolle die neue Funktion “cross-signing” in diesem Zusammenhang spielt. [Direkt zum Video](https://inv.13ad.de/latest_version?id=VOxfa6dqXSk&itag=18&local=true)
+Prof. Plikat erklärt, wie die Sicherung der Schlüssel von verschlüsselten Chats in Matrix/Riot funktioniert, und welche Rolle die neue Funktion “cross-signing” in diesem Zusammenhang spielt. [Direkt zum Video](https://inv.13ad.de/watch?v=VOxfa6dqXSk)
 
-[![Cross-signing erklärt](/images/blog/keyserver.png)](https://jochen-plikat.com/2020/05/07/riot-cross-signing/)
+[![Cross-signing (Quersignierung) erklärt](/images/blog/keyserver.jpg)](https://jochen-plikat.com/2020/05/07/riot-cross-signing/)
 
 
 
@@ -169,7 +169,7 @@ Nach Abschluss der ca. einjährigen Betaphase beginnt, nach Rücksprache mit dem
 
 #### 15.04.2019 - CIO-Präsentation zu Empfehlungen von interner digitaler Kommunikation {#cio-vortrag}
 
-Das [Team Impuls & Interaktion (TII)](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) berät den CIO-Beirat der TU Dresden, mit welchen freien Tools eine Verbesserung der digitalen Infrastrukturen zur internen Kommunikation und Zusammenarbeit erzielt werden würde und wie den Wissenschaftler:innen an der TU Dresden dabei am meisten geholfen werden könnte. Als zentrales und wichtigstes Tool wird Matrix präsentiert. Die Unterstützung zahlreicher IT-Referenten bestätigte den eingeschlagenen Weg. Aufgrund mangelnder finanzieller Ressourcen wird eine Weiterentwicklung zwar nicht direkt unterstützt jedoch unter Selbstorganisation eines dezentralen Admin-Teams toleriert, dass unter der Schirmherrschaft vom Bereichs-CIO Mathematik und Naturwissenschaften, Prof. Dr. Oliver Sander, und unter Koordination des TIIs weiterarbeitet. Für eine kurzfristige Fortführung der Arbeiten der studentischen Hilfskräfte sind der Professur für Softwaretechnologie und dem [Team Impuls & Interaktion](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) für ihre finanzielle Unterstützung zu danken.
+Das [Team Impuls & Interaktion (TII)](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) berät den CIO-Beirat der TU Dresden, mit welchen freien Tools eine Verbesserung der digitalen Infrastrukturen zur internen Kommunikation und Zusammenarbeit erzielt werden würde und wie den Wissenschaftler:innen an der TU Dresden dabei am meisten geholfen werden könnte. Als zentrales und wichtigstes Tool wird Matrix präsentiert. Die Unterstützung zahlreicher IT-Referenten bestätigte den eingeschlagenen Weg. Aufgrund mangelnder finanzieller Ressourcen wird eine Weiterentwicklung zwar nicht direkt durch den CIO unterstützt jedoch unter Selbstorganisation eines dezentralen Admin-Teams toleriert. Dieses arbeitet fortan unter der Schirmherrschaft vom Bereichs-CIO Mathematik und Naturwissenschaften, Prof. Dr. Oliver Sander, und unter Koordination des TII. Für eine kurzfristige Fortführung der Arbeiten der studentischen Hilfskräfte sind der Professur für Softwaretechnologie und dem [Team Impuls & Interaktion](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) für ihre finanzielle Unterstützung zu danken.
 
 [![CIO-Präsentation](/images/blog/20190419_CIO-Vortrag.png)](https://doc.matrix.tu-dresden.de/images/blog/20190415_CIO-Meeting_KollaborativeTools.pdf)
 
