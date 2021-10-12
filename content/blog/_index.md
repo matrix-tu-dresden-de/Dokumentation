@@ -161,6 +161,7 @@ Der TUD Matrix Messenger ist nun weltweit erreichbar und föderiert mit vielen P
 
 Nach Abschluss der ca. einjährigen Betaphase beginnt, nach Rücksprache mit dem CIO, nun der Pilotbetrieb innerhalb der TU Dresden unter der neuen Domain [matrix.tu-dresden.de](https://matrix.tu-dresden.de).
 
+[![TUD Matrix Web-Client](/images/blog/TUD_Element_Web.jpg)](https://matrix.tu-dresden.de)
 
 #### 01.06.2019 - Bedeutung von Matrix wird an vielen Stellen wahrgenommen
 
