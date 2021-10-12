@@ -62,15 +62,12 @@ Und die [Uni Innsbruch](https://element.io/case-studies/university-of-innsbruck)
 
 Durch eine Aktualisierung am Matrix Server haben sich die Orte für Mediendateien verändert. Clients, die seit einem Zeitpunkt vor dem 28.03.2021 angemeldet sind, sehen Medien nicht mehr. Um dieses Problem zu lösen ist ein einmaliges Ab- und erneutes Anmelden nötig. Damit dabei keine früheren verschlüsselten Nachrichten unlesbar werden ist dringend auf die [in den FAQ beschriebene Prozedur]({{< relref "faq/_index.md" >}}) zu achten! Unsere großen Vorteile dadurch: Ab nun ist unser Matrix-Setup aber ein [MDAD](https://github.com/spantaleev/matrix-docker-ansible-deploy) mit automatischer Konfiguration der synapse worker und einer Verringerung der Angriffsgefahr durch Cross-Site Scripting (XSS).
 
-
-
 #### 02.03.2021 Pull Request für MDAD synapse worker erfolgreich gemergt
 
 Auf diesen Beitrag an der Matrix-Entwicklung kann die TU Dresden stolz sein! Am Wochenende wurde Pull Request (Vorschlag für verbesserten Programmcode) mit der Nummer [456](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/456) innerhalb des Matrix-Docker-Ansible-Deploy (MDAD) Repositoriums angenommen und in den Master-Zweig übernommen, der von der TU Dresden angestoßen und maßgeblich in den letzten 10 Monaten mitentwickelt wurde.
 Die Code-Anpassungen, die den Dresdner Matrix-Dienst schon seit April 2020 für mittlerweile > 18.000 User stabil durch gezielte Lastverteilung auf sogenannte *synapse worker* ermöglichen, wurden durch mehrere Personen kollaborativ weiterentwickelt und stehen nun allen MDAD-Nutzenden weltweit frei zur Verfügung.
 Die TU Dresden hat hier einmal mehr bewiesen, dass die Förderung von freier Software nicht nur durch die finanzielle Unterstützung einer Gruppe von Entwickelnden oder der direkten Beauftragung für die Entwicklung neuer Funktionen ([Beispiel LibreOffice](https://osb-alliance.de/pressemitteilungen/osb-alliance-meldet-erneut-erfolgreiches-crowdfunding-von-libreoffice-verbesserungen) oder [Beispiel PDF-Signaturen mit Okular](https://forums.puri.sm/t/okular-digital-signatures-and-tu-dresden/13808)) möglich ist. Wenn kaum Geld vorhanden ist, dann bleibt immerhin noch das Zurückspeisen von eigenen Weiterentwicklungen an die globale Community. 
 Die Ausnutzung von synapse-worker durch Pull Request 456 versetzt andere große Institutionen (z.B. die vielen Hochschulen, die auch Matrix einsetzen) in die Lage eine stabile, skalierbare Instanz zu betreiben.
-
 
 #### 22.01.2021 Beitrag bei *This Week in Matrix (TWIM)*
 
@@ -103,12 +100,14 @@ Der weniger geeignete Name *Riot* für den Referent-Client wird ad acta gelegt u
 
 #### 01.07.2020 Intensivere Weiterentwicklung dank CIO-Unterstützung
 
-Bisher finanzierten verschiedene Stellen der TUD verschiedene studentische Hilfskräfte, die das Matrix Setup der TU Dresden pflegen und weiterentwickeln. Seit Juli sind nun auch Mittel des CIO im Einsatz, was dem ganzen Projekt einen deutlichen Schub gibt und neuen SHK-Administrator:innen die Möglichkeit gibt, der TU Dresden an der Verbesserung ihrer Kommunikationsinfrastrukturen zu helfen!
+Bisher finanzierten verschiedene Stellen der TUD verschiedene studentische Hilfskräfte von Zeit zu Zeit, die das Matrix Setup der TU Dresden pflegen und weiterentwickeln. Seit Juli sind nun auch Mittel des CIO im Einsatz, was dem ganzen Projekt einen deutlichen Schub gibt und neuen SHK-Administrator:innen die Möglichkeit gibt, der TU Dresden an der Verbesserung ihrer Kommunikationsinfrastrukturen zu helfen!
 
 
 #### 07.05.2020 Cross-Signing
 
-Prof. Plikat erklärt fulminant das Cross-Signing zwischen verschiedenen Clients: https://jochen-plikat.com/2020/05/07/riot-cross-signing/
+Prof. Plikat erklärt, wie die Sicherung der Schlüssel von verschlüsselten Chats in Matrix/Riot funktioniert, und welche Rolle die neue Funktion “cross-signing” in diesem Zusammenhang spielt. [Direkt zum Video](https://inv.13ad.de/latest_version?id=VOxfa6dqXSk&itag=18&local=true)
+
+[![Cross-signing erklärt](/images/blog/keyserver.png)](https://jochen-plikat.com/2020/05/07/riot-cross-signing/)
 
 
 
@@ -119,7 +118,7 @@ Wir nutzen [Matrix-Docker-Ansible-Deploy (MDAD)](https://github.com/spantaleev/m
 
 #### 03/2020 - Stark ansteigende Nachfrage durch Corona {#corona}
 
-
+Aktuell ohne dedizierte Finanzierung engagiert sich das dezentrale Matrix-Admin-Team insb. mit Studierenden aufgrund des akuten Bedarfes für eine Sicherstellung der nachgefragten Kommunikationsinfrastruktur.
 
 #### 01/2020 - Neustart des Servermonitorings {#servermonitoring}
 
