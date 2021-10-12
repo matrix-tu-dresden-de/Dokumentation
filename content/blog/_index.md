@@ -93,8 +93,13 @@ Die Veröffentlichung der zweisprachigen [Matrix Dokumentation auf GitHub](https
 
 [![TWIM-Interview 22.01.2021](/images/blog/04_TWIM-2021-01-22.png)](https://inv.13ad.de/watch?v=UHJX2pmT2gk)
 
+{{< figure src="/images/blog/04_TWIM-2021-01-22.png" alt="TWIM-Interview 22.01.2021" width="600px" >}}
+
+[{{< figure src="/images/blog/04_TWIM-2021-01-22.png" alt="TWIM-Interview 22.01.2021" width="600px" >}}](https://inv.13ad.de/watch?v=UHJX2pmT2gk)
+
 [![Matrix Doku auf GitHub](/images/blog/02_TUD-Matrix-Doc-Github-Repo.png)](https://github.com/matrix-tu-dresden-de/Dokumentation)
 
+[{{< figure src="/images/blog/02_TUD-Matrix-Doc-Github-Repo.png" alt="Matrix Doku auf GitHub" width="600px" >}}](https://github.com/matrix-tu-dresden-de/Dokumentation)
 
 #### 22.01.2021 - Instanzkarte für Hochschulen
 
@@ -129,7 +134,7 @@ Bisher finanzierten verschiedene Stellen der TUD verschiedene studentische Hilfs
 
 #### 07.05.2020 - Cross-Signing (Quersignierung)
 
-Prof. Plikat erklärt, wie die Sicherung der Schlüssel von verschlüsselten Chats in Matrix/Riot funktioniert, und welche Rolle die neue Funktion “cross-signing” in diesem Zusammenhang spielt. [Direkt zum Video](https://inv.13ad.de/watch?v=VOxfa6dqXSk)
+Prof. Jochen Plikat (Institut für Romanistik) erklärt, wie die Sicherung der Schlüssel von verschlüsselten Chats in Matrix funktioniert, und welche Rolle die neue Funktion “cross-signing” (Quersignierung) in diesem Zusammenhang spielt. [Direkt zum Video](https://inv.13ad.de/watch?v=VOxfa6dqXSk)
 
 [![Cross-signing (Quersignierung) erklärt](/images/blog/keyserver.jpg)](https://jochen-plikat.com/2020/05/07/riot-cross-signing/)
 
