@@ -140,3 +140,16 @@ Due to an update on the Matrix server (28.03.2021), clients that have been logge
 * Losing the room keys will result in the loss of your messages, as they can only be read by you and your communication participants. No admin can help with that.
 * Because of the new session, a red warning sign is subsequently displayed for all your previous messages. This is not an error, but just a little too dramatic information setting (further information can be found here: [external link](https://github.com/vector-im/element-web/issues/13701))
 * If you only use Matrix on one device and you do not have access to your security phrase or security key you have to follow route c) to not loose your encrypted messages.
+
+
+#### Everywhere I only see „missing translation: en“ {#missing-translations}
+
+This phenomena is usually correlated with a not-ready update of the Matrix client. Reload the cache: Find the category „Help and About“ in your Element settings and scroll down: "Reload Cache" should solve this display problem.
+
+#### Is our server on your federation blacklist? {#blacklist}
+
+Currently we have no server on our federation blacklist. This cannot be the reason for your federation problem.
+
+#### I do not see any message of a specific person in a room {#blocked-user}
+
+A common reason for this is that you blocked that person by accident. You do not see any message of the person even if you hear that this person posted them. Open your Security settings in Element and scroll down. Please check in the category "Blocked user" if you find the person that does not belong there... Remove it!

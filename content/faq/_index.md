@@ -24,6 +24,9 @@ Dies ist eine Zusammenstellung häufiger Fragen und deren Antworten. Teilweise s
 * [Kann ich die Beitrittsrechte aller Räume meiner Community so anpassen, dass nur Mitglieder der Community Zutritt haben?](#roompermissions-in-communities)
 * [Kann ich mit Element mehrere Matrix-Accounts verwalten (Multi-Account-Client)?](#multiple-accounts-element)
 * [Ich kann keine Profil-/Raumbilder oder gesendete Bilder mehr sehen.](#relogin)
+* [Überall steht nur „missing translation: en“|](#missing-translations)
+* [Ist unser Server auf eurer Föderations-Blacklist?](#blacklist)
+* [Ich sehe in einem Raum von einer bestimmten Person keine Nachrichten](#blocked-user)
 
 ***
 #### Nachrichten nicht lesbar{#unable-to-decrypt}
@@ -130,3 +133,17 @@ Aufgrund einer Aktualisierung am Matrix Server (28.03.2021) finden Clients, die 
   * Das Verlieren der Raumschlüssel führt zum Verlust Ihrer Nachrichten, da diese nur für Sie und ihre Kommunikationsteilnehmer:innen lesbar sind. Da kann kein Admin helfen.
   * Aufgrund der neuen Sitzung wird anschließend bei allen Ihrer früheren Nachrichten ein rotes Warnschild anzeigt. Das ist kein Fehler, sondern nur eine etwas zu dramatisch eingestellte Information (Diskussionen diesbzgl. gibt es hier: [externer Link](https://github.com/vector-im/element-web/issues/13701))
   * Sollten Sie Matrix nur auf einem Gerät nutzen und derzeit keinen Zugriff auf Ihre schon eingerichtete Schlüsselsicherung haben (also die Sicherheitsphrase oder den Sicherheitsschlüssel nicht finden, dann müssen Sie Option c) folgen um keinen Verlust Ihrer verschlüsselten Nachrichten zu erfahren)
+
+
+#### Überall steht nur „missing translation: en“ {#missing-translations}
+
+Dieses Phänomen steht häufig im Zusammenhang mit noch nicht fertiggestellten Aktualisierungen des Matrix-Clients. Laden Sie den Zwischenspeicher neu: Gehen Sie in den Element-Einstellungen in die Kategorie „Hilfe und Über“ und scrollen Sie ganz nach unten: „Zwischenspeicher löschen und neu laden“ sollte das Anzeigeproblem beheben.
+
+#### Ist unser Server auf eurer Föderations-Blacklist? {#blacklist}
+
+Aktuell befindet sich kein Server auf unserer Föderations-Blacklist. Dies kann nicht der Grund für etwaige Förderations-Probleme sein.
+
+
+#### Ich sehe in einem Raum von einer bestimmten Person keine Nachrichten {#blocked-user}
+
+Ein häufig vorkommender Grund hierfür ist, dass Sie sich verklickt haben und die Person, von der Sie keine Nachrichten mehr sehen, obwohl Ihnen berichtet wird, dass dort etwas stehen müsste, von Ihnen blockiert wurde. Öffnen Sie hierzu Ihre Sicherheitseinstellungen und scrollen weit nach unten. Prüfen Sie, ob in der Kategorie „Blockierte Benutzer“ Einträge stehen, die dort nicht hingehören. Entfernen Sie diese ggf.
