@@ -171,6 +171,7 @@ Nach Abschluss der ca. einjährigen Betaphase beginnt, nach Rücksprache mit dem
 
 Das [Team Impuls & Interaktion (TII)](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) berät den CIO-Beirat der TU Dresden, mit welchen freien Tools eine Verbesserung der digitalen Infrastrukturen zur internen Kommunikation und Zusammenarbeit erzielt werden würde und wie den Wissenschaftler:innen an der TU Dresden dabei am meisten geholfen werden könnte. Als zentrales und wichtigstes Tool wird Matrix präsentiert. Die Unterstützung zahlreicher IT-Referenten bestätigte den eingeschlagenen Weg. Aufgrund mangelnder finanzieller Ressourcen wird eine Weiterentwicklung zwar nicht direkt unterstützt jedoch unter Selbstorganisation eines dezentralen Admin-Teams toleriert, dass unter der Schirmherrschaft vom Bereichs-CIO Mathematik und Naturwissenschaften, Prof. Dr. Oliver Sander, und unter Koordination des TIIs weiterarbeitet. Für eine kurzfristige Fortführung der Arbeiten der studentischen Hilfskräfte sind der Professur für Softwaretechnologie und dem [Team Impuls & Interaktion](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) für ihre finanzielle Unterstützung zu danken.
 
+[![CIO-Präsentation](/images/blog/20190419_CIO-Vortrag.png)](https://doc.matrix.tu-dresden.de/images/blog/20190415_CIO-Meeting_KollaborativeTools.pdf)
 
 
 #### 10/2018 - Matrix-Testserver geht online {#testserver}
