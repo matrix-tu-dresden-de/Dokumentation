@@ -131,7 +131,7 @@ Bisher finanzierten verschiedene Stellen der TUD verschiedene studentische Hilfs
 
 Prof. Plikat erklärt, wie die Sicherung der Schlüssel von verschlüsselten Chats in Matrix/Riot funktioniert, und welche Rolle die neue Funktion “cross-signing” in diesem Zusammenhang spielt. [Direkt zum Video](https://inv.13ad.de/latest_version?id=VOxfa6dqXSk&itag=18&local=true)
 
-[![Cross-signing erklärt](/images/blog/keyserver.png)](https://jochen-plikat.com/2020/05/07/riot-cross-signing/)
+[![Cross-signing erklärt](/images/blog/keyserver.jpg)](https://jochen-plikat.com/2020/05/07/riot-cross-signing/)
 
 
 
@@ -144,7 +144,7 @@ Wir nutzen [Matrix-Docker-Ansible-Deploy (MDAD)](https://github.com/spantaleev/m
 
 Start des landesweiten Homeschoolings = Home-Office für Alle mit schulpflichtigen Kindern. Aktuell ohne dedizierte Finanzierung engagiert sich das dezentrale Matrix-Admin-Team insb. mit Studierenden aufgrund des akuten Bedarfes für eine Sicherstellung der nachgefragten Kommunikationsinfrastruktur. Ein besonderer Dank geht hierzu an Christoph Johannes Kleine und Marcel Partap! Aber auch ringsherum ist die Professionalisierung des Teams mit OTRS-Ticket-Queue, Matrix-mail und Support-Raum zu spüren. 
 
-Lehrende, wie z.B. Prof. Alexander Lasch (Institut für Germanistik ), bereiten sich unterdessen auf ein digitales Sommersemester vor und entdecken u.a. auch den TUD Matrix Messenger.
+Lehrende, wie z.B. Prof. Alexander Lasch (Institut für Germanistik), bereiten sich unterdessen auf ein digitales Sommersemester vor und entdecken u.a. auch den TUD Matrix Messenger.
 
 [![Digitale Lehre 1: MATRIX Web Messenger](/images/blog/20210316_Matrix_TUDresden.jpg)](https://inv.13ad.de/watch?v=AtkA-sE-9uU)
 
@@ -157,7 +157,7 @@ Der TUD Matrix Messenger ist nun weltweit erreichbar und föderiert mit vielen P
 
 #### 10/2019 - Pilotbetrieb unter matrix.tu-dresden.de beginn {#stable}
 
-Nach Abschluss der einjährigen Betaphase beginnt, nach Rücksprache mit dem CIO, nun der Pilotbetrieb innerhalb der TU Dresden.
+Nach Abschluss der einjährigen Betaphase beginnt, nach Rücksprache mit dem CIO, nun der Pilotbetrieb innerhalb der TU Dresden unter der neuen Domain [matrix.tu-dresden.de](https://matrix.tu-dresden.de)
 
 
 #### 01.06.2019 - Bedeutung von Matrix wird an vielen Stellen wahrgenommen
