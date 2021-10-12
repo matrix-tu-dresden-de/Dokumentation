@@ -131,7 +131,7 @@ Bisher finanzierten verschiedene Stellen der TUD verschiedene studentische Hilfs
 
 Prof. Plikat erklärt, wie die Sicherung der Schlüssel von verschlüsselten Chats in Matrix/Riot funktioniert, und welche Rolle die neue Funktion “cross-signing” in diesem Zusammenhang spielt. [Direkt zum Video](https://inv.13ad.de/latest_version?id=VOxfa6dqXSk&itag=18&local=true)
 
-[![Cross-signing erklärt](/images/blog/keyserver.jpg)](https://jochen-plikat.com/2020/05/07/riot-cross-signing/)
+[![Cross-signing erklärt](/images/blog/keyserver.png)](https://jochen-plikat.com/2020/05/07/riot-cross-signing/)
 
 
 
