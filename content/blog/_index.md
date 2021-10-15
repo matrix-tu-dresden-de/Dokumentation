@@ -47,7 +47,7 @@ Das Open-Source-Messenger-Protokoll Matrix gewährleistet:
 
 #### 13.06.2021 - TU Dresden hat mehr als 20.000 Matrix User {#20000}
 
-Inzwischen hat wohl schon mehr als die Hälfte der TU Dresden Angehörigen Matrix ausprobiert. 
+Inzwischen hat wohl schon mehr als die Hälfte der TU Dresden Angehörigen Matrix ausprobiert.
 
 [![20.000 Matrix User @ TU Dresden](/images/blog/20210613_20000_Matrix_User.png)](https://doc.matrix.tu-dresden.de/Statistik/matrix-logins.html)
 
@@ -84,7 +84,7 @@ Durch eine Aktualisierung am Matrix Server haben sich die Orte für Mediendateie
 
 Auf diesen Beitrag an der Matrix-Entwicklung kann die TU Dresden stolz sein! Am Wochenende wurde Pull Request (Vorschlag für verbesserten Programmcode) mit der Nummer [456](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/456) innerhalb des Matrix-Docker-Ansible-Deploy (MDAD) Repositoriums angenommen und in den Master-Zweig übernommen, der von der TU Dresden angestoßen und maßgeblich in den letzten 10 Monaten mitentwickelt wurde.
 Die Code-Anpassungen, die den Dresdner Matrix-Dienst schon seit April 2020 für mittlerweile > 18.000 User stabil durch gezielte Lastverteilung auf sogenannte *synapse worker* ermöglichen, wurden durch mehrere Personen kollaborativ weiterentwickelt und stehen nun allen MDAD-Nutzenden weltweit frei zur Verfügung.
-Die TU Dresden hat hier einmal mehr bewiesen, dass die Förderung von freier Software nicht nur durch die finanzielle Unterstützung einer Gruppe von Entwickelnden oder der direkten Beauftragung für die Entwicklung neuer Funktionen ([Beispiel LibreOffice](https://osb-alliance.de/pressemitteilungen/osb-alliance-meldet-erneut-erfolgreiches-crowdfunding-von-libreoffice-verbesserungen) oder [Beispiel PDF-Signaturen mit Okular](https://forums.puri.sm/t/okular-digital-signatures-and-tu-dresden/13808)) möglich ist. Wenn kaum Geld vorhanden ist, dann bleibt immerhin noch das Zurückspeisen von eigenen Weiterentwicklungen an die globale Community. 
+Die TU Dresden hat hier einmal mehr bewiesen, dass die Förderung von freier Software nicht nur durch die finanzielle Unterstützung einer Gruppe von Entwickelnden oder der direkten Beauftragung für die Entwicklung neuer Funktionen ([Beispiel LibreOffice](https://osb-alliance.de/pressemitteilungen/osb-alliance-meldet-erneut-erfolgreiches-crowdfunding-von-libreoffice-verbesserungen) oder [Beispiel PDF-Signaturen mit Okular](https://forums.puri.sm/t/okular-digital-signatures-and-tu-dresden/13808)) möglich ist. Wenn kaum Geld vorhanden ist, dann bleibt immerhin noch das Zurückspeisen von eigenen Weiterentwicklungen an die globale Community.
 Die Ausnutzung von synapse-worker durch Pull Request 456 versetzt andere große Institutionen (z.B. die vielen Hochschulen, die auch Matrix einsetzen) in die Lage eine stabile, skalierbare Instanz zu betreiben.
 
 #### 22.01.2021 - Beitrag bei *This Week in Matrix (TWIM)*
@@ -141,9 +141,9 @@ Wir nutzen [Matrix-Docker-Ansible-Deploy (MDAD)](https://github.com/spantaleev/m
 
 #### 16.03.2020 - Stark ansteigende Nachfrage durch Corona {#corona}
 
-Start des landesweiten Homeschoolings = Home-Office für Alle mit schulpflichtigen Kindern. Aktuell ohne dedizierte Finanzierung engagiert sich das dezentrale Matrix-Admin-Team insb. mit Studierenden aufgrund des akuten Bedarfes für eine Sicherstellung der nachgefragten Kommunikationsinfrastruktur. Ein besonderer Dank geht hierzu an Christoph Johannes Kleine und Marcel Partap! Aber auch ringsherum ist die Professionalisierung des Teams mit OTRS-Ticket-Queue, Matrix-mail und Support-Raum zu spüren. 
+Start des landesweiten Homeschoolings = Home-Office für Alle mit schulpflichtigen Kindern. Aktuell ohne dedizierte Finanzierung engagiert sich das dezentrale Matrix-Admin-Team insb. mit Studierenden aufgrund des akuten Bedarfes für eine Sicherstellung der nachgefragten Kommunikationsinfrastruktur. Ein besonderer Dank geht hierzu an Christoph Johannes Kleine und Marcel Partap! Aber auch ringsherum ist die Professionalisierung des Teams mit OTRS-Ticket-Queue, Matrix-mail und Support-Raum zu spüren.
 
-Lehrende beginnen sich auf ein digitales Sommersemester vorzubereiten und Prof. Alexander Lasch (Institut für Germanistik) hilft Allen neue Tools zu entdecken, z.B. auch den TUD Matrix Messenger. Andere, wie Dr. Eike Dohmen, helfen mit einer PDF-Anleitung zur Matrix-Nutzung, die innerhalb der Universität zirkuliert... Vielen Dank auch für all diese Unterstützung!
+Lehrende beginnen sich auf ein digitales Sommersemester vorzubereiten und Prof. Alexander Lasch (Institut für Germanistik) hilft allen neue Tools zu entdecken, z.B. auch den TUD Matrix Messenger. Andere, wie Dr. Eike Dohmen, helfen mit einer PDF-Anleitung zur Matrix-Nutzung, die innerhalb der Universität zirkuliert... Vielen Dank auch für all diese Unterstützung!
 
 [![Digitale Lehre 1: MATRIX Web Messenger](/images/blog/20210316_Matrix_TUDresden.jpg)](https://inv.13ad.de/watch?v=AtkA-sE-9uU)
 
@@ -164,7 +164,7 @@ Nach Abschluss der ca. einjährigen Betaphase beginnt, nach Rücksprache mit dem
 
 #### 01.06.2019 - Bedeutung von Matrix wird an vielen Stellen wahrgenommen
 
-„Die einzige App, die alle relevanten Kriterien für eine Alternative zu WhatsApp erfüllt ist Riot“, so schreibt Jun.-Prof. Jochen Plikat (Institut für Romanistik) in seinem [Blockbeitrag](https://jochen-plikat.com/2019/06/01/whatsapp-alternative-riot/). Weiter führt er die Einführung eines auf Matrix basierenden Chat-Systems „[für alle französischen Staatsbediensteten](https://www.golem.de/news/statt-whatsapp-frankreich-wandert-in-die-matrix-1902-139167.html)“ an. 
+„Die einzige App, die alle relevanten Kriterien für eine Alternative zu WhatsApp erfüllt ist Riot“, so schreibt Jun.-Prof. Jochen Plikat (Institut für Romanistik) in seinem [Blogbeitrag](https://jochen-plikat.com/2019/06/01/whatsapp-alternative-riot/). Weiter führt er die Einführung eines auf Matrix basierenden Chat-Systems „[für alle französischen Staatsbediensteten](https://www.golem.de/news/statt-whatsapp-frankreich-wandert-in-die-matrix-1902-139167.html)“ an.
 
 
 #### 15.04.2019 - CIO-Präsentation zu Empfehlungen von interner digitaler Kommunikation {#cio-vortrag}
