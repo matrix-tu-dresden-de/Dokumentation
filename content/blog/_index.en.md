@@ -31,7 +31,7 @@ Spaces replace the previous communities as room filters
 
 #### 16.08.2021 - Voice messages in Matrix/Element {#sprachnachrichten}
 
-Since Element version 1.8, [Voice messages](https://element.io/blog/introducing-voice-messages-and-so-much-more/) are easily speakable and sendable.
+Since Element version 1.8, [Voice messages](https://element.io/blog/introducing-voice-messages-and-so-much-more/) are easily recordable and sendable.
 
 ![Voice messages](https://element.io/blog/content/images/2021/08/output-1.gif)
 
@@ -41,7 +41,7 @@ The German Ministry of Health announces the adoption of Matrix as the messaging 
 The Matrix open-source messenger protocol ensures:
 - Interoperability - and thus cross-sector and cross-provider exchange.
 - Integrity thanks to a high level of out-of-the-box security,
-- end-to-end encryption, and
+- End-to-End Encryption, and
 - Innovation through continuous further development.
 
 #### 13.06.2021 - TU Dresden has more than 20,000 Matrix users {#20000}
@@ -71,7 +71,7 @@ setInterval(() => {
 
 TU Dresden appears on the [Element Blog](https://element.io/blog/universal-universities/) and an [Element Education Sector page](https://element.io/sectors/education) as a successful installation example and with the instance map.
 ETH Zurich](https://matrix.org/using-matrix/case-studies/eth-zurich-adopts-matrix-for-physics-department) reports on how more and more teams are switching from Slack to Matrix.
-And the [Uni Innsbruch](https://element.io/case-studies/university-of-innsbruck) explains in detail their path to Matrix adoption.
+And [Uni Innsbruck](https://element.io/case-studies/university-of-innsbruck) explains in detail their path to Matrix adoption.
 
 #### 27.03.2021 - Relogin
 
@@ -119,7 +119,7 @@ The less suitable name *Riot* for the referent client is put aside and with Elem
 
 #### 01.07.2020 -  More intensive further development thanks to CIO support
 
-So far, various TUD offices have funded different student assistants from time to time to maintain and further develop the Matrix setup at TU Dresden. Since July, funding from the CIO is now also in place, giving the whole project a significant boost and giving new student administrators the opportunity to help TU Dresden improve its communication infrastructures! Many thanks to the CIO and Prof. Sander for his input in the CIO Advisory Board meeting on 27.4.2020.
+So far, various TUD offices have funded different student assistants from time to time to maintain and further develop the Matrix setup at TU Dresden. Since July, funding from the CIO is now also in place, giving the whole project a significant boost and giving new student administrators the opportunity to help TU Dresden improve its communication infrastructures! Many thanks to the CIO for this funding and Prof. Sander for his input in the CIO Advisory Board meeting on 27.4.2020.
 
 #### 07.05.2020 - Cross-Signing
 
@@ -158,14 +158,14 @@ After completion of the approximately one-year beta phase, pilot operation withi
 
 #### 15.04.2019 - CIO presentation on recommendations of internal digital communication {#cio-vortrag}
 
-The [Team Impuls & Interaktion (TII)](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) advises the CIO Advisory Board of TU Dresden which free tools would improve the digital infrastructures for internal communication and collaboration and how scientists at TU Dresden could be helped the most. Matrix is presented as the central and most important tool. The support of numerous IT-representatives confirmed the chosen path. Due to a lack of financial resources, further development is not directly supported by the CIO, but tolerated under the self-organization of a decentralized admin team. From now on, this team will work under the auspices of the CIO for Mathematics and Natural Sciences, Prof. Dr. Oliver Sander, and under the coordination of the TII. For a short-term continuation of the work of the student assistants, we would like to thank the Chair of Software Technology and the [Team Impuls & Interaktion](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) for their financial support.
+The [Team Initiation & Interaction (TII)](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) advises the CIO Advisory Board of TU Dresden which free tools would improve the digital infrastructures for internal communication and collaboration and how scientists at TU Dresden could be helped the most. Matrix is presented as the central and most important tool. The support of numerous IT-representatives confirmed the chosen path. Due to a lack of financial resources, further development is not directly supported by the CIO, but tolerated under the self-organization of a decentralized admin team. From now on, this team will work under the auspices of the CIO of the School of Science, Prof. Dr. Oliver Sander, and under the coordination of the TII. For a short-term continuation of the work of the student assistants, we would like to thank the Chair of Software Technology and the [Team Initiation & Interaction](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) for their financial support.
 
 [![CIO-Präsentation](/images/blog/20190419_CIO-Vortrag.png)](https://doc.matrix.tu-dresden.de/images/blog/20190415_CIO-Meeting_KollaborativeTools.pdf)
 
 #### 10/2018 - Matrix-Testserver goes online {#testserver}
 
-After tests with [Mattermost](https://de.wikipedia.org/wiki/Mattermost), [Rocket.Chat](https://en.wikialpha.org/wiki/Rocket.chat) and [Zulip](https://en.wikipedia.org/wiki/Zulip), the [Team Impuls & Interaktion (TII)](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) launches the first Matrix homeserver at https://matrix.tii.tu-dresden.de and tests it with interdisciplinary communities from the TU Dresden and its surrounding cooperation partners. Many thanks to Joris Baum for the initial Synapse installation and to the [Hochschulgruppe Freie Software Freies Wissen](https://fsfw-dresden.de/), esp. to Marcel Partap and Christoph Johannes Kleine, for the intensive further development. Many thanks are also due to the [Center for Information Services and High Performance Computing (ZIH)](https://tu-dresden.de/zih/) as well as the [Department of Mathematics and Natural Sciences](https://tu-dresden.de/mn/der-bereich/leitung-und-verwaltung) for the financial support of the initial student assistants.
+After tests with [Mattermost](https://de.wikipedia.org/wiki/Mattermost), [Rocket.Chat](https://en.wikialpha.org/wiki/Rocket.chat) and [Zulip](https://en.wikipedia.org/wiki/Zulip), the [Team Initiation & Interaction (TII)](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) launches the first Matrix homeserver at https://matrix.tii.tu-dresden.de and tests it with interdisciplinary communities from the TU Dresden and its surrounding cooperation partners. Many thanks to Joris Baum for the initial Synapse installation and to the [Hochschulgruppe Freie Software Freies Wissen](https://fsfw-dresden.de/), esp. to Marcel Partap and Christoph Johannes Kleine, for the intensive further development. Many thanks are also due to the [Center for Information Services and High Performance Computing (ZIH)](https://tu-dresden.de/zih/) as well as the [School of Science](https://tu-dresden.de/mn/der-bereich/leitung-und-verwaltung) for the financial support of the initial student assistants.
 
 #### 06/2018 - Planning start{#start}
 
-In the course of preparing for the expected digital, asynchronous collaboration in the Cluster of Excellence *DCM - Dresden Center for Materiomics*, the [Team Impuls & Interaktion](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) started to design the future internal communication of the cluster. A first presentation will take place in the CAB meeting of the Center for Information Services and High Performance Computing in August 2018 and justifies the further support of the Matrix project by ZIH.
+In the course of preparing for the expected digital, asynchronous collaboration in the Cluster of Excellence *DCM - Dresden Center for Materiomics*, the [Team Initiation & Interaction](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) started to design the future internal communication of the cluster. A first presentation takes place in the CAB meeting of the Center for Information Services and High Performance Computing (ZIH) in August 2018 and sets the ground for the further support of the Matrix project by ZIH.
