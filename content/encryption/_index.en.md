@@ -44,7 +44,7 @@ A detailed description of the topic can be found in this [video by Prof. Plikat]
 
 The adjustment itself is done via emoji images or QR codes, which can look different depending on the device and icon pack. Also the translation of all interface elements into German is not 100% available.
 
-![Emoji comparison to verify the key exchange](/images/16_E2EE.png)
+![Emoji comparison to verify the key exchange](/images/16_E2EE_en.png)
 
 This is done analogously in rooms with several participants, each one individually. 
 
