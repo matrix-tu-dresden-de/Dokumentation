@@ -133,9 +133,9 @@ We use [Matrix-Docker-Ansible-Deploy (MDAD)](https://github.com/spantaleev/matri
 
 #### 16.03.2020 - Strong increase in demand due to Corona {#corona}
 
-Start of nationwide homeschooling = home office for all with school-age children. Currently without dedicated funding, the decentralized Matrix admin team, especially with students, is committed to ensuring the demanded communication infrastructure due to the acute need. Special thanks go to Christoph Johannes Kleine and Marcel Partap! But also all around the professionalization of the team with OTRS ticket queue, Matrix mail and Support-Room can be felt.
+Start of nationwide homeschooling = home office for all with school-age children. Currently without dedicated funding, the decentralized Matrix admin team, especially with students, is committed to ensuring the demanded communication infrastructure due to the acute need. Special thanks go to Christoph Johannes Kleine and Marcel Partap! But also all around the Matrix Admin Team we see a professionalization, with a OTRS ticket queue, a central Matrix mail, and a public Support-Room.
 
-Teachers start preparing for a digital summer semester and Prof. Alexander Lasch (Institute of German Studies) helps everyone discover new tools, including the TUD Matrix Messenger. Others, like Dr. Eike Dohmen, help with a PDF guide to Matrix usage that circulates within the university.... Thanks also for all this support!
+Teachers start preparing for a digital summer semester and Prof. Alexander Lasch (Institute of German Studies) helps everyone to discover new tools, including the TUD Matrix Messenger. Others, like Dr. Eike Dohmen, help with a PDF guide to Matrix usage that circulates within the university.... Thanks also for all this support!
 
 [![Digitale Lehre 1: MATRIX Web Messenger](/images/blog/20210316_Matrix_TUDresden.jpg)](https://inv.13ad.de/watch?v=AtkA-sE-9uU)
 
