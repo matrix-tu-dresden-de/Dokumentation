@@ -141,9 +141,9 @@ Wir nutzen [Matrix-Docker-Ansible-Deploy (MDAD)](https://github.com/spantaleev/m
 
 #### 16.03.2020 - Stark ansteigende Nachfrage durch Corona {#corona}
 
-Start des landesweiten Homeschoolings = Home-Office für Alle mit schulpflichtigen Kindern. Aktuell ohne dedizierte Finanzierung engagiert sich das dezentrale Matrix-Admin-Team insb. mit Studierenden aufgrund des akuten Bedarfes für eine Sicherstellung der nachgefragten Kommunikationsinfrastruktur. Ein besonderer Dank geht hierzu an Christoph Johannes Kleine und Marcel Partap! Aber auch ringsherum ist die Professionalisierung des Teams mit OTRS-Ticket-Queue, Matrix-mail und Support-Raum zu spüren.
+Start des landesweiten Homeschoolings = Home-Office für Alle mit schulpflichtigen Kindern. Aktuell ohne dedizierte Finanzierung engagiert sich das dezentrale Matrix-Admin-Team insb. mit Studierenden aufgrund des akuten Bedarfes für eine Sicherstellung der nachgefragten Kommunikationsinfrastruktur. Ein besonderer Dank geht hierzu an Christoph Johannes Kleine und Marcel Partap! Aber auch ringsherum ist im Matrix Admin Team eine Professionalisierung zu spüren, mit OTRS-Ticket-Queue, zentraler Matrix-mail-Adresse und einem öffentlichen Support-Raum.
 
-Lehrende beginnen sich auf ein digitales Sommersemester vorzubereiten und Prof. Alexander Lasch (Institut für Germanistik) hilft allen neue Tools zu entdecken, z.B. auch den TUD Matrix Messenger. Andere, wie Dr. Eike Dohmen, helfen mit einer PDF-Anleitung zur Matrix-Nutzung, die innerhalb der Universität zirkuliert... Vielen Dank auch für all diese Unterstützung!
+Lehrende beginnen sich auf ein digitales Sommersemester vorzubereiten und Prof. Alexander Lasch (Institut für Germanistik) hilft Allen, neue Tools zu entdecken, z.B. auch den TUD Matrix Messenger. Dr. Eike Dohmen hilft mit einer PDF-Anleitung zur Matrix-Nutzung, die innerhalb der Universität zirkuliert... Vielen Dank auch für all diese Unterstützung!
 
 [![Digitale Lehre 1: MATRIX Web Messenger](/images/blog/20210316_Matrix_TUDresden.jpg)](https://inv.13ad.de/watch?v=AtkA-sE-9uU)
 
