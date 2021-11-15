@@ -12,6 +12,10 @@ Downloads for: {{% button href="https://play.google.com/store/apps/details?id=im
 
 The following series of images shows screenshots of the setup of Android or iOS Element:
 
+{{% notice info %}}
+In contrast to the here shown screenshots you have to use the cumstom homeserver url matrix.tu-dresden.de in iOS Element.
+{{% /notice %}}
+
 ![Screenshot of the login procedure under Android/iOS](/images/15_Android1_en.png)
 
 ![Screenshot of the Android client element after successful login](/images/15_Android2_en.png)
