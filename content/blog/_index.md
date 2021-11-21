@@ -156,9 +156,9 @@ Der TUD Matrix Messenger ist nun weltweit erreichbar und föderiert mit vielen P
 [![TUD Matrix User](/images/blog/20200403_Matrix_TUD_User.png)](https://doc.matrix.tu-dresden.de/Statistik/matrix-logins.html)
 
 
-#### 01.10.2019 - Pilotbetrieb unter matrix.tu-dresden.de beginnt {#stable}
+#### 01.10.2019 - Regelbetrieb unter matrix.tu-dresden.de beginnt {#stable}
 
-Nach Abschluss der ca. einjährigen Betaphase beginnt, nach Rücksprache mit dem CIO, nun der Pilotbetrieb innerhalb der TU Dresden unter der neuen Domain [matrix.tu-dresden.de](https://matrix.tu-dresden.de).
+Nach Abschluss der ca. einjährigen Pilotphase beginnt, nach Rücksprache mit dem CIO, nun der Regelbetrieb innerhalb der TU Dresden unter der neuen Domain [matrix.tu-dresden.de](https://matrix.tu-dresden.de).
 
 [![TUD Matrix Web-Client](/images/blog/TUD_Element_Web.jpg)](https://matrix.tu-dresden.de)
 
@@ -174,7 +174,7 @@ Das [Team Impuls & Interaktion (TII)](https://tu-dresden.de/tu-dresden/profil/ex
 [![CIO-Präsentation](/images/blog/20190419_CIO-Vortrag.png)](https://doc.matrix.tu-dresden.de/images/blog/20190415_CIO-Meeting_KollaborativeTools.pdf)
 
 
-#### 10/2018 - Matrix-Testserver geht online {#testserver}
+#### 10/2018 - Matrix-Testserver geht online (Pilotphase) {#testserver}
 
 Das [Team Impuls & Interaktion](https://tu-dresden.de/tu-dresden/profil/exzellenz/exzellenzinitiative-2012-2019/zukunftskonzept-1/zse/archiv) startet nach Tests mit [Mattermost](https://de.wikipedia.org/wiki/Mattermost), [Rocket.Chat](https://en.wikialpha.org/wiki/Rocket.chat) und [Zulip](https://en.wikipedia.org/wiki/Zulip) den ersten Matrix-Homeserver unter https://matrix.tii.tu-dresden.de und testet diesen mit interdisziplinären Communities aus der TU Dresden und ihren umliegenden Kooperationspartner:innen. Vielen Dank an Joris Baum für die initiale Synapse-Installation sowie an die [Hochschulgruppe Freie Software Freies Wissen](https://fsfw-dresden.de/), insb. an Marcel Partap und Christoph Johannes Kleine, für die intensive Weiterentwicklung. Ein großer Dank gebührt auch dem [Zentrum für Informationsdienste und Hochleistungsrechnen (ZIH)](https://tu-dresden.de/zih/) sowie dem [Bereich Mathematik und Naturwissenschaften](https://tu-dresden.de/mn/der-bereich/leitung-und-verwaltung) für die finanzielle Unterstützung der ersten studentischen Hilfskräfte.
 
