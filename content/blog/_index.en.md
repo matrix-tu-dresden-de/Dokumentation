@@ -145,9 +145,9 @@ The TUD Matrix Messenger is now accessible worldwide and federated with many par
 
 [![TUD Matrix User](/images/blog/20200403_Matrix_TUD_User.png)](https://doc.matrix.tu-dresden.de/Statistik/matrix-logins.html)
 
-#### 01.10.2019 - Pilot operation at matrix.tu-dresden.de begins {#stable}
+#### 01.10.2019 - Regular operation at matrix.tu-dresden.de begins {#stable}
 
-After completion of the approximately one-year beta phase, pilot operation within the TU Dresden will now begin under the new domain [matrix.tu-dresden.de](https://matrix.tu-dresden.de), following consultation with the CIO.
+After completion of the approximately one-year beta phase, regular operation within the TU Dresden will now begin under the new domain [matrix.tu-dresden.de](https://matrix.tu-dresden.de), following consultation with the CIO.
 
 [![TUD Matrix Web-Client](/images/blog/TUD_Element_Web.jpg)](https://matrix.tu-dresden.de)
 
