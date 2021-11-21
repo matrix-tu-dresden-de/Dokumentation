@@ -154,6 +154,8 @@ Kartendarstellung der Hochschulen und Universitäten mit einem Matrix-Dienst:
 
 Für die zivilgesellschaftliche Nutzung des Protokolls Matrix gibt es hier eine Liste an öffentlichen Heimservern, die auch von Kolleg:innen genutzt werden können, falls ihre Institution noch keinen Matrix-Server anbietet:
 
+[https://austinhuang.me/matrix-homeservers.html](https://austinhuang.me/matrix-homeservers.html)
+
 [https://www.hello-matrix.net/public_servers.php](https://www.hello-matrix.net/public_servers.php)
 
 [https://publiclist.anchel.nl/](https://publiclist.anchel.nl/)
