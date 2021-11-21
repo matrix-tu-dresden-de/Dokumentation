@@ -155,6 +155,9 @@ Weitere europäische Hochschulen:
 
 
 For civil use of the Matrix protocol, here is a list of public home servers that can also be used by Kolleg:innen if their institution does not yet offer a Matrix server:
+
+[https://austinhuang.me/matrix-homeservers.html](https://austinhuang.me/matrix-homeservers.html)
+
 [https://www.hello-matrix.net/public_servers.php](https://www.hello-matrix.net/public_servers.php)
 
 [https://publiclist.anchel.nl/](https://publiclist.anchel.nl/)
