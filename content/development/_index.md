@@ -18,9 +18,12 @@ Da es sich um freie Software handelt, können Verbesserungswünsche in direkte P
 
 Aktuell noch in der Entwicklung, und durch Aufträge/Spenden förderbar/beschleunigbar, sind u.a.
 
-* Chat-Export
-* Threading (übersichtlicher gestaltete Diskussionen)
-* persönlichen Status setzen
+* [Abzweigende Gedankengänge](https://github.com/vector-im/roadmap/issues/34)
+* [Anklopfen an Räume](https://github.com/vector-im/roadmap/issues/31)
+* [persönlichen Status setzen](https://github.com/vector-im/roadmap/issues/22)
+* PDF Dateivorschau
+* [Letzte Nachrichten als ungelesen markieren](https://github.com/vector-im/roadmap/issues/34)
+* [Umfragen](https://github.com/vector-im/roadmap/issues/29)
 * verschiedenste Integrationen / Bots / Bridges
 
 Diskussionen zu dem Thema können in Matrix@TUD durchgeführt werden.
