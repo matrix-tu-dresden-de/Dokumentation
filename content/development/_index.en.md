@@ -18,9 +18,13 @@ Since it is free software, improvement requests can be converted into direct pro
 
 Currently still in development, and can be promoted/accelerated by orders/donations, are among others
 
-* chat export
-* Threading (more clearly arranged discussions)
-* personal status
+
+* [Threading (more clearly arranged discussions)](https://github.com/vector-im/roadmap/issues/34)
+* [Knock on rooms](https://github.com/vector-im/roadmap/issues/31)
+* [Personal status](https://github.com/vector-im/roadmap/issues/22)
+* PDF Preview
+* [Mark last messages as unread](https://github.com/vector-im/roadmap/issues/34)
+* [Polls](https://github.com/vector-im/roadmap/issues/29)
 * various integrations / bots / bridges
 
 Discussions on the topic can be held in Matrix@TUD.
