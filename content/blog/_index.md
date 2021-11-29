@@ -91,7 +91,7 @@ Die Ausnutzung von synapse-worker durch Pull Request 456 versetzt andere große 
 
 Die Veröffentlichung der zweisprachigen [Matrix Dokumentation auf GitHub](https://github.com/matrix-tu-dresden-de/Dokumentation) sowie die [Instanzkarte deutscher Hochschulen](https://doc.matrix.tu-dresden.de/why/) führten zu einer Einladung zu einem [Interview für *This Week in Matrix (TWIM)*](https://matrix.org/blog/2021/01/22/this-week-in-matrix-2021-01-22#superb-documentation-from-tu-dresden-as-they-roll-out-their-deployment). Hier stellten Marvin Dropp und Christian Bruchatz die Doku sowie die interaktive SVG der Instanzkarte vor und berichteten von den Matrix-Entwicklungen an der TU Dresden.
 
-[![TWIM-Interview 22.01.2021](/images/blog/04_TWIM-2021-01-22.png)](https://inv.13ad.de/watch?v=UHJX2pmT2gk)
+[![TWIM-Interview 22.01.2021](/images/blog/04_TWIM-2021-01-22.png)](https://invidio.xamh.de/watch?v=UHJX2pmT2gk)
 
 [![Matrix Doku auf GitHub](/images/blog/02_TUD-Matrix-Doc-Github-Repo.png)](https://github.com/matrix-tu-dresden-de/Dokumentation)
 
@@ -128,7 +128,7 @@ Bisher finanzierten verschiedene Stellen der TUD verschiedene studentische Hilfs
 
 #### 07.05.2020 - Cross-Signing (Quersignierung)
 
-Prof. Jochen Plikat (Institut für Romanistik) erklärt, wie die Sicherung der Schlüssel von verschlüsselten Chats in Matrix funktioniert, und welche Rolle die neue Funktion “cross-signing” (Quersignierung) in diesem Zusammenhang spielt. [Direkt zum Video](https://inv.13ad.de/watch?v=VOxfa6dqXSk)
+Prof. Jochen Plikat (Institut für Romanistik) erklärt, wie die Sicherung der Schlüssel von verschlüsselten Chats in Matrix funktioniert, und welche Rolle die neue Funktion “cross-signing” (Quersignierung) in diesem Zusammenhang spielt. [Direkt zum Video](https://invidio.xamh.de/watch?v=VOxfa6dqXSk)
 
 [![Cross-signing (Quersignierung) erklärt](/images/blog/keyserver.jpg)](https://jochen-plikat.com/2020/05/07/riot-cross-signing/)
 
@@ -145,7 +145,7 @@ Start des landesweiten Homeschoolings = Home-Office für Alle mit schulpflichtig
 
 Lehrende beginnen sich auf ein digitales Sommersemester vorzubereiten und Prof. Alexander Lasch (Institut für Germanistik) hilft Allen, neue Tools zu entdecken, z.B. auch den TUD Matrix Messenger. Dr. Eike Dohmen hilft mit einer PDF-Anleitung zur Matrix-Nutzung, die innerhalb der Universität zirkuliert... Vielen Dank auch für all diese Unterstützung!
 
-[![Digitale Lehre 1: MATRIX Web Messenger](/images/blog/20210316_Matrix_TUDresden.jpg)](https://inv.13ad.de/watch?v=AtkA-sE-9uU)
+[![Digitale Lehre 1: MATRIX Web Messenger](/images/blog/20210316_Matrix_TUDresden.jpg)](https://invidio.xamh.de/watch?v=AtkA-sE-9uU)
 
 
 
