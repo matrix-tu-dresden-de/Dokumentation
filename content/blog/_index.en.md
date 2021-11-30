@@ -8,6 +8,10 @@ weight: 200
 
 
 ***
+#### 30.11.2021 - Exchange of experiences with Max-Planck-Society and further schools of higher education {#experience-exchange}
+
+The efforts of TU Darmstadt and Karlsruhe Institute of Technology (KIT) in setting up a central Matrix instance are supported by TU Dresden with the exchange of experiences with our setup. Also, the Max-Planck-Society with its 83 institutes considers, after 3 years running Mattermost, to switch to Matrix. They invited TU Dresden as well to an exchange of experiences. Further attendees were representatives of the [TI-Messenger](https://www.gematik.de/anwendungen/ti-messenger/) of gematik and the [Bw-Messenger](https://messenger.bwi.de/) of Bundeswehr.
+
 
 #### 11.10.2021 - Export room content easily {#export}
 
@@ -88,7 +92,7 @@ The exploitation of synapse-worker through pull request 456 enables other large 
 
 The release of the bilingual [Matrix documentation on GitHub](https://github.com/matrix-tu-dresden-de/Dokumentation) as well as the [Instance Map of German Universities](https://doc.matrix.tu-dresden.de/why/) led to an invitation to an [Interview for *This Week in Matrix (TWIM)*](https://matrix.org/blog/2021/01/22/this-week-in-matrix-2021-01-22#superb-documentation-from-tu-dresden-as-they-roll-out-their-deployment). Here Marvin Dropp and Christian Bruchatz presented the documentation as well as the interactive SVG of the instance map and reported about the Matrix developments at the TU Dresden.
 
-[![TWIM-Interview 22.01.2021](/images/blog/04_TWIM-2021-01-22.png)](https://inv.13ad.de/watch?v=UHJX2pmT2gk)
+[![TWIM-Interview 22.01.2021](/images/blog/04_TWIM-2021-01-22.png)](https://invidio.xamh.de/watch?v=UHJX2pmT2gk)
 
 [![Matrix Doku auf GitHub](/images/blog/02_TUD-Matrix-Doc-Github-Repo.png)](https://github.com/matrix-tu-dresden-de/Dokumentation)
 
@@ -123,7 +127,7 @@ So far, various TUD offices have funded different student assistants from time t
 
 #### 07.05.2020 - Cross-Signing
 
-Prof. Jochen Plikat (Institute of Romance Studies) explains how securing the keys of encrypted chats in Matrix works, and what role the new "cross-signing" function plays in this context. [Direct to video](https://inv.13ad.de/watch?v=VOxfa6dqXSk)
+Prof. Jochen Plikat (Institute of Romance Studies) explains how securing the keys of encrypted chats in Matrix works, and what role the new "cross-signing" function plays in this context. [Direct to video](https://invidio.xamh.de/watch?v=VOxfa6dqXSk)
 
 [![Cross-signing (Quersignierung) erklärt](/images/blog/keyserver.jpg)](https://jochen-plikat.com/2020/05/07/riot-cross-signing/)
 
@@ -137,17 +141,17 @@ Start of nationwide homeschooling = home office for all with school-age children
 
 Teachers start preparing for a digital summer semester and Prof. Alexander Lasch (Institute of German Studies) helps everyone to discover new tools, including the TUD Matrix Messenger. Others, like Dr. Eike Dohmen, help with a PDF guide to Matrix usage that circulates within the university.... Thanks also for all this support!
 
-[![Digitale Lehre 1: MATRIX Web Messenger](/images/blog/20210316_Matrix_TUDresden.jpg)](https://inv.13ad.de/watch?v=AtkA-sE-9uU)
+[![Digitale Lehre 1: MATRIX Web Messenger](/images/blog/20210316_Matrix_TUDresden.jpg)](https://invidio.xamh.de/watch?v=AtkA-sE-9uU)
 
-#### 29.01.2020 - Firewall release for matrix.tu-dresden.de and restart of server monitoring {#firewall}
+#### 29.01.2020 - Global federation, firewall release for matrix.tu-dresden.de and restart of server monitoring {#firewall}
 
 The TUD Matrix Messenger is now accessible worldwide and federated with many partner institutions. Previously, the new registration of [number of new users](https://doc.matrix.tu-dresden.de/Statistik/matrix-logins.html) started from 10.01.. This shows how Matrix is developing at TU Dresden.
 
 [![TUD Matrix User](/images/blog/20200403_Matrix_TUD_User.png)](https://doc.matrix.tu-dresden.de/Statistik/matrix-logins.html)
 
-#### 01.10.2019 - Regular operation at matrix.tu-dresden.de begins {#stable}
+#### 01.10.2019 - TU-internal pilot operation at matrix.tu-dresden.de begins {#stable}
 
-After completion of the approximately one-year beta phase, regular operation within the TU Dresden will now begin under the new domain [matrix.tu-dresden.de](https://matrix.tu-dresden.de), following consultation with the CIO.
+After completion of the approximately one-year beta phase, pilot operation within the TU Dresden will now begin under the new domain [matrix.tu-dresden.de](https://matrix.tu-dresden.de), following consultation with the CIO.
 
 [![TUD Matrix Web-Client](/images/blog/TUD_Element_Web.jpg)](https://matrix.tu-dresden.de)
 

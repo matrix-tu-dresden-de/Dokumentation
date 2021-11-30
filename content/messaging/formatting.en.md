@@ -35,7 +35,7 @@ Alternatively, an integration can be used to create a CodiMD (e.g. at https://md
 
 **Hashtags** can be used to make terms easier to find in the search.
 
-**Smileys** can be reached with a starting colon ":"
+**Emojis** can be reached with a starting colon ":" and at least two further characters. If you do not know the names of your preferred emojis you could click on the smiley-icon on the right of the message-entry-row and choose from the offers there.
 
 ![Opened Emoji menu](/images/14_Direktnachricht14.webp)
 
