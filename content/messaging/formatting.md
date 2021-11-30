@@ -35,7 +35,7 @@ Alternativ kann mittels einer Integration ein CodiMD erstellt werden (z.B. unter
 
 **Hashtags** können benutzt werden um Begriffe leichter in der Suche auffindbar zu machen.
 
-**Smileys** erreicht man mit einem beginnenden Doppelpunkt „:“
+**Emojis** erreicht man mit einem beginnenden Doppelpunkt „:“ und dem Tippen von min. zwei weiteren Buchstaben. Wer gewünschte Emoji-Namen nicht auswendig kennt, kann mit Mausklick auf das Smiley-Zeichen rechts in der Eingabezeile durch viele Emojis scrollen.
 
 ![Aufeklapptes Emoji Menü](/images/14_Direktnachricht14.webp)
 
