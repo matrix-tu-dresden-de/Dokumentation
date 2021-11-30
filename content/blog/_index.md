@@ -8,6 +8,11 @@ weight: 200
 
 
 ***
+#### 30.11.2021 - Erfahrungsaustausch mit der Max-Planck-Gesellschaft und weiteren Hochschulen {#erfahrungsaustausch}
+
+Die Anstrengungen der TU Darmstadt und des Karlsruher Instituts für Technologie (KIT) beim Aufbau einer zentralen Matrix-Instanz unterstützt die TU Dresden mit Wissensaustausch. Auch die Max-Planck-Gesellschaft erwägt mit ihren 83 Instituten, nach 3-jährigem Betrieb von Mattermost, den Umstieg auf Matrix und lud die TU Dresden zum Erfahrungsaustausch ein. Mit dabei waren auch Vertreter des [TI-Messengers](https://www.gematik.de/anwendungen/ti-messenger/) der gematik und des [Bw-Messengers](https://messenger.bwi.de/) der Bundeswehr.
+
+
 
 #### 11.10.2021 - Rauminhalte bequem exportieren {#export}
 
@@ -149,16 +154,16 @@ Lehrende beginnen sich auf ein digitales Sommersemester vorzubereiten und Prof. 
 
 
 
-#### 29.01.2020 - Firewall-Freigabe für matrix.tu-dresden.de und Neustart des Servermonitorings {#firewall}
+#### 29.01.2020 - Föderationsstart, Firewall-Freigabe für matrix.tu-dresden.de und Neustart des Servermonitorings {#firewall}
 
 Der TUD Matrix Messenger ist nun weltweit erreichbar und föderiert mit vielen Partnerinstitutionen. Zuvor begann ab 10.01. das neue Registrieren der [Anzahl der neuen User](https://doc.matrix.tu-dresden.de/Statistik/matrix-logins.html). Dies zeigt, wie sich Matrix an der TU Dresden entwickelt.
 
 [![TUD Matrix User](/images/blog/20200403_Matrix_TUD_User.png)](https://doc.matrix.tu-dresden.de/Statistik/matrix-logins.html)
 
 
-#### 01.10.2019 - Regelbetrieb unter matrix.tu-dresden.de beginnt {#stable}
+#### 01.10.2019 - TU-interner Pilotbetrieb unter matrix.tu-dresden.de beginnt {#stable}
 
-Nach Abschluss der ca. einjährigen Pilotphase beginnt, nach Rücksprache mit dem CIO, nun der Regelbetrieb innerhalb der TU Dresden unter der neuen Domain [matrix.tu-dresden.de](https://matrix.tu-dresden.de).
+Nach Abschluss der ca. einjährigen Testphase beginnt, nach Rücksprache mit dem CIO, nun der Pilotbetrieb innerhalb der TU Dresden unter der neuen Domain [matrix.tu-dresden.de](https://matrix.tu-dresden.de).
 
 [![TUD Matrix Web-Client](/images/blog/TUD_Element_Web.jpg)](https://matrix.tu-dresden.de)
 

@@ -8,6 +8,10 @@ weight: 200
 
 
 ***
+#### 30.11.2021 - Exchange of experiences with Max-Planck-Society and further schools of higher education {#experience-exchange}
+
+The efforts of TU Darmstadt and Karlsruhe Institute of Technology (KIT) in setting up a central Matrix instance are supported by TU Dresden with the exchange of experiences with our setup. Also, the Max-Planck-Society with its 83 institutes considers, after 3 years running Mattermost, to switch to Matrix. They invited TU Dresden as well to an exchange of experiences. Further attendees were representatives of the [TI-Messenger](https://www.gematik.de/anwendungen/ti-messenger/) of gematik and the [Bw-Messenger](https://messenger.bwi.de/) of Bundeswehr.
+
 
 #### 11.10.2021 - Export room content easily {#export}
 
@@ -139,15 +143,15 @@ Teachers start preparing for a digital summer semester and Prof. Alexander Lasch
 
 [![Digitale Lehre 1: MATRIX Web Messenger](/images/blog/20210316_Matrix_TUDresden.jpg)](https://invidio.xamh.de/watch?v=AtkA-sE-9uU)
 
-#### 29.01.2020 - Firewall release for matrix.tu-dresden.de and restart of server monitoring {#firewall}
+#### 29.01.2020 - Global federation, firewall release for matrix.tu-dresden.de and restart of server monitoring {#firewall}
 
 The TUD Matrix Messenger is now accessible worldwide and federated with many partner institutions. Previously, the new registration of [number of new users](https://doc.matrix.tu-dresden.de/Statistik/matrix-logins.html) started from 10.01.. This shows how Matrix is developing at TU Dresden.
 
 [![TUD Matrix User](/images/blog/20200403_Matrix_TUD_User.png)](https://doc.matrix.tu-dresden.de/Statistik/matrix-logins.html)
 
-#### 01.10.2019 - Regular operation at matrix.tu-dresden.de begins {#stable}
+#### 01.10.2019 - TU-internal pilot operation at matrix.tu-dresden.de begins {#stable}
 
-After completion of the approximately one-year beta phase, regular operation within the TU Dresden will now begin under the new domain [matrix.tu-dresden.de](https://matrix.tu-dresden.de), following consultation with the CIO.
+After completion of the approximately one-year beta phase, pilot operation within the TU Dresden will now begin under the new domain [matrix.tu-dresden.de](https://matrix.tu-dresden.de), following consultation with the CIO.
 
 [![TUD Matrix Web-Client](/images/blog/TUD_Element_Web.jpg)](https://matrix.tu-dresden.de)
 
