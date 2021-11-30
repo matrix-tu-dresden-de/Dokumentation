@@ -64,5 +64,7 @@ There is at least one person in the room who has already been verified, but who 
 
 All persons in the room were verified.
 
+Further example, how you can realise the encryption state of a room by checking the relevant icon next to the room icon in the room information panel at the top right:
 
+![Darstellung der Verschlüsselungssituation in Matrix-Räumen](/images/room_security_status_en.png)
 

@@ -60,9 +60,12 @@ Mindestens eine Person im Raum wurde noch nicht verifiziert.
 
 Im Raum ist mindestens eine Person, die bereits verifiziert wurde, aber die ihrerseits weitere unverifizierte Sitzungen geöffnet hat. 
 
-![Symbol für alle Personen im Raum sind verifiziertß](/images/green.png)
+![Symbol für alle Personen im Raum sind verifiziert](/images/green.png)
 
 Alle im Raum befindlichen Personen wurden verifiziert.
 
+Hier ein weiteres Beispiel, wie man den Verschlüsselungszustand eines Raumes in den Rauminformationen oben rechts neben dem Raum-Icon erkennen kann:
+
+![Darstellung der Verschlüsselungssituation in Matrix-Räumen](/images/room_security_status.png)
 
 
