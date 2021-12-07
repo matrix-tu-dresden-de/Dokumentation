@@ -57,6 +57,8 @@ setInterval(() => {
 
 * [Communities als Raum-Filter einsetzen]({{< relref "communities/_index.md" >}})
 
+* [Spaces zur Raumverwaltung einsetzen]({{< relref "spaces/_index.md" >}})
+
 * [Weiterentwicklung von Matrix]({{< relref "development/_index.md" >}})
 
 * [Datenschutzerklärung]({{< relref "privacy/_index.md" >}})
@@ -67,15 +69,9 @@ setInterval(() => {
 
 ### Fragen / Kontakt
 
-Allgemeine Fragen richten Sie bitte an den Servicedesk der TU Dresden:
+Allgemeine Fragen richten Sie bitte an den [Service Desk](https://tu-dresden.de/zih/dienste/service-desk) der TU Dresden.
 
-https://tu-dresden.de/zih/dienste/service-desk
-
-Sollte der Servicedesk nicht weiterhelfen können, werden von diesem Fragen an das dezentrale Administrationsteam, welches Matrix an der TU Dresden begleitet, weitergeleitet.
-
-Ideal ist der transparente Umgang mit Problemen, aus denen alle Anderen lernen können. Dies kann durch Schildern des Sachverhaltes im Matrix-Support-Raum geschehen - hier können Probleme und Lösungen gemeinsam diskutiert werden:
-
-[https://matrix.tu-dresden.de/#/room/#matrix-support:tu-dresden.de](https://matrix.tu-dresden.de/#/room/#matrix-support:tu-dresden.de)
+Probleme und Lösungen können darüber hinaus durch Schildern des Sachverhalts gemeinsam im [Matrix-Support-Raum](https://matrix.tu-dresden.de/#/room/#matrix-support:tu-dresden.de) diskutiert werden, sodass alle Anderen durch den transparenten Austausch lernen können.
 
 {{% notice tip %}}
 Man kann bei manchen Anomalien probieren den Cache (Zwischenspeicher) zu leeren und alles neu zu laden: Einstellungen > Hilfe & Über > Cache löschen und neu laden
