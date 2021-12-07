@@ -41,7 +41,7 @@ Hier können Sie den das Foto, den Namen, die Beschreibung und die Sichtbarkeit 
 
 ![Dialog mit Erfolsmeldung nach der Konvertierung](/images/20_Communities_Conversion2_de.png)
 
-Ist der Prozess abgeschlossen, erhalten Sie eine Erfolgsmeldung.
+Ist der Prozess abgeschlossen, erhalten Sie eine Erfolgsmeldung. Über den Button `Optionen` gelangen Sie wieder in die Einstellungen für Communities.
 
 ## Communities als Raum-Filter einsetzen
 
