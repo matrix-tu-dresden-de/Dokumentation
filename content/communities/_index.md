@@ -6,7 +6,19 @@ chapter: true
 weight: 50
 ---
 
-# Communities als Raum-Filter einsetzen
+# Communities (veraltet)
+
+[Spaces]({{< relref "spaces/_index.md" >}}) lösen die Communities zur Raumverwaltung ab. Die Funktion ist in aktuellen Element-Versionen automatisch aktiviert. (Desktop/Web 1.9, Android 1.3, iPadOS/iOS 1.6 oder neuer)
+
+## Communities temporär anzeigen
+
+Klicken Sie auf den nach unten zeigenden Pfeil oben rechts in der Personenspalte und rufen Sie `Alle Einstellungen` auf. Wählen Sie im Dialog links den Punkt `Optionen` aus. Auf der Rechten Seite finden Sie unter der Überschrift `Communities` die Option `Communities statt Spaces anzeigen`. Aktivieren Sie den Regler rechts daneben, wird Ihr Element-Client neu geladen und die Communities werden angezeigt. Klicken Sie erneut auf den Regler, wenn Sie zur regulären Ansicht zurückkehren möchten.
+
+## Communities konvertieren
+
+Klicken Sie auf den nach unten zeigenden Pfeil oben rechts in der Personenspalte und rufen Sie `Alle Einstellungen` auf. Wählen Sie im Dialog links den Punkt `Optionen` aus. Auf der Rechten Seite finden Sie unter der Überschrift `Communities` den Eintrag `Meine Communities anzeigen`. Klappen Sie den Eintrag aus, werden Ihre Communities angezeigt. Mit einem Klick auf den Button `Space erstellen` jeweils rechts neben einem Eintrag wird der Konvertierungsdialog aufgerufen. Hier können Sie den das Foto, den Namen, die Beschreibung und die Sichtbarkeit (privat oder öffentlich) des Spaces konfigurieren. Anschließend kann die Konvertierung mit einem Klick auf `Space erstellen` gestartet werden.
+
+## Communities als Raum-Filter einsetzen
 
 Alle Matrix-Nutzenden des Clients Element (und einiger weniger weiterer Clients) können Communities (zu deutsch Gemeinschaften) nutzen, um verschiedene Räume zu filtern, die in der Raumliste links vllt. untergehen oder zu verstreut platziert sind.
 
