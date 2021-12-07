@@ -53,7 +53,7 @@ Yes, but it is an experimental feature right now. It will be available for every
 
 ***
 #### Are there something like Threads (like in Mattermost/Slack) in Matrix? {#threads}
-No, threads like in Mattermost or Slack are currently not existing in Matrix. The developers of Element are aware of this topic and planed it for future release. To get more information, follow their roadmap: https://github.com/vector-im/roadmap/projects/1
+Threads like in Mattermost or Slack are currently available as lab feature in Matrix and will be stable within the next weeks. To get more information, follow their roadmap: https://github.com/vector-im/roadmap/projects/1
 
 ***
 #### I do not have a security key (recovery key) {#no-security-key}
