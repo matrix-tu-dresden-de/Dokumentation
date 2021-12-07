@@ -10,15 +10,32 @@ weight: 50
 
 [Spaces]({{< relref "spaces/_index.en.md" >}}) replace communities for room management. The feature is automatically enabled in current Element versions. (Desktop/Web 1.9, Android 1.3, iPadOS/iOS 1.6 or later)
 
+## Content
+  * [Show Communities temporarily](#show-communities-temporarily)
+  * [Convert Communities](#convert-communities)
+  * [Use Communities as room filters](#use-communities-as-room-filters)
+
 ## Show Communities temporarily
 
-Click on the downward pointing arrow at the top right of the people column and call up `All settings`. In the dialog on the left, select `Preferences`. On the right side, under the heading `Communities`, you will find the option `Display Communities instead of Spaces`. If you activate the slider to the right, your Element client will be reloaded and the Communities will be displayed. Click the slider again if you want to return to the regular view.
+![Selection of "All settings" item in the user menu](/images/06_Settings_en.png)
+
+Click on the downward pointing arrow at the top right of the people column and call up `All settings`.
+
+In the dialog on the left, select `Preferences`. On the right side, under the heading `Communities`, you will find the option `Display Communities instead of Spaces`. If you activate the slider to the right, your Element client will be reloaded and the Communities will be displayed. Click the slider again if you want to return to the regular view.
 
 ## Convert Communities
 
-Click on the downward pointing arrow at the top right of the people column and access `All settings`. In the dialog on the left, select `Preferences`. On the right side you will find the entry `Show my Communities` under the heading `Communities`. Unfold the entry and your Communities will be displayed. With a click on the button `Create Space` to the right of each entry the conversion dialog is called. Here you can configure the photo, the name, the description and the visibility (private or public) of the Space. Afterwards the conversion can be started with a click on `Create Space`.
+Click on the downward pointing arrow at the top right of the people column and access `All settings`.
 
-## Use communities as room filters
+![Selection of "All settings" item in the user menu](/images/06_Settings_en.png)
+
+In the dialog on the left, select `Preferences`. On the right side you will find the entry `Show my Communities` under the heading `Communities`. Unfold the entry and your Communities will be displayed. With a click on the button `Create Space` to the right of each entry the conversion dialog is called.
+
+Here you can configure the photo, the name, the description and the visibility (private or public) of the Space. Afterwards the conversion can be started with a click on `Create Space`.
+
+Once the process is complete, you will receive a success message. The `Options` button will take you back to the Communities settings.
+
+## Use Communities as room filters
 
 All matrix users of the client element (and a few other clients) can use communities to filter different rooms, which may be lost or scattered in the room list on the left.
 
