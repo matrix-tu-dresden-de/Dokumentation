@@ -110,3 +110,15 @@ a:hover {
     border-color: var(--MENU-SECTION-HR-color);
 }
 
+div.notices.warning:lang(de) p:first-child:after {
+    content: 'Warnung';
+}
+div.notices.note:lang(de) p:first-child:after {
+    content: 'Hinweis';
+}
+div.notices.info:lang(de) p:first-child:after {
+    content: 'Info';
+}
+div.notices.tip:lang(de) p:first-child:after {
+    content: 'Tipp';
+}

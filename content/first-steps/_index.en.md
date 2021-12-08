@@ -11,7 +11,6 @@ weight: 2
 ## Matrix-Login with ZIH account
 
 Members and members of the TU Dresden (of course also students) can use their **ZIH login** to communicate with members of the TU Dresden and other universities and other Matrix users (e.g. academic partners) via chat and audio/video telephony in compliance with the relevant legal and regulatory provisions on data protection and IT security.
-communicate.
 
 {{% notice tip %}}
 We recommend using the Element desktop client, because this avoids most problems users have with Matrix, e.g. end to end encryption.

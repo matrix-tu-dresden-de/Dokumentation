@@ -8,15 +8,42 @@ weight: 50
 
 # Communities (veraltet)
 
+{{% notice note %}}
 [Spaces]({{< relref "spaces/_index.md" >}}) lösen die Communities zur Raumverwaltung ab. Die Funktion ist in aktuellen Element-Versionen automatisch aktiviert. (Desktop/Web 1.9, Android 1.3, iPadOS/iOS 1.6 oder neuer)
+{{% /notice %}}
+
+## Inhalt
+  * [Communities temporär anzeigen](#communities-temporär-anzeigen)
+  * [Communities konvertieren](#communities-konvertieren)
+  * [Communities als Raum-Filter einsetzen](#communities-als-raum-filter-einsetzen)
 
 ## Communities temporär anzeigen
 
-Klicken Sie auf den nach unten zeigenden Pfeil oben rechts in der Personenspalte und rufen Sie `Alle Einstellungen` auf. Wählen Sie im Dialog links den Punkt `Optionen` aus. Auf der Rechten Seite finden Sie unter der Überschrift `Communities` die Option `Communities statt Spaces anzeigen`. Aktivieren Sie den Regler rechts daneben, wird Ihr Element-Client neu geladen und die Communities werden angezeigt. Klicken Sie erneut auf den Regler, wenn Sie zur regulären Ansicht zurückkehren möchten.
+![Auswahl des Punkts "Alle Einstellungen" im personlichen Menü](/images/06_Settings_de.png)
+
+Klicken Sie auf den nach unten zeigenden Pfeil oben rechts in der Personenspalte und rufen Sie `Alle Einstellungen` auf. 
+
+![Element-Einstellungen mit Optionen zu Communities](/images/20_Communities_Settings1_de.png)
+
+Wählen Sie im Dialog links den Punkt `Optionen` (1) aus. Auf der Rechten Seite finden Sie unter der Überschrift `Communities` die Option `Communities statt Spaces anzeigen` (2). Aktivieren Sie den Regler rechts daneben, wird Ihr Element-Client neu geladen und die Communities werden angezeigt. Klicken Sie erneut auf den Regler, wenn Sie zur regulären Ansicht zurückkehren möchten.
 
 ## Communities konvertieren
 
-Klicken Sie auf den nach unten zeigenden Pfeil oben rechts in der Personenspalte und rufen Sie `Alle Einstellungen` auf. Wählen Sie im Dialog links den Punkt `Optionen` aus. Auf der Rechten Seite finden Sie unter der Überschrift `Communities` den Eintrag `Meine Communities anzeigen`. Klappen Sie den Eintrag aus, werden Ihre Communities angezeigt. Mit einem Klick auf den Button `Space erstellen` jeweils rechts neben einem Eintrag wird der Konvertierungsdialog aufgerufen. Hier können Sie den das Foto, den Namen, die Beschreibung und die Sichtbarkeit (privat oder öffentlich) des Spaces konfigurieren. Anschließend kann die Konvertierung mit einem Klick auf `Space erstellen` gestartet werden.
+![Auswahl des Punkts "Alle Einstellungen" im personlichen Menü](/images/06_Settings_de.png)
+
+Klicken Sie auf den nach unten zeigenden Pfeil oben rechts in der Personenspalte und rufen Sie `Alle Einstellungen` auf.
+
+![Element-Einstellungen mit Optionen zu Communities](/images/20_Communities_Settings2_de.png)
+
+Wählen Sie im Dialog links den Punkt `Optionen` (1) aus. Auf der Rechten Seite finden Sie unter der Überschrift `Communities` den Eintrag `Meine Communities anzeigen` (2). Klappen Sie den Eintrag aus, werden Ihre Communities angezeigt. Mit einem Klick auf den Button `Space erstellen` (3) jeweils rechts neben einem Eintrag wird der Konvertierungsdialog aufgerufen.
+
+![Dialog für die Konvertierung einer Community zu einem Space](/images/20_Communities_Conversion1_de.png)
+
+Hier können Sie den das Foto, den Namen, die Beschreibung und die Sichtbarkeit (privat oder öffentlich) des Spaces konfigurieren. Anschließend kann die Konvertierung mit einem Klick auf `Space erstellen` gestartet werden.
+
+![Dialog mit Erfolsmeldung nach der Konvertierung](/images/20_Communities_Conversion2_de.png)
+
+Ist der Prozess abgeschlossen, erhalten Sie eine Erfolgsmeldung. Über den Button `Optionen` gelangen Sie wieder in die Einstellungen für Communities.
 
 ## Communities als Raum-Filter einsetzen
 

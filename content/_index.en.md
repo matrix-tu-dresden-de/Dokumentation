@@ -45,6 +45,8 @@ In order to meet the demand for real-time communication, the open communication 
 
 * [Using communities as room filters]({{< relref "communities/_index.en.md" >}})
 
+* [Using Spaces for managing rooms]({{< relref "spaces/_index.en.md" >}})
+
 * [Further development of Matrix]({{< relref "development/_index.en.md" >}})
 
 * [Privacy policy]({{< relref "privacy/_index.en.md" >}})
@@ -55,17 +57,11 @@ In order to meet the demand for real-time communication, the open communication 
 
 ### Questions and Contact
 
-Please address general questions to the service desk of TU Dresden:
+Please address general questions to the [Service Desk](https://tu-dresden.de/zih/dienste/service-desk) of TU Dresden:
 
-https://tu-dresden.de/zih/dienste/service-desk
+In addition, problems and solutions can be discussed together in the [Matrix Support Room](https://matrix.tu-dresden.de/#/room/#matrix-support:tu-dresden.de) by describing the issue, so that everyone else can learn through transparent exchange.
 
-If the service desk is unable to help, questions are forwarded to the decentralized administration team that accompanies Matrix at the TU Dresden.
-
-The ideal is to deal with problems in a transparent way, from which all others can learn. This can be done by describing the situation in the Matrix Support Room - here problems and solutions can be discussed together:
-
-[https://matrix.tu-dresden.de/#/room/#matrix-support:tu-dresden.de](https://matrix.tu-dresden.de/#/room/#matrix-support:tu-dresden.de)
-
-{{% notice warning %}}
+{{% notice tip %}}
 For some anomalies you can try to empty the cache and reload everything: Settings > Help & About > Clear Cache and reload
 {{% /notice %}}
 
