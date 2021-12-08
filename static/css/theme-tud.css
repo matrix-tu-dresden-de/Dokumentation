@@ -114,7 +114,7 @@ div.notices.warning:lang(de) p:first-child:after {
     content: 'Warnung';
 }
 div.notices.note:lang(de) p:first-child:after {
-    content: 'Anmerkung';
+    content: 'Hinweis';
 }
 div.notices.info:lang(de) p:first-child:after {
     content: 'Info';

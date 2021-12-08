@@ -8,7 +8,9 @@ weight: 50
 
 # Communities (deprecated)
 
+{{% notice note %}}
 [Spaces]({{< relref "spaces/_index.en.md" >}}) replace communities for room management. The feature is automatically enabled in current Element versions. (Desktop/Web 1.9, Android 1.3, iPadOS/iOS 1.6 or later)
+{{% /notice %}}
 
 ## Content
   * [Show Communities temporarily](#show-communities-temporarily)

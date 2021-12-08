@@ -8,7 +8,9 @@ weight: 50
 
 # Communities (veraltet)
 
+{{% notice note %}}
 [Spaces]({{< relref "spaces/_index.md" >}}) lösen die Communities zur Raumverwaltung ab. Die Funktion ist in aktuellen Element-Versionen automatisch aktiviert. (Desktop/Web 1.9, Android 1.3, iPadOS/iOS 1.6 oder neuer)
+{{% /notice %}}
 
 ## Inhalt
   * [Communities temporär anzeigen](#communities-temporär-anzeigen)
