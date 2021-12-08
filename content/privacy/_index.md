@@ -19,25 +19,22 @@ i.S.d. Art. 4 Nr. 7 DSGVO ist die [TU Dresden](https://tu-dresden.de/impressum).
 
 Ansprechpartner:
 
-Prof. Dr. Oliver Sander
-Professur für Numerik partieller Differentialgleichungen
-TU Dresden
-01062 Dresden  
+Technische Universität Dresden <br>
+Zentrum für Informationsdienste und Hochleistungsrechnen (ZIH) <br>
+01062 Dresden <br>
 
-und
+Tel.: +49 351 463-40000 <br>
+Fax: +49 351 463-42328 <br>
+E-Mail: servicedesk@tu-dresden.de <br>
 
-Christian Bruchatz
-Bereich Ingenieurwissenschaften
-01062 Dresden
-Tel. +49 351 463-32328
-[matrix@tu-dresden.de](mailto:matrix@tu-dresden.de)
+sowie <br>
 
-sowie der Datenschutzbeauftragte der TU Dresden
-Herr Jens Syckor
-01062 Dresden
+Der Datenschutzbeauftragte der TU Dresden <br>
+Herr Jens Syckor <br>
+01062 Dresden <br>
 
-Tel.: +49 (0)351 463 32839
-Fax: +49 (0)351 463 39718
+Tel.: +49 (0)351 463 32839 <br>
+Fax: +49 (0)351 463 39718 <br>
 
 E-Mail: [informationssicherheit@tu-dresden.de](mailto:informationssicherheit@tu-dresden.de)
 
@@ -90,19 +87,11 @@ personenbezogenen Daten maschinenlesbaren in Format übermittelt.
 Betroffene Personen können sich jederzeit an die zuständige Aufsichtsbehörde
 für den Datenschutz wenden. Die zuständige Aufsichtsbehörde ist:
 
-Sächsische Datenschutzbeauftragter
+Sächsische Datenschutzbeauftragter <br>
+Postfach 11 01 32 <br>
+01330 Dresden <br>
 
-Postfach 11 01 32
-
-01330 Dresden
-
-Tel.: +49(0)351/85471 101
-
-Fax:+ 49(0)351/85471 109
+Tel.: +49(0)351/85471 101 <br>
+Fax:+ 49(0)351/85471 109 <br>
 
 E-Mail: [saechsdsb@slt.sachsen.de](mailto:saechsdsb@slt.sachsen.de)
-
-
-[Impressum]({{< ref "imprint" >}})
-
-

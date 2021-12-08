@@ -5,52 +5,16 @@ draft: false
 chapter: true
 weight: 1000
 ---
-## Imprint
+# Imprint
 
 The [Imprint of the TU Dresden](https://tu-dresden.de/impressum) is valid with the following changes:
 
-### Contact person:
+**Contact person and technical implementation of the matrix service**
 
-#### Prof. Dr. Oliver Sander 
+Technische Universität Dresden <br>
+Center for Information Services and High Performance Computing (ZIH) <br>
+01062 Dresden <br>
 
-Professorship for Numerics of Partial Differential Equations 
-
-TU Dresden 
-
-01062 Dresden 
-
-
-#### Christian Bruchatz 
-
-School of Engineering Sciences
-
-01062 Dresden 
-
-Phone +49 351 463-32328 
-
-matrix@tu-dresden.de 
-
-### Technical implementation:
-
-#### Christoph Johannes Kleine
-
-Center for Information Services and High Performance Computing (ZIH)
-
-matrix@tu-dresden.de 
-
-#### Sebastian Itting
-
-Centre for Tactile Internet with Human-in-the-Loop 
-
-CeTI - Cluster of Excellence 
-
-01062 Dresden 
-
-Phone +49 351 463-42066
-
-sebastian.itting@tu-dresden.de
-
-
-## [privacy policy]({{< relref "privacy">}})
-
-
+Tel.: +49 351 463-40000 <br>
+Fax: +49 351 463-42328 <br>
+Email: servicedesk@tu-dresden.de <br>

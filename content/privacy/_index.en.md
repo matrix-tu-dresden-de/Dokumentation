@@ -16,27 +16,24 @@ weight: 900
 Responsible
 in the sense of Art. 4 No. 7 DSGVO is the [TU Dresden](https://tu-dresden.de/impressum).
 
-contact person:
+Contact person:
 
-Prof. Dr. Oliver Sander
-Professur für Numerik partieller Differentialgleichungen
-TU Dresden
-01062 Dresden  
+Technische Universität Dresden <br>
+Center for Information Services and High Performance Computing (ZIH) <br>
+01062 Dresden <br>
 
-and
+Tel.: +49 351 463-40000 <br>
+Fax: +49 351 463-42328 <br>
+Email: servicedesk@tu-dresden.de <br>
 
-Christian Bruchatz
-Bereich Ingenieurwissenschaften
-01062 Dresden
-Tel. +49 351 463-32328
-[matrix@tu-dresden.de](mailto:matrix@tu-dresden.de)
+and <br>
 
-and the data protection officer of the TU Dresden
-Herr Jens Syckor
-01062 Dresden
+The data protection officer of the TU Dresden <br>
+Herr Jens Syckor <br>
+01062 Dresden <br>
 
-Tel.: +49 (0)351 463 32839
-Fax: +49 (0)351 463 39718
+Tel.: +49 (0)351 463 32839 <br>
+Fax: +49 (0)351 463 39718 <br>
 
 E-Mail: [informationssicherheit@tu-dresden.de](mailto:informationssicherheit@tu-dresden.de)
 
@@ -79,29 +76,21 @@ The persons concerned can inform the TU Dresden about the
 Correction, deletion of your personal data or the
 to demand restriction of the processing.
 
-<u>right to data transferability (Art. 20 DSGVO)</u>
+<u>Right to data transferability (Art. 20 DSGVO)</u>
 
 The persons concerned can demand that the person responsible give them their
 personal data is transmitted in machine-readable format.
 
-<u>right of appeal (Art. 77 DSGVO)</u>
+<u>Right of appeal (Art. 77 DSGVO)</u>
 
 Affected persons can contact the competent supervisory authority at any time
 for data protection. The competent supervisory authority is:
 
-Sächsische Datenschutzbeauftragter
+Sächsische Datenschutzbeauftragter <br>
+Postfach 11 01 32 <br>
+01330 Dresden <br>
 
-Postfach 11 01 32
-
-01330 Dresden
-
-Tel.: +49(0)351/85471 101
-
-Fax:+ 49(0)351/85471 109
+Tel.: +49(0)351/85471 101 <br>
+Fax:+ 49(0)351/85471 109 <br>
 
 E-Mail: [saechsdsb@slt.sachsen.de](mailto:saechsdsb@slt.sachsen.de)
-
-
-[Imprint]({{< ref "imprint" >}})
-
-
