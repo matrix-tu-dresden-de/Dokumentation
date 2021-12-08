@@ -23,19 +23,27 @@ weight: 50
 
 Click on the downward pointing arrow at the top right of the people column and call up `All settings`.
 
-In the dialog on the left, select `Preferences`. On the right side, under the heading `Communities`, you will find the option `Display Communities instead of Spaces`. If you activate the slider to the right, your Element client will be reloaded and the Communities will be displayed. Click the slider again if you want to return to the regular view.
+![Element settings with preferences to Communities](/images/20_Communities_Settings1_en.png)
+
+In the dialog on the left, select `Preferences` (1). On the right side, under the heading `Communities`, you will find the option `Display Communities instead of Spaces` (2). If you activate the slider to the right, your Element client will be reloaded and the Communities will be displayed. Click the slider again if you want to return to the regular view.
 
 ## Convert Communities
 
-Click on the downward pointing arrow at the top right of the people column and access `All settings`.
-
 ![Selection of "All settings" item in the user menu](/images/06_Settings_en.png)
 
-In the dialog on the left, select `Preferences`. On the right side you will find the entry `Show my Communities` under the heading `Communities`. Unfold the entry and your Communities will be displayed. With a click on the button `Create Space` to the right of each entry the conversion dialog is called.
+Click on the downward pointing arrow at the top right of the people column and access `All settings`.
+
+![Element settings with preferences to Communities](/images/20_Communities_Settings2_en.png)
+
+In the dialog on the left, select `Preferences` (1). On the right side you will find the entry `Show my Communities` (2) under the heading `Communities`. Unfold the entry and your Communities will be displayed. With a click on the button `Create Space` (3) to the right of each entry the conversion dialog is called.
+
+![Dialog für die Konvertierung einer Community zu einem Space](/images/20_Communities_Conversion1_en.png)
 
 Here you can configure the photo, the name, the description and the visibility (private or public) of the Space. Afterwards the conversion can be started with a click on `Create Space`.
 
-Once the process is complete, you will receive a success message. The `Options` button will take you back to the Communities settings.
+![Dialog with success message after conversion](/images/20_Communities_Conversion2_en.png)
+
+Once the process is complete, you will receive a success message. The `Preferences` button will take you back to the Communities settings.
 
 ## Use Communities as room filters
 

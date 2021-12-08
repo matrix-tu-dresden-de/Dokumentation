@@ -33,7 +33,7 @@ Wählen Sie im Dialog links den Punkt `Optionen` (1) aus. Auf der Rechten Seite 
 
 Klicken Sie auf den nach unten zeigenden Pfeil oben rechts in der Personenspalte und rufen Sie `Alle Einstellungen` auf.
 
-![Element-Einstellungen mit Optionen zu Communities](/images/20_Communities_Settings2_de.png?height=50%)
+![Element-Einstellungen mit Optionen zu Communities](/images/20_Communities_Settings2_de.png)
 
 Wählen Sie im Dialog links den Punkt `Optionen` (1) aus. Auf der Rechten Seite finden Sie unter der Überschrift `Communities` den Eintrag `Meine Communities anzeigen` (2). Klappen Sie den Eintrag aus, werden Ihre Communities angezeigt. Mit einem Klick auf den Button `Space erstellen` (3) jeweils rechts neben einem Eintrag wird der Konvertierungsdialog aufgerufen.
 
