@@ -10,7 +10,7 @@ weight: 30
 
 Messages can be sent with the **Enter key**. For a line break press Shift + Enter.
 
-![Explanation of the symbols in the text input line](/images/01_Textformatting_en.png)
+![Explanation of the symbols in the text input line](/images/01_Textformatting_en.webp)
 
 **files** (also images) can be sent up to a size of 25MB. For this purpose the paper clip must be selected. The sidebar with the document symbol shows the files within a room. Larger files can be shared via the [cloudstore of TU Dresden](https://cloudstore.zih.tu-dresden.de) and a share link.
 

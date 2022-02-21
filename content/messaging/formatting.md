@@ -10,7 +10,7 @@ weight: 30
 
 Nachrichten können mit der **Enter-Taste** versendet werden. Für einen Zeilenumbruch drückt man Umschalt + Enter.
 
-![Erläuterung der Symbole in der Texteingabezeile](/images/01_Textformatting_de.png)
+![Erläuterung der Symbole in der Texteingabezeile](/images/01_Textformatting_de.webp)
 
 **Dateien** (auch Bilder) lassen sich bis zu einer Größe von 25MB versenden. Dazu ist die Büroklammer auszuwählen. Die Seitenleiste mit dem Dokumentensymbol zeigt die Dateien innerhalb eines Raumes an. Größere Dateien können über die [cloudstore der TU Dresden](https://cloudstore.zih.tu-dresden.de) und einen Freigabelink geteilt werden.
 
