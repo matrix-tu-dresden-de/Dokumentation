@@ -12,7 +12,7 @@ Nachrichten können mit der **Enter-Taste** versendet werden. Für einen Zeilenu
 
 ![Erläuterung der Symbole in der Texteingabezeile](/images/01_Textformatting_de.png)
 
-**Dateien** (auch Bilder) lassen sich bis zu einer Größe von 10MB versenden. Dazu ist die Büroklammer auszuwählen. Die Seitenleiste mit dem Dokumentensymbol zeigt die Dateien innerhalb eines Raumes an. Größere Dateien können über die [cloudstore der TU Dresden](https://cloudstore.zih.tu-dresden.de) und einen Freigabelink geteilt werden.
+**Dateien** (auch Bilder) lassen sich bis zu einer Größe von 25MB versenden. Dazu ist die Büroklammer auszuwählen. Die Seitenleiste mit dem Dokumentensymbol zeigt die Dateien innerhalb eines Raumes an. Größere Dateien können über die [cloudstore der TU Dresden](https://cloudstore.zih.tu-dresden.de) und einen Freigabelink geteilt werden.
 
 Mittels Text, der in der Auszeichnungssprache [**MarkDown**](https://de.wikipedia.org/wiki/Markdown) formatiert ist, lassen sich auch in Matrix Element Nachrichten formatieren. Hier einige Beispiele:
 
@@ -30,8 +30,7 @@ Mittels Text, der in der Auszeichnungssprache [**MarkDown**](https://de.wikipedi
 
 Die aktuelle [MarkDown-Spezifikation ist hier](https://spec.commonmark.org/current/) zu finden.
 
-Das Eingeben von LaTeX-Formeln wird zur Zeit nicht unterstützt, wurde aber schon gefordert: https://github.com/vector-im/element-web/issues/1945
-Alternativ kann mittels einer Integration ein CodiMD erstellt werden (z.B. unter https://md.inf.tu-dresden.de/), in welchem dann LaTeX verwendet werden kann.
+Das Eingeben von LaTeX-Formeln wird als Labor-Funktion unterstützt, und kann vom Gegenüber *gerendert* betrachtet werden, wenn dort auch unter Labor-Funktionen die Darstellung von LaTeX-Formeln aktiviert ist.
 
 **Hashtags** können benutzt werden um Begriffe leichter in der Suche auffindbar zu machen.
 
@@ -46,4 +45,4 @@ Analog springt man zum neuesten Zeitstempel einer Unterhaltung durch Klick auf d
 
 ![Makierung des zur neusten Nachricht-springen buttons](/images/18_Sprung_nach_unten.webp)
 
-Eine Themenbasierte Darstellung (auch „Threading“ genannt), dass ähnlich gut ist wie bei [Zulip](https://en.wikipedia.org/wiki/Zulip) (durch Themen in jedem Raum/Gruppe/Stream/Channel) oder in anderen Programmen durch Nutzung einer 3. Spalte gibt es bei Matrix/Element nicht, ist aber als Wunsch vorhanden: https://github.com/vector-im/element-web/issues/2349
+Eine Themenbasierte Darstellung, die Gedankensträngen weiter folgt (auch „Threading“ genannt), gibt es seit Ende 2021 auch in Element.

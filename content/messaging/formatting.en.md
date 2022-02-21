@@ -12,7 +12,7 @@ Messages can be sent with the **Enter key**. For a line break press Shift + Ente
 
 ![Explanation of the symbols in the text input line](/images/01_Textformatting_en.png)
 
-**files** (also images) can be sent up to a size of 10MB. For this purpose the paper clip must be selected. The sidebar with the document symbol shows the files within a room. Larger files can be shared via the [cloudstore of TU Dresden](https://cloudstore.zih.tu-dresden.de) and a share link.
+**files** (also images) can be sent up to a size of 25MB. For this purpose the paper clip must be selected. The sidebar with the document symbol shows the files within a room. Larger files can be shared via the [cloudstore of TU Dresden](https://cloudstore.zih.tu-dresden.de) and a share link.
 
 Using text formatted in the markup language [**MarkDown**](https://de.wikipedia.org/wiki/Markdown), messages can also be formatted in Matrix Element. Here are some examples:
 
@@ -30,8 +30,7 @@ Using text formatted in the markup language [**MarkDown**](https://de.wikipedia.
 
 The current [MarkDown specification can be found here](https://spec.commonmark.org/current/).
 
-The input of LaTeX formulas is currently not supported, but has already been requested: https://github.com/vector-im/element-web/issues/1945
-Alternatively, an integration can be used to create a CodiMD (e.g. at https://md.inf.tu-dresden.de/), in which LaTeX can be used.
+The input of LaTeX formulas is currently supported as lab functionality and has to be activated from the messaging partner as well to display LaTeX formular correctly.
 
 **Hashtags** can be used to make terms easier to find in the search.
 
@@ -46,4 +45,4 @@ Similarly, you can jump to the latest timestamp of a conversation by clicking on
 
 ![Marking of the button jumping to the newest message](/images/18_Sprung_nach_unten.webp)
 
-A theme-based presentation (also called "threading") that is similarly good as [Zulip](https://en.wikipedia.org/wiki/Zulip) (by themes in each room/group/stream/channel) or in other programs by using a 3rd column does not exist with Matrix/Element, but is available as a wish: https://github.com/vector-im/element-web/issues/2349
+A theme-based presentation (also called "threading") is now available in Element as well.
