@@ -6,8 +6,15 @@ draft: false
 weight: 200
 ---
 
-
 ***
+#### 01.02.2022 - Umfragen mit Pools {#polls}
+
+Ab jetzt stabil und für alle Geräte verfügbar ist die Möglichkeit simple Umfragen (*engl. polls*) in Matrix-Räumen durchzuführen (Matrix-Spezifikation MSC 3381). Diese neue Funktion ist in Element Web/Desktop 1.10, Element iOS 1.7.0 und Element Android 1.3.16 verfügbar. Alle Benutzer:innen mit der Berechtigung "Nachrichten senden" in einem Raum können dort eine Frage in Form einer Umfrage mit bis zu 20 möglichen Antworten erstellen. Die anderen Benutzer:innen in diesem Raum können über ihre bevorzugte Option abstimmen und wenn die Umfrage fertig ist, kann die erstellende Person die Umfrage beenden, damit alle das Ergebnis sehen können.
+
+![Polls in Element](https://element.io/blog/content/images/size/w1000/2022/01/image-4.png)
+
+
+
 #### 30.11.2021 - Erfahrungsaustausch mit der Max-Planck-Gesellschaft und weiteren Hochschulen {#erfahrungsaustausch}
 
 Die Anstrengungen der TU Darmstadt und des Karlsruher Instituts für Technologie (KIT) beim Aufbau einer zentralen Matrix-Instanz unterstützt die TU Dresden mit Wissensaustausch. Auch die Max-Planck-Gesellschaft erwägt mit ihren 83 Instituten, nach 3-jährigem Betrieb von Mattermost, den Umstieg auf Matrix und lud die TU Dresden zum Erfahrungsaustausch ein ([Vortragsfolien](https://cloudstore.zih.tu-dresden.de/index.php/s/ncPiqGyte4946pN)). Mit dabei waren auch Vertreter des [TI-Messengers](https://www.gematik.de/anwendungen/ti-messenger/) der gematik und des [Bw-Messengers](https://messenger.bwi.de/) der Bundeswehr. 
