@@ -10,9 +10,9 @@ weight: 200
 ***
 #### 30.11.2021 - Erfahrungsaustausch mit der Max-Planck-Gesellschaft und weiteren Hochschulen {#erfahrungsaustausch}
 
-Die Anstrengungen der TU Darmstadt und des Karlsruher Instituts für Technologie (KIT) beim Aufbau einer zentralen Matrix-Instanz unterstützt die TU Dresden mit Wissensaustausch. Auch die Max-Planck-Gesellschaft erwägt mit ihren 83 Instituten, nach 3-jährigem Betrieb von Mattermost, den Umstieg auf Matrix und lud die TU Dresden zum Erfahrungsaustausch ein. Mit dabei waren auch Vertreter des [TI-Messengers](https://www.gematik.de/anwendungen/ti-messenger/) der gematik und des [Bw-Messengers](https://messenger.bwi.de/) der Bundeswehr.
+Die Anstrengungen der TU Darmstadt und des Karlsruher Instituts für Technologie (KIT) beim Aufbau einer zentralen Matrix-Instanz unterstützt die TU Dresden mit Wissensaustausch. Auch die Max-Planck-Gesellschaft erwägt mit ihren 83 Instituten, nach 3-jährigem Betrieb von Mattermost, den Umstieg auf Matrix und lud die TU Dresden zum Erfahrungsaustausch ein ([Vortragsfolien](https://cloudstore.zih.tu-dresden.de/index.php/s/ncPiqGyte4946pN)). Mit dabei waren auch Vertreter des [TI-Messengers](https://www.gematik.de/anwendungen/ti-messenger/) der gematik und des [Bw-Messengers](https://messenger.bwi.de/) der Bundeswehr. 
 
-
+<iframe src="https://videocampus.sachsen.de/media/embed?key=79d25f27120ee1edc29cdce7daa4e0a6&width=720&height=405&autoplay=false&autolightsoff=false&loop=false&chapters=false&related=false&responsive=false&t=0" data-src="" class="iframeLoaded" width="720" height="405" frameborder="0" allowfullscreen="allowfullscreen" allowtransparency="true" scrolling="no" aria-label="media embed code" style=""></iframe>
 
 #### 11.10.2021 - Rauminhalte bequem exportieren {#export}
 
