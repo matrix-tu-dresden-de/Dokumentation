@@ -8,9 +8,9 @@ weight: 2
 
 # First steps - How to use Matrix?
 
-## Matrix-Login with ZIH account
+## Matrix-Login with TUD account
 
-Members and members of the TU Dresden (of course also students) can use their **ZIH login** to communicate with members of the TU Dresden and other universities and other Matrix users (e.g. academic partners) via chat and audio/video telephony in compliance with the relevant legal and regulatory provisions on data protection and IT security.
+Members and members of the TU Dresden (of course also students) can use their **TUD login** (=ZIH-Login) to communicate with members of the TU Dresden and other universities and other Matrix users (e.g. academic partners) via chat and audio/video telephony in compliance with the relevant legal and regulatory provisions on data protection and IT security.
 
 {{% notice tip %}}
 We recommend using the Element desktop client, because this avoids most problems users have with Matrix, e.g. end to end encryption.
@@ -18,7 +18,7 @@ We recommend using the Element desktop client, because this avoids most problems
 
 Downloads for: {{% button href="https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe" icon="fas fa-download" %}}Windows{{% /button %}} {{% button href="https://packages.riot.im/desktop/install/macos/Element.dmg" icon="fas fa-download" %}}macOS{{% /button %}} {{% button href="/clients/install_linux" icon="fas fa-download" %}}Linux{{% /button %}}
 
-After a desktop installation, make sure to use the existing account with the ZIH login and not to create a new account on another server. Here the example of Element:
+After a desktop installation, make sure to use the existing account with the TUD login and not to create a new account on another server. Here the example of Element:
 
 ![Selected login button in the element matrix client](/images/01_Login_en.png)
 
@@ -30,13 +30,13 @@ Now you can manually specify the home server: tu-dresden.de
 
 ![Input field to change the home server with the input matrix.tu-dresden.de](/images/03_Set-Homeserver_en.png)
 
-Afterwards the login with ZIH login and ZIH password must be carried out:
+Afterwards the login with TUD login (=ZIH login) and TUD password (=ZIH password) must be carried out:
 
 The drop-down menu "Log in with:" should be left at "User name". Then the following entries must be made:
 
-**Username: ZIH-Login** (only the ZIH-Login, no e-mail address!)
+**Username: TUD-Login** (only the ZIH-Login, no e-mail address!)
 
-**Password: ZIH-Password**
+**Password: TUD-Password** (=ZIH-Password)
 
 An alternative login, e.g. using the e-mail address, is **NOT** possible during the first, initial login, only after the second login.
 
@@ -44,16 +44,16 @@ After the first login there is also no e-mail / confirmation mail.
 
 Analogous to e-mail addresses, this results in matrix addresses with the following structure:
 
-@ZIH-Login:tu-dresden.de
+@TUD-Login:tu-dresden.de
 
-![Login window with request to enter ZIH login and password](/images/04_Username_en.png)
+![Login window with request to enter TUD login and password](/images/04_Username_en.png)
 
 ## Convenient use of end-to-end encryption (E2EE)
 
-Matrix not only encrypts transports to and from the home server (in the data center of TU Dresden) but also allows the use of end-to-end encryption (E2EE). For this, cryptographic keys have to be exchanged between all devices that want to write end-to-end encrypted. This technical necessity sounds and is complicated, but in the meantime it has become very convenient for the users. The many cryptographic keys created by the client are stored on the respective device. If this is a tab in a browser, for example, there is a risk that this tab will be closed unintentionally. Then all encrypted contents are no longer readable. To prevent this from happening, a key protection is offered on the home server of the TU Dresden, on which (protected with a security phrase (or security key that can be calculated from it) all cryptographic keys are stored encrypted. 
+Matrix not only encrypts transports to and from the home server (in the data center of TU Dresden called ZIH) but also allows the use of end-to-end encryption (E2EE). For this, cryptographic keys have to be exchanged between all devices that want to write end-to-end encrypted. This technical necessity sounds and is complicated, but in the meantime it has become very convenient for the users. The many cryptographic keys created by the client are stored on the respective device. If this is a tab in a browser, for example, there is a risk that this tab will be closed unintentionally. Then all encrypted contents are no longer readable. To prevent this from happening, a key protection is offered on the home server of the TU Dresden, on which (protected with a security phrase (or security key that can be calculated from it) all cryptographic keys are stored encrypted. 
    
 {{% notice info %}}
-It is highly recommended to use this key backup (with a secure security phrase which is NOT your ZIH password)!
+It is highly recommended to use this key backup (with a secure security phrase which is NOT your TUD password)!
 {{% /notice %}}
    
 ![Prompt to generate the security key or enter a security phrase](/images/11_Setup-Key_en.png)
@@ -82,11 +82,11 @@ If you omit this here as well, you will get a last warning if you log off consci
 
 Avoid this situation by setting up a key backup!
 
-## Matrix-Login without ZIH account
+## Matrix-Login without TUD account
 
-A registration of accounts (as known from other matrix servers) is not possible here at the TU Dresden, because only persons with ZIH login can use the service. The TU Dresden is not a communication service provider. 
+A registration of accounts (as known from other matrix servers) is not possible here at the TU Dresden, because only persons with TUD login can use the service. The TU Dresden is not a communication service provider. 
 
-For scientific cooperations with colleagues without a ZIH account there is the possibility to [apply for a ZIH guest account](https://tu-dresden.de/zih/dienste/service-katalog/zugangsvoraussetzung), which also entitles to use Matrix.
+For scientific cooperations with colleagues without a TUD account there is the possibility to [apply for a TUD guest account](https://tu-dresden.de/zih/dienste/service-katalog/zugangsvoraussetzung), which also entitles to use Matrix.
 
 However, the federation with the Matrix servers of other scientific or civil society institutions will soon be possible (analogous to the existing e-mail federation). Example servers with which communication is already possible are:
 
