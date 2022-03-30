@@ -8,6 +8,14 @@ weight: 200
 
 
 ***
+
+#### 01.02.2022 - Polls {#polls}
+
+Now stable and available for all devices is the possibility to conduct simple surveys in matrix rooms (matrix specification MSC 3381). This new function is available in Element Web/Desktop 1.10, Element iOS 1.7.0 and Element Android 1.3.16. All users with the permission "Send messages" in a room can create a question in the form of a survey with up to 20 possible answers. The other users in the room can vote on their preferred option and when the poll is finished, the person who created it can close the poll so that everyone can see the result.
+
+![Polls in Element](https://element.io/blog/content/images/size/w1000/2022/01/image-4.png)
+
+
 #### 30.11.2021 - Exchange of experiences with Max-Planck-Society and further schools of higher education {#experience-exchange}
 
 The efforts of TU Darmstadt and Karlsruhe Institute of Technology (KIT) in setting up a central Matrix instance are supported by TU Dresden with the exchange of experiences with our setup. Also, the Max-Planck-Society with its 83 institutes considers, after 3 years running Mattermost, to switch to Matrix. They invited TU Dresden as well to an exchange of experiences. Further attendees were representatives of the [TI-Messenger](https://www.gematik.de/anwendungen/ti-messenger/) of gematik and the [Bw-Messenger](https://messenger.bwi.de/) of Bundeswehr.
