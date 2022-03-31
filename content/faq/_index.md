@@ -18,7 +18,7 @@ Dies ist eine Zusammenstellung häufiger Fragen und deren Antworten. Teilweise s
 * [Wie kann ich die Schlüsselsicherung zurücksetzen, wenn ich meine Sicherheitsphrase UND meinen (abgespeicherten und ausgedruckten) Sicherheitsschlüssel verloren habe?](#reset-securityphrase)
 * [Warum gibt es keinen Raum „TU Dresden“? Wer dürfte ihn erstellen?](#no-tud-room)
 * [Wie kann ich als administrierende Person viele Nachrichten auf einmal löschen?](#delete-multiple-messages)
-* [Manchmal sehe ich einen fett markierten Raum und klicke ihn an, habe aber doch nicht die Zeit, den Inhalt und etwaige Konsequenzen für mich sofort zu bearbeiten. Wie kann ich den Raum wieder als „ungelesen“ markieren?](#mark-room-as-unread)
+* [Manchmal sehe ich einen fett markierten Raum und klicke ihn an, habe aber doch nicht die Zeit, den Inhalt und etwaige Konsequenzen für mich sofort zu bearbeiten.Wie kann ich den Raum wieder als „ungelesen“ markieren?](#mark-room-as-unread)
 * [Was muss ich tun, wenn auf einem MacOS Video oder Audio in einer Videokonferenz nicht funktioniert.](#apple-no-video)
 * [Wie viele Personen können gleichzeitig in einen Raum eingeladen werden? Kann ich Personen über ihre E-Mail-Adressen einladen?](#how-many-invites-can-i-do)
 * [Kann ich die Beitrittsrechte aller Räume meiner Community so anpassen, dass nur Mitglieder der Community Zutritt haben?](#roompermissions-in-communities)
@@ -68,18 +68,13 @@ Dafür bitte prüfen, ob diese überhaupt eingerichtet wurde. Siehe [Schlüssels
 ***
 #### Wie kann ich die Schlüsselsicherung zurücksetzen, wenn ich meine Sicherheitsphrase UND meinen (abgespeicherten und ausgedruckten) Sicherheitsschlüssel verloren habe? {#reset-securityphrase}
 Bitte folgendes ausführen:
-  * bei allen Matrix-Sitzungen bis auf eine, auf die noch Zugriff besteht, die Raumschlüssel exportieren `Einstellungen`-> `Sicherheit & Datenschutz` -> `Verschlüsselung` hier am besten mit dem Matrixanmeldekennwort versehen. Abschließend abmelden, dafür links oben auf den Benutzernamen und abmelden, bei der Frage möglicherweise auftretenden Fage ob die verschüsselten Nachrichten gewünscht werden den Knopf `Ich möchte meine verschlüsselten Nachrichten nicht` betätigen, da diese Schlüssel eben schon exportiert wurden.
-  * alle Sitzungen auf die kein Zugriff mehr besteht [löschen]({{< relref "settings/#sicherheit--datenschutz" >}}) die oberste in Fettschrift ist die aktuelle Sitzung, diese nicht mit anhaken
-  * die letzte Sitzung abmelden
-  * Eine Nachricht an den Servicedesk schreiben, mit der Bitte in der Datenbank die Sicherheitsschlüssel zu löschen
-  * auf die Antwort warten
-  * bei Matrix anmelden und bei den Fenstern und Meldungen die Verifikation überspringen
-  * bei Matrix abmelden
-  * bei Matrix erneut anmelden und bei den Fenstern und Meldungen die Verifikation überspringen
-  * Unter `Einstellungen`-> `Sicherheit & Datenschutz` -> `Sicheres Backup` schauen ob dort ein grüner Knopf `Einrichten` und keine roten Knöpfe da sind. Wenn noch rote Knöpfe da sind, erst den Knopf `Sicherung löschen`, dann den Knopf `Zurücksetzen` möglicherweise ist ein löschen des Zwischenspeichers unter `Einstellungen`-> `Hilfe & Über` nötig, möglicherweise auch ein abmelden und erneutes anmelden. Ebenso kann es sein, das unter `Einstellungen`-> `Sicherheit & Datenschutz` -> `Cross-Signing` auf den roten Knopf `Zurücksetzen` gedrückt werden muss. Die Aktion war erfolgreich, wenn für `Sicheres Backup` und `Cross-Signing` nur noch der grüne Einrichten Knopf angezeigt wird.
-  * wenn das alles nicht geht auf das Ticket antworten mit der Bitte um eine Jitsibesprechung
-  * Für alle vorher exportieren Schlüsselsicherungen den manuellen importweg ausführen.
-  * Neue Schlüsselsicherung einrichten. Siehe [Schlüsselsicherung]({{< relref "settings/#schlüsselsicherung" >}})
+  1. bei allen Matrix-Sitzungen bis auf eine, auf die noch Zugriff besteht, die Raumschlüssel exportieren `Einstellungen`-> `Sicherheit` -> `Wo du angemeldet bist` hier am besten mit dem Matrixanmeldekennwort versehen. Abschließend abmelden, dafür links oben auf den Benutzernamen und abmelden, bei der möglicherweise auftretenden Fage ob die verschüsselten Nachrichten gewünscht werden den Knopf `Ich möchte meine verschlüsselten Nachrichten nicht` betätigen, da diese Schlüssel eben schon exportiert wurden.
+  2. alle weiteren Sitzungen/Geräte [löschen]({{< relref "settings/#sicherheit--datenschutz" >}}) die oberste in Fettschrift ist die aktuelle Sitzung, diese nicht mit anhaken, also nicht löschen
+  3. Ggf. ausloggen und wieder einloggen, dabei Nachfragen ignorieren.
+  4. Unter `Einstellungen`-> `Sicherheit` -> `Sicheres Backup` schauen ob dort ein grüner Knopf `Einrichten` und keine roten Knöpfe da sind. Oder wenn noch rote Knöpfe da sind, erst den Knopf `Sicherung löschen`, dann den Knopf `Zurücksetzen` klicken. Möglicherweise ist ein löschen des Zwischenspeichers (roter Knopf unter `Einstellungen`-> `Hilfe & Über`) nötig, möglicherweise auch ein Abmelden und erneutes aAnmelden. 
+  5. Anschließend unter `Einstellungen`-> `Sicherheit` -> `Quersignierung` auf den roten Knopf `Zurücksetzen` drücken. Die Aktion war erfolgreich, wenn für `Sicheres Backup` und `Quersignierung` nur noch der grüne Einrichten Knopf angezeigt wird.
+  6. Jetzt die zuvor exportieren Schlüsselsicherungen manuell importieren. Dazu unter `Einstellungen`-> `Sicherheit` -> `Verschlüsselung` auf E2E-Raumschlüssel importieren klicken
+  7. Neue Schlüsselsicherung einrichten. Siehe [Schlüsselsicherung]({{< relref "settings/#schlüsselsicherung" >}}). Den Sicherheitsschlüssel mehrfach ausdrucken und an verschiedenen Orten sicher aufbewahren (Verlustgefahr bspw. durch Brand, wenn nur an einem Ort).
 
 ***
 #### Warum gibt es keinen Raum „TU Dresden“? Wer dürfte ihn erstellen? {#no-tud-room}
