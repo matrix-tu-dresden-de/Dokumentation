@@ -74,7 +74,7 @@ Bitte folgendes ausführen:
   4. Unter `Einstellungen`-> `Sicherheit` -> `Sicheres Backup` schauen ob dort ein grüner Knopf `Einrichten` und keine roten Knöpfe da sind. Oder wenn noch rote Knöpfe da sind, erst den Knopf `Sicherung löschen`, dann den Knopf `Zurücksetzen` klicken. Möglicherweise ist ein löschen des Zwischenspeichers (roter Knopf unter `Einstellungen`-> `Hilfe & Über`) nötig, möglicherweise auch ein Abmelden und erneutes aAnmelden. 
   5. Anschließend unter `Einstellungen`-> `Sicherheit` -> `Quersignierung` auf den roten Knopf `Zurücksetzen` drücken. Die Aktion war erfolgreich, wenn für `Sicheres Backup` und `Quersignierung` nur noch der grüne Einrichten Knopf angezeigt wird.
   6. Jetzt die zuvor exportieren Schlüsselsicherungen manuell importieren. Dazu unter `Einstellungen`-> `Sicherheit` -> `Verschlüsselung` auf E2E-Raumschlüssel importieren klicken.
-  7. Neue Schlüsselsicherung einrichten. Siehe [Schlüsselsicherung]({{< relref "settings/#schlüsselsicherung" >}}). Den Sicherheitsschlüssel mehrfach ausdrucken und an verschiedenen Orten sicher aufbewahren (Verlustgefahr bspw. durch Brand, wenn nur an einem Ort).
+  7. Neue Schlüsselsicherung und Quersignierung einrichten mit den zwei grünen Knöpfen. Siehe [Schlüsselsicherung]({{< relref "settings/#schlüsselsicherung" >}}). Den Sicherheitsschlüssel mehrfach ausdrucken und an verschiedenen Orten sicher aufbewahren (Verlustgefahr bspw. durch Brand, wenn nur an einem Ort).
 
 ***
 #### Warum gibt es keinen Raum „TU Dresden“? Wer dürfte ihn erstellen? {#no-tud-room}
