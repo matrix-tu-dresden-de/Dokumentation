@@ -69,6 +69,15 @@ To do this, please check whether this has been set up at all. See [Secure backup
 ***
 #### How do I reset the secure backup if I have lost my security phrase AND my (saved and printed) security key? {#reset-securityphrase}
 Please execute the following:
+  1. Export E2EE room keys manually in on Matrix session (=client/device/browser), where you can still read former encrypted conversation. Therefore, click on "Export E2EE room keys" under unter `Settings`-> `Security & Privacy` -> `Cryptography`. If you do not have any access to any Matrix session where you can read the former enrypted conversation, you have to skip this step.
+  2. In the one Matrix session, where you manually exported your E2EE room keys, sign off all further devices in the following way: Tick all checkboxes for other sessions/devices/clients in `Settings`-> `Security & Privacy` -> `Where you're signed in` and afterwards click on the red "Sign out x selected devices" below the list. The entry at the top of the list under the subheadline "This device" should not be deleted.
+  3. Maybe log out and log in again by ignoring all messages regarding the secure backup. Unfortuenately, you seem to not have the security key any more.
+  4. Have a look in the `Settings`-> `Security & Privacy` -> `Secure Backup` if there is any green button `Set up Secure Backup`. If there are red buttons, start with clicking on `Delete backup`, continue with clicking on `Reset`. Maybe you should "Clear the cache and reload" under `Settings`-> `Help & About` and sign off and on again.
+  5. Continue with clicking in `Settings`-> `Security & Privacy` -> `Cross-signing` on the red button `Reset`. This step was successful, if under the subheadlines `Secure Backup` and `Cross-signing` you only find green buttons for setting up. But do not click them right now in this step.
+  6. Import your saved E2EE room keys from step 1 manually by using the button "Import E2EE room keys" in `Settings`-> `Security & Privacy` -> `Cryptography`.
+  7. Now set up your new [Secure Backup]({{< relref "en/settings/#secure-backup" >}}) and the Cross-Signing with the two green buttons. Print the Security Key several times and deposit it securely (At only one place you have the risk of loss e.g. via a fire).
+
+
   * export the room keys for all matrix sessions except for one, which is still accessible, `Settings` -> `Security & Privacy` -> `Encryption`/`Cryptography`, here it is best to provide the matrix login password. Finally, log out by clicking on the user name in the upper left corner and log out. If you are asked whether you want the encrypted messages, click on 'I don't want my encrypted messages', because these keys have already been exported.
   * [Delete]({{< relref "settings/#security--privacy" >}}) all sessions that are no longer accessible. the top one in bold is the current session, do not tick this one
   * Log off the last session
