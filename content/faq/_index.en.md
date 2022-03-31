@@ -77,20 +77,6 @@ Please execute the following:
   6. Import your saved E2EE room keys from step 1 manually by using the button "Import E2EE room keys" in `Settings`-> `Security & Privacy` -> `Cryptography`.
   7. Now set up your new [Secure Backup]({{< relref "en/settings/#secure-backup" >}}) and the Cross-Signing with the two green buttons. Print the Security Key several times and deposit it securely (At only one place you have the risk of loss e.g. via a fire).
 
-
-  * export the room keys for all matrix sessions except for one, which is still accessible, `Settings` -> `Security & Privacy` -> `Encryption`/`Cryptography`, here it is best to provide the matrix login password. Finally, log out by clicking on the user name in the upper left corner and log out. If you are asked whether you want the encrypted messages, click on 'I don't want my encrypted messages', because these keys have already been exported.
-  * [Delete]({{< relref "settings/#security--privacy" >}}) all sessions that are no longer accessible. the top one in bold is the current session, do not tick this one
-  * Log off the last session
-  * Write a message to the ServiceDesk with a request to delete the security keys from the database.
-  * Wait for the answer
-  * Log in again at Matrix and skip verification at windows and messages
-  * Log out from Matrix
-  * Log in again at Matrix and skip verification at windows and messages again
-  * Under `Settings`-> `Security & Privacy` -> `Secure Backup` look if there is a green button `Setup` and no red buttons. If there are still red buttons, press first `Delete Backup`, afterwards the button `Reset` and may a clearing of the cache under `Settings`-> `Help & About` is necessary, as well a logging off and logging on again. Also it may be necessary to press the red button `Reset` under `Settings`-> `Security & Privacy` -> `Cross-Signing`. The action was successful, if for 'Secure Backup' and 'Cross-Signing' only the green 'Setup' button is displayed.
-  * If all this does not work reply to the ticket with a request for a jitsi meeting
-  * For all previously exported key backups, perform the manual import path
-  * Set up a new security backup. See [Secure backup]({{< relref "settings/#secure-backup" >}})
-
 ***
 #### Why is there no room "TU Dresden"? Who is allowed to create it? {#no-tud-room}
 All persons creating a room are administrative persons and are responsible for the room. Matrix is not yet designed for the exchange of thousands of members at the university. Should a central room be needed one day, its establishment and maintenance would certainly be the responsibility of the Rectorate and the Department of "Strategy & Communication".
