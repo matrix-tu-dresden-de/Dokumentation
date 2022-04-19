@@ -75,7 +75,7 @@ Please execute the following:
   4. Have a look in the `Settings`-> `Security & Privacy` -> `Secure Backup` if there is any green button `Set up Secure Backup`. If there are red buttons, start with clicking on `Delete backup`, continue with clicking on `Reset`. Maybe you should "Clear the cache and reload" under `Settings`-> `Help & About` and sign off and on again.
   5. Continue with clicking in `Settings`-> `Security & Privacy` -> `Cross-signing` on the red button `Reset`. This step was successful, if under the subheadlines `Secure Backup` and `Cross-signing` you only find green buttons for setting up. But do not click them right now in this step.
   6. Import your saved E2EE room keys from step 1 manually by using the button "Import E2EE room keys" in `Settings`-> `Security & Privacy` -> `Cryptography`.
-  7. Now set up your new [Secure Backup]({{< relref "en/settings/#secure-backup" >}}) and the Cross-Signing with the two green buttons. Print the Security Key several times and deposit it securely (At only one place you have the risk of loss e.g. via a fire).
+  7. Now set up your new [Secure Backup]({{< relref "settings/#secure-backup" >}}) and the Cross-Signing with the two green buttons. Print the Security Key several times and deposit it securely (At only one place you have the risk of loss e.g. via a fire).
 
 ***
 #### Why is there no room "TU Dresden"? Who is allowed to create it? {#no-tud-room}
