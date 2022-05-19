@@ -3,10 +3,10 @@ title: "Element Desktop"
 date: 2020-10-12T09:27:07+02:00
 draft: false
 chapter: true
-weight: 5
+weight: 10
 ---
 
-## Element Desktop
+# Element Desktop
 
 Downloads für: 
 {{% button href="https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe" icon="fas fa-download" %}}Windows{{% /button %}} 

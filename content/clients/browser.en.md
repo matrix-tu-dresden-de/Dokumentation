@@ -3,10 +3,10 @@ title: "Element Web (Browser)"
 date: 2020-07-15T16:46:07+02:00
 draft: false
 chapter: true
-weight: 10
+weight: 5
 ---
 
-# Using the Element webclient
+# Element Web
 Start here: [https://matrix.tu-dresden.de](https://matrix.tu-dresden.de) 
 
 ![Start page of Element Webclient with login button](/images/01_Welcome_en.png)
