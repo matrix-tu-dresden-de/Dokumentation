@@ -16,43 +16,33 @@ In order to meet the demand for real-time communication, the open communication 
 ## Topics
 
 * [Why Matrix and no other chat system?]({{< relref "why/_index.en.md" >}})
-
 * [How can Matrix be used? (registration and first steps)]({{< relref "first-steps/_index.en.md" >}})
-
 * [Recommendations for further important settings after first login]({{< relref "settings/_index.en.md" >}})
-
-* [Installation of a client / program]({{< relref "clients/_index.en.md" >}})
-
-    * [Browsersettings]({{< relref "clients/browser.en.md" >}})
-
+* [Install and setup Matrix clients]({{< relref "clients/_index.en.md" >}})
+    * [Element Web]({{< relref "clients/browser/_index.en.md" >}})
+    * [Element Desktop]({{< relref "clients/desktop/_index.en.md" >}})
+    * [Element Android]({{< relref "clients/android/_index.en.md" >}})
+    * [Element iOS]({{< relref "clients/ios/_index.en.md" >}})
+    * [Element installation under Linux]({{< relref "clients/install_linux/_index.en.md" >}})
+    * [More Clients]({{< relref "clients/more_clients/_index.en.md" >}})
 * [Find people and send direct messages]({{< relref "messaging/_index.en.md" >}})
-
-* [Use end-to-end encryption]({{< relref "encryption/_index.en.md" >}})
-
+    * [Format messages]({{< relref "messaging/formatting/_index.en.md" >}})
+    * [Search messages]({{< relref "messaging/search/_index.en.md" >}})
 * [Create rooms and take responsibility]({{< relref "rooms/_index.en.md" >}})
-
-    * [Sharing rooms and making them public]({{< relref "rooms/sharing.en.md" >}})
-
+    * [Create rooms]({{< relref "rooms/create/_index.en.md" >}})
     * [Find rooms]({{< relref "rooms/find/_index.en.md" >}})
-
     * [Delete and leave rooms]({{< relref "rooms/delete/_index.en.md" >}})
-
+    * [Sharing rooms and making them public]({{< relref "rooms/sharing.en.md" >}})
 * [Fine-tune notifications]({{< relref "notifications/_index.en.md" >}})
-
-* [Use integrations, bridges, bots (e.g. Jitsi)]({{< relref "integrations/_index.en.md" >}})
-
-* [More Clients]({{< relref "clients/more_clients.en.md" >}})
-
 * [Using communities as room filters]({{< relref "communities/_index.en.md" >}})
-
 * [Using Spaces for managing rooms]({{< relref "spaces/_index.en.md" >}})
-
+* [Use end-to-end encryption]({{< relref "encryption/_index.en.md" >}})
+* [Use integrations, bridges, bots (e.g. Jitsi)]({{< relref "integrations/_index.en.md" >}})
+* [Frequently asked questions (FAQ)]({{< relref "faq/_index.en.md" >}})
 * [Further development of Matrix]({{< relref "development/_index.en.md" >}})
-
+* [Blog/News]({{< relref "blog/_index.en.md" >}})
 * [Privacy policy]({{< relref "privacy/_index.en.md" >}})
-
 * [Imprint]({{< relref "imprint/_index.en.md" >}})
-
 * [Declaration of Accessibility]({{< relref "accessibility/_index.en.md" >}})
 
 ### Questions and Contact
