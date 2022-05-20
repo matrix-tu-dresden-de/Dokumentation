@@ -24,6 +24,6 @@ Downloads für: {{% button href="https://play.google.com/store/apps/details?id=i
 
 ![Bildschirm "Andere" zur Verbindung mit einem anderen Server. Das Textfeld Adresse erfordert die Eingabe der Serveradresse, darunter befindet sich der Fortfahren-Button.](/images/15_Element_Android3_de.jpg?height=50vh&classes=border)
 
-4. Geben Sie im Feld **„Benutzername oder E-Mail-Adresse“** Ihr ZIH-Login ein. (Ihren ZIH-Login-Namen finden Sie im [Self-Service-Portal](https://selfservice.zih.tu-dresden.de/l/index.php/idm_my_profile).) Nach Eingabe Ihres ZIH-Passworts im zweiten Feld können Sie sich über den **„Anmelden“**-Button einloggen.
+4. Geben Sie im Feld **„Benutzername oder E-Mail-Adresse“** Ihr ZIH-Login ein. (Ihren ZIH-Login finden Sie im [Profil des Self-Service-Portals](https://selfservice.tu-dresden.de/profile/) im Abschnitt Kontoinformationen als „Login-Name“.) Nach Eingabe Ihres ZIH-Passworts im zweiten Feld können Sie sich über den **„Anmelden“**-Button einloggen.
 
 ![Bildschirm "Mit tu-dresden.de" verbinden erwartet im Textfeld "Benutzername oder E-Mail-Adresse" die Eingabe des ZIH-Logins und das Textfeld "Passwort" die Eingabe des ZIH-Passworts. Zum Verbinden befindet sich der Button "Anmelden" auf der Anzeige.](/images/15_Element_Android4_de.jpg?height=50vh&classes=border)
