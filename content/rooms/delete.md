@@ -8,7 +8,7 @@ weight: 30
 ## Räume löschen und aus Räumen austreten
 
 
-Durch das Verlassen von Räumen erscheinen diese nicht mehr in der Raumliste (linke Spalte)
+Durch das Verlassen von Räumen erscheinen diese nicht mehr in der Raumliste (linke Spalte).
 
 ![Raumeinstellungen mit der Auswahl Verlassen](/images/01_Leave_de.png)
 
