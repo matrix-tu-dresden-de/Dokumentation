@@ -11,12 +11,11 @@ weight: 200
 
 #### 14.09.2022 - Read receipts can now be disabled
 
-With a recent version of Element Messenger, it is now possible to disable read receipts.
+In Element Desktop and Web (from version 1.11.3) it is now possible to disable read receipts. Other users in the room will then no longer be able to see when and if you have read a message. As soon as you write a message in the room, your read receipt is displayed next to it for others.
 
-You can find the option in the settings: Preferences > Presence
-![Screenshot of the settings menu in Element Desktop](/images/blog/element-settings-presence.png)
+The option can be found in the settings: Tab **"Options"** - section **"Presence"** - toggle switch **"Send read receipts"**.
 
-
+![Explanatory screenshot to the previous description with marker on the Preferences tab and Presence section](/images/blog/element-settings-presence.png)
 
 
 #### 01.02.2022 - Polls {#polls}

@@ -11,11 +11,11 @@ weight: 200
 
 #### 14.09.2022 - Lesebestätigungen nun deaktivierbar
 
-Mit einer entsprechend aktuellen Version des Element Messengers ist es nun möglich, Lesebestätigungen zu deaktivieren.
+In Element Desktop und Web (ab Version 1.11.3) ist es nun möglich, Lesebestätigungen zu deaktivieren. Andere Personen im Raum können anschließend nicht mehr einsehen, wann und ob Sie eine Nachricht gelesen haben. Sobald Sie eine Nachricht im Raum schreiben, wird Ihre Lesebestätigung für andere neben dieser angezeigt.
 
-Die Option finden Sie in den Einstellungen: Optionen > Anwesenheit
-![Screenshot des Einstellungsmenüs in Element Web](/images/blog/element-einstellungen-anwesenheit.png)
+Die Option finden Sie in den Einstellungen: Registartkarte **„Optionen“** - Abschnitt **„Anwesenheit“** - Kippschalter **„Sende Lesebestätigungen“**
 
+![Erklärender Screenshot zur vorangegangen Beschreibung mit Marker auf der Registerkarte Optionen und Abschnitt Anwesenheit](/images/blog/element-einstellungen-anwesenheit.png)
 
 
 #### 01.02.2022 - Umfragen mit Polls {#polls}
