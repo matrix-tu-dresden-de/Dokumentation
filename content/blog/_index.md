@@ -6,7 +6,18 @@ draft: false
 weight: 200
 ---
 
+
 ***
+
+#### 14.09.2022 - Lesebestätigungen nun deaktivierbar
+
+Mit einer entsprechend aktuellen Version des Element Messengers ist es nun möglich, Lesebestätigungen zu deaktivieren.
+
+Die Option finden Sie in den Einstellungen: Optionen > Anwesenheit
+![Screenshot des Einstellungsmenüs in Element Web](/images/blog/element-einstellungen-anwesenheit.png)
+
+
+
 #### 01.02.2022 - Umfragen mit Polls {#polls}
 
 Ab jetzt stabil und für alle Geräte verfügbar ist die Möglichkeit simple Umfragen (*engl. polls*) in Matrix-Räumen durchzuführen (Matrix-Spezifikation MSC 3381). Diese neue Funktion ist in Element Web/Desktop 1.10, Element iOS 1.7.0 und Element Android 1.3.16 verfügbar. Alle Benutzer:innen mit der Berechtigung "Nachrichten senden" in einem Raum können dort eine Frage in Form einer Umfrage mit bis zu 20 möglichen Antworten erstellen. Die anderen Benutzer:innen in diesem Raum können über ihre bevorzugte Option abstimmen und wenn die Umfrage fertig ist, kann die erstellende Person die Umfrage beenden, damit alle das Ergebnis sehen können.
