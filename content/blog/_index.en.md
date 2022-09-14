@@ -9,6 +9,15 @@ weight: 200
 
 ***
 
+#### 14.09.2022 - Read receipts can now be disabled
+
+In Element Desktop and Web (from version 1.11.3) it is now possible to disable read receipts. Other users in the room will then no longer be able to see when and if you have read a message. As soon as you write a message in the room, your read receipt is displayed next to it for others.
+
+The option can be found in the settings: Tab **"Options"** - section **"Presence"** - toggle switch **"Send read receipts"**.
+
+![Explanatory screenshot to the previous description with marker on the Preferences tab and Presence section](/images/blog/element-settings-presence.png)
+
+
 #### 01.02.2022 - Polls {#polls}
 
 Now stable and available for all devices is the possibility to conduct simple surveys in matrix rooms (matrix specification MSC 3381). This new function is available in Element Web/Desktop 1.10, Element iOS 1.7.0 and Element Android 1.3.16. All users with the permission "Send messages" in a room can create a question in the form of a survey with up to 20 possible answers. The other users in the room can vote on their preferred option and when the poll is finished, the person who created it can close the poll so that everyone can see the result.
