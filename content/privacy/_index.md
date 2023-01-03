@@ -57,6 +57,8 @@ Die Verarbeitung umfasst folgende personenbezogene Daten:
 
 7. Benachrichtigungen (Mail)
 
+Die Profildaten (Anzeigename, E-Mail, Foto) sowie die Matrix-ID sind durch die Teilnahme am globalen Matrix-Netzwerk über die Kontaktsuche für Externe sichtbar.
+
 **Auf welcher Rechtsgrundlage erfolgt die Verarbeitung personenbezogener Daten?**
 
 Die Rechtsgrundlage für die Datenverarbeitung zu den oben genannten Zwecken ist Art. 6 Abs. 1 UAbs. 1 lit. a DSGVO (Einwilligung). 

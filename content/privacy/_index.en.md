@@ -56,6 +56,7 @@ The processing includes the following personal data:
 
 7. notifications (mail)
 
+The profile data (display name, email, photo) as well as the Matrix ID are visible to external parties through participation in the global Matrix network via the contact search.
 
 **On what legal basis is the processing of personal data carried out?**
 
