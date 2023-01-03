@@ -14,7 +14,7 @@ weight: 900
 **Who is responsible for data processing and to whom can turn the affected person?**
 
 Responsible
-in the sense of Art. 4 No. 7 DSGVO is the [TU Dresden](https://tu-dresden.de/impressum).
+in the sense of Art. 4 No. 7 GDPR is the [TU Dresden](https://tu-dresden.de/impressum).
 
 Contact person:
 
@@ -56,41 +56,47 @@ The processing includes the following personal data:
 
 7. notifications (mail)
 
-** How long will the personal data be stored?
 
-The personal data is stored according to § 16 Abs. 4 IT-Ordnung of the TU
-Dresden at the latest 15 months after the departure of the affected
-Person deleted.
+**On what legal basis is the processing of personal data carried out?**
+
+The legal basis for data processing for the above purposes is Art. 6 Abs. 1 UAbs. 1 lit. a GDPR (consent). 
+
+**How long will the personal data be stored?**
+
+In accordance with § 15 (4) of the IT Regulations of the TU Dresden, personal data relating to the use of the service will be deleted no later than 15 months after the person concerned leaves the service or upon revocation.
+
+The user contents according to 3. can be deleted by the users themselves at any time, an automated deletion is not possible on the part of ZIH.
 
 **What rights are the persons concerned basically entitled to?**
 
-<u>Right to information (Art. 15 DSGVO)</u>
+<u>Right to information (Art. 15 GDPR)</u>
 
 The parties concerned have the right to obtain information at any time about the
 and the possible recipients of this data.
 to be able to request data.
 
-<u>Right to correction, deletion and restriction (Art. 16 - 18 DSGVO)</u>
+<u>Right to correction, deletion and restriction (Art. 16 - 18 GDPR)</u>
 
 The persons concerned can inform the TU Dresden about the
 Correction, deletion of your personal data or the
 to demand restriction of the processing.
 
-<u>Right to data transferability (Art. 20 DSGVO)</u>
+<u>Right to data transferability (Art. 20 GDPR)</u>
 
 The persons concerned can demand that the person responsible give them their
 personal data is transmitted in machine-readable format.
 
-<u>Right of appeal (Art. 77 DSGVO)</u>
+<u>Right of appeal (Art. 77 GDPR)</u>
 
 Affected persons can contact the competent supervisory authority at any time
 for data protection. The competent supervisory authority is:
 
-Sächsische Datenschutzbeauftragter <br>
-Postfach 11 01 32 <br>
-01330 Dresden <br>
+Sächsische Datenschutzbeauftragte <br>
+Frau Dr. Juliane Hundert <br>
+Devrientstraße 5 <br>
+01067 Dresden <br>
 
 Tel.: +49(0)351/85471 101 <br>
-Fax:+ 49(0)351/85471 109 <br>
+Fax: + 49(0)351/85471 109 <br>
 
-E-Mail: [saechsdsb@slt.sachsen.de](mailto:saechsdsb@slt.sachsen.de)
+Email: [saechsdsb@slt.sachsen.de](mailto:saechsdsb@slt.sachsen.de)

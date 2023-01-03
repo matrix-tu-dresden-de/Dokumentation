@@ -57,11 +57,15 @@ Die Verarbeitung umfasst folgende personenbezogene Daten:
 
 7. Benachrichtigungen (Mail)
 
+**Auf welcher Rechtsgrundlage erfolgt die Verarbeitung personenbezogener Daten?**
+
+Die Rechtsgrundlage für die Datenverarbeitung zu den oben genannten Zwecken ist Art. 6 Abs. 1 UAbs. 1 lit. a DSGVO (Einwilligung). 
+
 **Wie lange werden die personenbezogenen Daten gespeichert?**
 
-Die personenbezogenen Daten werden gemäß § 16 Abs. 4 IT-Ordnung der TU
-Dresden spätestens 15 Monate nach dem Ausscheiden der betroffenen
-Person gelöscht.
+Die personenbezogenen Daten zur Nutzung des Dienstes werden gemäß § 15 Abs. 4 IT-Ordnung der TU Dresden spätestens 15 Monate nach dem Ausscheiden der betroffenen Person bzw. bei Widerruf gelöscht.
+
+Die Benutzerinhalte nach 3. können von den Nutzenden jederzeit selbst gelöscht werden, eine automatisierte Löschung ist seitens des ZIH nicht möglich. 
 
 **Welche Rechte stehen den betroffenen Personen grundsätzlich zu?**
 
@@ -87,11 +91,12 @@ personenbezogenen Daten maschinenlesbaren in Format übermittelt.
 Betroffene Personen können sich jederzeit an die zuständige Aufsichtsbehörde
 für den Datenschutz wenden. Die zuständige Aufsichtsbehörde ist:
 
-Sächsische Datenschutzbeauftragter <br>
-Postfach 11 01 32 <br>
-01330 Dresden <br>
+Sächsische Datenschutzbeauftragte <br>
+Frau Dr. Juliane Hundert <br>
+Devrientstraße 5 <br>
+01067 Dresden <br>
 
 Tel.: +49(0)351/85471 101 <br>
-Fax:+ 49(0)351/85471 109 <br>
+Fax: + 49(0)351/85471 109 <br>
 
 E-Mail: [saechsdsb@slt.sachsen.de](mailto:saechsdsb@slt.sachsen.de)
