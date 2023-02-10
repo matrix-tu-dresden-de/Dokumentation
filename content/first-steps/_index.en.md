@@ -128,20 +128,30 @@ However, the federation with the Matrix servers of other scientific or civil soc
 
 * [Uni Heidelberg](https://matrix-im.uni-heidelberg.de/) incl. [Docu](https://www.urz.uni-heidelberg.de/en/heichat)
 
-* [Karlsruher Institut für Technologie (KIT)](https://dsn.tm.kit.edu)
+* [Karlsruher Institut für Technologie (KIT)](https://matrix.kit.edu/)
 
 * [Uni Augsburg](https://element.physik.uni-augsburg.de/#/welcome) incl. [Docu](https://www.uni-augsburg.de/de/fakultaet/mntf/physik/facilities/itservices/elequick/)
 
 * [Uni Stuttgart](https://chat.stuvus.de/) incl. [Docu](https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger)
 
+* [Hochschule Bremerhaven](https://matrix.hs-bremerhaven.de/)
 
-Explizit für Studierende:
+* [TU Darmstadt](https://element.matrix.tu-darmstadt.de)
 
-* [StudiChat](https://chat.studichat.de/#/welcome) (für alle)
+* [Philipps-Universität Marburg](https://matrix.uni-marburg.de/)
 
-* [Fachschaften](https://matrix.fachschaften.org/) (für Fachschaften)
+* [TU Braunschweig](https://chat.tu-bs.de/)
 
-Weitere europäische Hochschulen:
+* [Hochschule Furtwangen](https://matrix.hs-furtwangen.de/) incl. [Docu](https://howto.hs-furtwangen.de/hfu-chat/)
+
+
+Explicitly for students:
+
+* [StudiChat](https://chat.studichat.de/#/welcome) (for all)
+
+* [Fachschaften](https://matrix.fachschaften.org/) (for student representatives)
+
+Other European universities:
 
 * [ETH Zürich](https://element.phys.ethz.ch/) incl. [Docu](https://readme.phys.ethz.ch/chat/)
 
@@ -149,6 +159,7 @@ Weitere europäische Hochschulen:
 
 * [University for Business and Technology, Kosovo](https://ubt-uni.net/)
 
+* [Karl-Franzens-Universität Graz](https://chat.uni-graz.at/)
 
 <object data="/images/federation_map.svg" type="image/svg+xml" style="width: 600px; max-width: 100%"></object>
 

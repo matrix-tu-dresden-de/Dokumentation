@@ -127,11 +127,21 @@ Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilges
 
 * [Uni Heidelberg](https://matrix-im.uni-heidelberg.de/) inkl. [Doku](https://www.urz.uni-heidelberg.de/en/heichat)
 
-* [Karlsruher Institut für Technologie (KIT)](https://dsn.tm.kit.edu)
+* [Karlsruher Institut für Technologie (KIT)](https://matrix.kit.edu/)
 
 * [Uni Augsburg](https://element.physik.uni-augsburg.de/#/welcome) inkl. [Doku](https://www.uni-augsburg.de/de/fakultaet/mntf/physik/facilities/itservices/elequick/)
 
 * [Uni Stuttgart](https://chat.stuvus.de/) inkl. [Doku](https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger)
+
+* [Hochschule Bremerhaven](https://matrix.hs-bremerhaven.de/)
+
+* [TU Darmstadt](https://element.matrix.tu-darmstadt.de)
+
+* [Philipps-Universität Marburg](https://matrix.uni-marburg.de/)
+
+* [TU Braunschweig](https://chat.tu-bs.de/)
+
+* [Hochschule Furtwangen](https://matrix.hs-furtwangen.de/) inkl. [Doku](https://howto.hs-furtwangen.de/hfu-chat/)
 
 
 Explizit für Studierende:
@@ -147,6 +157,8 @@ Weitere europäische Hochschulen:
 * [Universität Innsbruck](https://chat.uibk.ac.at/) inkl. [Doku](https://www.uibk.ac.at/zid/anleitungen/chat/)
 
 * [University for Business and Technology, Kosovo](https://ubt-uni.net/)
+
+* [Karl-Franzens-Universität Graz](https://chat.uni-graz.at/)
 
 Kartendarstellung der Hochschulen und Universitäten mit einem Matrix-Dienst: 
 
