@@ -142,14 +142,16 @@ However, the federation with the Matrix servers of other scientific or civil soc
 
 * [TU Braunschweig](https://chat.tu-bs.de/)
 
+* [Hochschule Furtwangen](https://matrix.hs-furtwangen.de/) incl. [Docu](https://howto.hs-furtwangen.de/hfu-chat/)
 
-Explizit für Studierende:
 
-* [StudiChat](https://chat.studichat.de/#/welcome) (für alle)
+Explicitly for students:
 
-* [Fachschaften](https://matrix.fachschaften.org/) (für Fachschaften)
+* [StudiChat](https://chat.studichat.de/#/welcome) (for all)
 
-Weitere europäische Hochschulen:
+* [Fachschaften](https://matrix.fachschaften.org/) (for student representatives)
+
+Other European universities:
 
 * [ETH Zürich](https://element.phys.ethz.ch/) incl. [Docu](https://readme.phys.ethz.ch/chat/)
 
@@ -157,6 +159,7 @@ Weitere europäische Hochschulen:
 
 * [University for Business and Technology, Kosovo](https://ubt-uni.net/)
 
+* [Karl-Franzens-Universität Graz](https://chat.uni-graz.at/)
 
 <object data="/images/federation_map.svg" type="image/svg+xml" style="width: 600px; max-width: 100%"></object>
 

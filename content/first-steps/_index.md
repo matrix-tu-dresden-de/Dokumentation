@@ -141,6 +141,8 @@ Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilges
 
 * [TU Braunschweig](https://chat.tu-bs.de/)
 
+* [Hochschule Furtwangen](https://matrix.hs-furtwangen.de/) inkl. [Doku](https://howto.hs-furtwangen.de/hfu-chat/)
+
 
 Explizit für Studierende:
 
@@ -155,6 +157,8 @@ Weitere europäische Hochschulen:
 * [Universität Innsbruck](https://chat.uibk.ac.at/) inkl. [Doku](https://www.uibk.ac.at/zid/anleitungen/chat/)
 
 * [University for Business and Technology, Kosovo](https://ubt-uni.net/)
+
+* [Karl-Franzens-Universität Graz](https://chat.uni-graz.at/)
 
 Kartendarstellung der Hochschulen und Universitäten mit einem Matrix-Dienst: 
 
