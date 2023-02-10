@@ -128,11 +128,19 @@ However, the federation with the Matrix servers of other scientific or civil soc
 
 * [Uni Heidelberg](https://matrix-im.uni-heidelberg.de/) incl. [Docu](https://www.urz.uni-heidelberg.de/en/heichat)
 
-* [Karlsruher Institut für Technologie (KIT)](https://dsn.tm.kit.edu)
+* [Karlsruher Institut für Technologie (KIT)](https://matrix.kit.edu/)
 
 * [Uni Augsburg](https://element.physik.uni-augsburg.de/#/welcome) incl. [Docu](https://www.uni-augsburg.de/de/fakultaet/mntf/physik/facilities/itservices/elequick/)
 
 * [Uni Stuttgart](https://chat.stuvus.de/) incl. [Docu](https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger)
+
+* [Hochschule Bremerhaven](https://matrix.hs-bremerhaven.de/)
+
+* [TU Darmstadt](https://element.matrix.tu-darmstadt.de)
+
+* [Philipps-Universität Marburg](https://matrix.uni-marburg.de/)
+
+* [TU Braunschweig](https://chat.tu-bs.de/)
 
 
 Explizit für Studierende:

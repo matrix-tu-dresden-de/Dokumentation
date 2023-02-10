@@ -127,11 +127,19 @@ Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilges
 
 * [Uni Heidelberg](https://matrix-im.uni-heidelberg.de/) inkl. [Doku](https://www.urz.uni-heidelberg.de/en/heichat)
 
-* [Karlsruher Institut für Technologie (KIT)](https://dsn.tm.kit.edu)
+* [Karlsruher Institut für Technologie (KIT)](https://matrix.kit.edu/)
 
 * [Uni Augsburg](https://element.physik.uni-augsburg.de/#/welcome) inkl. [Doku](https://www.uni-augsburg.de/de/fakultaet/mntf/physik/facilities/itservices/elequick/)
 
 * [Uni Stuttgart](https://chat.stuvus.de/) inkl. [Doku](https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger)
+
+* [Hochschule Bremerhaven](https://matrix.hs-bremerhaven.de/)
+
+* [TU Darmstadt](https://element.matrix.tu-darmstadt.de)
+
+* [Philipps-Universität Marburg](https://matrix.uni-marburg.de/)
+
+* [TU Braunschweig](https://chat.tu-bs.de/)
 
 
 Explizit für Studierende:
