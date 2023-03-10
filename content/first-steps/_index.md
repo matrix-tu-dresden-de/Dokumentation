@@ -97,7 +97,7 @@ Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilges
 
 * [Hochschule Zittau-Görlitz](https://matrix.hszg.de) inkl. [Doku](https://zfe.hszg.de/das-zfe/aktuelle-entwicklungen/matrix)
 
-* [HMT Leipzig](https://matrix.hmt-leipzig.de)
+* [HMT Leipzig](https://chat.hmt-leipzig.de)
 
 * [Uni Kiel](https://riot.fs-infmath.uni-kiel.de) inkl. [Doku](https://www.fs-infmath.uni-kiel.de/wiki/Technische_Dienste)
 
@@ -142,6 +142,10 @@ Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilges
 * [TU Braunschweig](https://chat.tu-bs.de/)
 
 * [Hochschule Furtwangen](https://matrix.hs-furtwangen.de/) inkl. [Doku](https://howto.hs-furtwangen.de/hfu-chat/)
+
+* [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://chat.fau.de/) inkl. [Doku](https://www.rrze.fau.de/serverdienste/matrix/)
+
+* [Friedrich-Schiller-Universität Jena](https://chat.uni-jena.de/) inkl. [Doku](https://wiki.uni-jena.de/display/URZ010SD/Chatten+mit+Matrix)
 
 
 Explizit für Studierende:

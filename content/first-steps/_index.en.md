@@ -98,7 +98,7 @@ However, the federation with the Matrix servers of other scientific or civil soc
 
 * [Hochschule Zittau-Görlitz](https://matrix.hszg.de) incl. [Docu](https://zfe.hszg.de/das-zfe/aktuelle-entwicklungen/matrix)
 
-* [HMT Leipzig](https://matrix.hmt-leipzig.de)
+* [HMT Leipzig](https://chat.hmt-leipzig.de)
 
 * [Uni Kiel](https://riot.fs-infmath.uni-kiel.de) incl. [Docu](https://www.fs-infmath.uni-kiel.de/wiki/Technische_Dienste)
 
@@ -143,6 +143,10 @@ However, the federation with the Matrix servers of other scientific or civil soc
 * [TU Braunschweig](https://chat.tu-bs.de/)
 
 * [Hochschule Furtwangen](https://matrix.hs-furtwangen.de/) incl. [Docu](https://howto.hs-furtwangen.de/hfu-chat/)
+
+* [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://chat.fau.de/) incl. [Docu](https://www.rrze.fau.de/serverdienste/matrix/)
+
+* [Friedrich-Schiller-Universität Jena](https://chat.uni-jena.de/) incl. [Docu](https://wiki.uni-jena.de/display/URZ010SD/Chatten+mit+Matrix)
 
 
 Explicitly for students:
