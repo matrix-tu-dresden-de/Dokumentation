@@ -99,8 +99,6 @@ Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilges
 
 * [HMT Leipzig](https://chat.hmt-leipzig.de)
 
-* [Uni Kiel](https://riot.fs-infmath.uni-kiel.de) inkl. [Doku](https://www.fs-infmath.uni-kiel.de/wiki/Technische_Dienste)
-
 * [Uni Hamburg](http://uni-hamburg.de/)
 
 * [Uni Bremen](https://element.stugen.de/#/welcome)
@@ -113,7 +111,7 @@ Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilges
 
 * [Uni Hannover](https://matrix.uni-hannover.de) inkl. [Doku](https://www.luis.uni-hannover.de/de/services/kommunikation/matrix-messenger/)
 
-* [Uni Osnabrück](https://chat.virtuos.uni-osnabrueck.de/#/welcome) inkl. [Doku](https://www.rz.uni-osnabrueck.de/homeoffice/riot.html)
+* [Uni Osnabrück](https://element.uni-osnabrueck.de) inkl. [Doku](https://digitale-lehre.virtuos.uni-osnabrueck.de/eintrag/instant-messenger-element/)
 
 * [Uni Bielefeld](https://uni-bielefeld.de/teamchat2)
 
