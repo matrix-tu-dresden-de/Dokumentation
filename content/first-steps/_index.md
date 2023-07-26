@@ -99,8 +99,6 @@ Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilges
 
 * [HMT Leipzig](https://chat.hmt-leipzig.de)
 
-* [Uni Kiel](https://riot.fs-infmath.uni-kiel.de) inkl. [Doku](https://www.fs-infmath.uni-kiel.de/wiki/Technische_Dienste)
-
 * [Uni Hamburg](http://uni-hamburg.de/)
 
 * [Uni Bremen](https://element.stugen.de/#/welcome)

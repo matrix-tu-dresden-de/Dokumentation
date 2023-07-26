@@ -100,8 +100,6 @@ However, the federation with the Matrix servers of other scientific or civil soc
 
 * [HMT Leipzig](https://chat.hmt-leipzig.de)
 
-* [Uni Kiel](https://riot.fs-infmath.uni-kiel.de) incl. [Docu](https://www.fs-infmath.uni-kiel.de/wiki/Technische_Dienste)
-
 * [Uni Hamburg](http://uni-hamburg.de/)
 
 * [Uni Bremen](https://element.stugen.de/#/welcome)
