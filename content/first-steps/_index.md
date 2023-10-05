@@ -143,7 +143,7 @@ Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilges
 
 * [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://chat.fau.de/) inkl. [Doku](https://www.rrze.fau.de/serverdienste/matrix/)
 
-* [Friedrich-Schiller-Universität Jena](https://chat.uni-jena.de/) inkl. [Doku](https://wiki.uni-jena.de/display/URZ010SD/Chatten+mit+Matrix)
+* [Friedrich-Schiller-Universität Jena](https://chat.uni-jena.de/) inkl. [Doku](https://wiki.uni-jena.de/pages/viewpage.action?pageId=84543423)
 
 
 Explizit für Studierende:

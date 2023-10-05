@@ -144,7 +144,7 @@ However, the federation with the Matrix servers of other scientific or civil soc
 
 * [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://chat.fau.de/) incl. [Docu](https://www.rrze.fau.de/serverdienste/matrix/)
 
-* [Friedrich-Schiller-Universität Jena](https://chat.uni-jena.de/) incl. [Docu](https://wiki.uni-jena.de/display/URZ010SD/Chatten+mit+Matrix)
+* [Friedrich-Schiller-Universität Jena](https://chat.uni-jena.de/) incl. [Docu](https://wiki.uni-jena.de/pages/viewpage.action?pageId=84543423)
 
 
 Explicitly for students:
