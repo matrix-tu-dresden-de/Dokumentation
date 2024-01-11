@@ -9,5 +9,4 @@ chapter: true
 
 Für experimentierfreudige Nutzende gibt es neben Element noch zahlreiche weitere Clients, mit denen das Kommunikationsprotokoll Matrix genutzt werden kann:
 
-- https://matrix.org/docs/projects/clients-matrix
-- https://matrix.org/docs/projects/try-matrix-now
+- https://matrix.org/ecosystem/clients/

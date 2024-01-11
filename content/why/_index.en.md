@@ -24,9 +24,9 @@ There are many services and programs for instant electronic communication. Matri
 - Active further development
 - Up-and-coming use by other scientific institutions (e.g. lots of German universities)
 
-Further informationen: https://matrix.org/faq/#intro
+Further informationen: https://matrix.org/docs/chat_basics/
 
-Detailed explanation of technical terms: https://matrix.org/faq/#definitions
+Detailed explanation of technical terms: https://matrix.org/docs/older/faq/#definitions
 
 Institutions of higher education (e.g. universities) with a Matrix service: 
 
