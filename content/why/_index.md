@@ -24,9 +24,9 @@ Es gibt sehr viele Dienste und Programme zum instantanen elektronischen Kommuniz
 - Aktive Weiterentwicklung
 - Aufstrebende Nutzung durch weitere Wissenschaftseinrichtungen (bspw. viele deutsche Hochschulen)
 
-Ausführliche Informationen: https://matrix.org/faq/#intro
+Ausführliche Informationen: https://matrix.org/docs/chat_basics/
 
-Ausführliches Fachbegriffs-Glossar: https://matrix.org/faq/#definitions
+Ausführliches Fachbegriffs-Glossar: https://matrix.org/docs/older/faq/#definitions
 
 Hochschulen und Universitäten mit einem Matrix-Dienst: 
 
