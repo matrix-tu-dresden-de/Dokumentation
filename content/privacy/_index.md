@@ -1,6 +1,6 @@
 ---
 title: "Datenschutz"
-date: 2020-07-03T13:25:27+02:00
+date: 2024-01-26T14:25:00+02:00
 draft: false
 chapter: true
 weight: 900
@@ -25,7 +25,7 @@ Zentrum für Informationsdienste und Hochleistungsrechnen (ZIH) <br>
 
 Tel.: +49 351 463-40000 <br>
 Fax: +49 351 463-42328 <br>
-E-Mail: servicedesk@tu-dresden.de <br>
+E-Mail: <servicedesk@tu-dresden.de> <br>
 
 sowie <br>
 
@@ -40,34 +40,38 @@ E-Mail: [informationssicherheit@tu-dresden.de](mailto:informationssicherheit@tu-
 
 **Welche personenbezogenen Daten werden verarbeitet?**
 
-Die Verarbeitung umfasst folgende personenbezogene Daten:
+Die Verarbeitung umfasst folgende 3 Kategorien von personenbezogene Daten:
 
-1. Zugangsverwaltung: Vor- & Nachname(n), Mailadresse, Matrix-ID (Localpart der
-    Mail-Adresse), Anzeigename
+1. Accountinformationen:
+    * Vor- & Nachname(n)
+    * Mailadresse
+    * Matrix-ID (Localpart der Mail-Adresse)
+    * Anzeigename
+    * Profilbild
 
-2. Authentifizierung: Nutzername und Passwort
+2. Nutzungs- und Inhaltsdaten
+    * Matrix-ID
+    * Räume: Mitgliedschaften in privaten Chats, Gruppenräumen oder Spaces
+    * Inhaltsdaten: Daten wie Chatinhalte, Videoanrufe und Anrufe. Die Inhalte sind in der Regel verschlüsselt, so dass niemand ohne Berechtigung - nicht einmal der IT-Administrator - auf die Daten zugreifen kann. Wenn die Verschlüsselung für einen Raum ausgeschaltet ist, wird dies den Nutzer:innen angezeigt.
+    * Hochgeladene Dateien: Wird in einem Chatraum eine Datei, wie z.B. ein Bild einfügt, wird dieses vom Matrix-Server verarbeitet. Dies geschieht ebenfalls verschlüsselt.
+    Geräteidentifikation: u.a. verwendete Art des Endgerätes (Mobil / Desktop), Betriebssystem
 
-3. Benutzerinhalte: alle Daten, welche der Nutzer in das System eingibt (Ende-zu-Ende-verschlüsselt möglich)
-
-4. Geräteidentifikation: IP-Adressen mit Zeitstempel und Gerätename; verwendete Art des Endgerätes (Mobil / Desktop), Betriebssystem
-
-5. Serverprotokoll: IP-Adressen mit Zeitstempel
-
-6. Audio-/Video-Telefonie: IP-Adressen, AV-Daten
-
-7. Benachrichtigungen (Mail)
+3. Logdaten:
+    * IP: Zuletzt gesehene IP- Adresse des Clients + Zeitstempel.
+    * Logs zu Ereignissen auf Matrix (z.B. Zeitpunkt von Ereignissen wie dem Betreten oder Verlassen eines Raums oder dem Versand einer Nachricht)
+    * Metadaten: Metadaten sind „Daten zu Daten“, die jedes System benötigt um Daten bestimmten Personen oder Ressourcen zuzuordnen.
 
 Die Profildaten (Anzeigename, E-Mail, Foto) sowie die Matrix-ID sind durch die Teilnahme am globalen Matrix-Netzwerk über die Kontaktsuche für Externe sichtbar.
 
 **Auf welcher Rechtsgrundlage erfolgt die Verarbeitung personenbezogener Daten?**
 
-Die Rechtsgrundlage für die Datenverarbeitung zu den oben genannten Zwecken ist Art. 6 Abs. 1 UAbs. 1 lit. a DSGVO (Einwilligung). 
+Die Rechtsgrundlage für die Datenverarbeitung zu den oben genannten Zwecken ist Art. 6 Abs. 1 UAbs. 1 lit. a DSGVO (Einwilligung).
 
 **Wie lange werden die personenbezogenen Daten gespeichert?**
 
 Die personenbezogenen Daten zur Nutzung des Dienstes werden gemäß § 15 Abs. 4 IT-Ordnung der TU Dresden spätestens 15 Monate nach dem Ausscheiden der betroffenen Person bzw. bei Widerruf gelöscht.
 
-Die Benutzerinhalte nach 3. können von den Nutzenden jederzeit selbst gelöscht werden, eine automatisierte Löschung ist seitens des ZIH nicht möglich. 
+Die Benutzerinhalte nach 3. können von den Nutzenden jederzeit selbst gelöscht werden, eine automatisierte Löschung ist seitens des ZIH nicht möglich.
 
 **Welche Rechte stehen den betroffenen Personen grundsätzlich zu?**
 
