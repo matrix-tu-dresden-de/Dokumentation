@@ -1,6 +1,6 @@
 ---
 title: "Privacy"
-date: 2020-07-03T13:25:27+02:00
+date: 2024-01-26T14:25:00+02:00
 draft: false
 chapter: true
 weight: 900
@@ -24,7 +24,7 @@ Center for Information Services and High Performance Computing (ZIH) <br>
 
 Tel.: +49 351 463-40000 <br>
 Fax: +49 351 463-42328 <br>
-Email: servicedesk@tu-dresden.de <br>
+Email: <servicedesk@tu-dresden.de> <br>
 
 and <br>
 
@@ -41,26 +41,30 @@ E-Mail: [informationssicherheit@tu-dresden.de](mailto:informationssicherheit@tu-
 
 The processing includes the following personal data:
 
-1. access management: first & last name(s), mail address, Matrix-ID (localpart of
-    mail address), display name
+1. general accountinformation:
+    * first & last name(s)
+    * mail address,
+    * Matrix-ID (localpart of mail address)
+    * display name
+    * profile picture
 
-2. authentication: username and password
+2. usage- and content data
+    * Matrix-ID
+    * rooms: memberships in private chats, group rooms or spaces
+    * content data: message, audio/video-data. Usually encrypted in a way that nobody without permission can access them. Unencrypted rooms are highlighted to the user
+    * uploaded files: uploaded files e.g. images are processed by the matrix-server without affecting the encryption
+    * device information: e.g. used operation system, type of device (mobile / Desktop)
 
-3. user content: all data that the user enters into the system (end-to-end encryption possible)
-
-4. device identification: IP addresses with time stamp and device name; type of device used (mobile / desktop), operating system
-
-5. server log: IP addresses with timestamp
-
-6. audio/video telephony: IP addresses, AV data
-
-7. notifications (mail)
+3. log information:
+     * IP: last seen IP used by the client + timestamp
+     * Logs of matrix-events (e.g. timestamp of events such as user enters a room, user leaves a room or sends a message)
+     * metadata: metadata is information about information, which every systems needs to correctly process and categorize
 
 The profile data (display name, email, photo) as well as the Matrix ID are visible to external parties through participation in the global Matrix network via the contact search.
 
 **On what legal basis is the processing of personal data carried out?**
 
-The legal basis for data processing for the above purposes is Art. 6 Abs. 1 UAbs. 1 lit. a GDPR (consent). 
+The legal basis for data processing for the above purposes is Art. 6 Abs. 1 UAbs. 1 lit. a GDPR (consent).
 
 **How long will the personal data be stored?**
 
