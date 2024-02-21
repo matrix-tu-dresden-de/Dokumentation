@@ -149,6 +149,8 @@ Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilges
 
 * [Hochschule Stralsund](https://matrix.hochschule-stralsund.de) inkl. [Doku](https://matrix.hochschule-stralsund.de/doc/)
 
+* [Technische Hochschule Mittelhessen](https://element.thm.de) inkl. [Doku](https://go.thm.de/thmconnect)
+
 
 Explizit für Studierende:
 

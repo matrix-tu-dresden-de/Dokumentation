@@ -150,6 +150,8 @@ However, the federation with the Matrix servers of other scientific or civil soc
 
 * [Hochschule Stralsund](https://matrix.hochschule-stralsund.de) incl. [Docu](https://matrix.hochschule-stralsund.de/doc/)
 
+* [Technische Hochschule Mittelhessen](https://element.thm.de) incl. [Docu](https://go.thm.de/thmconnect)
+
 
 Explicitly for students:
 
