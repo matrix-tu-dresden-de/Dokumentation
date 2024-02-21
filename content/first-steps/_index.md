@@ -170,6 +170,8 @@ Weitere europäische Hochschulen:
 
 * [University of Oxford](https://chat.cs.ox.ac.uk) inkl. [Doku](https://users.ox.ac.uk/~ball5903/oums/)
 
+* [École polytechnique fédérale de Lausanne](https://element.epfl.ch/)
+
 Kartendarstellung der Hochschulen und Universitäten mit einem Matrix-Dienst: 
 
 <object data="/images/federation_map.svg" type="image/svg+xml" style="width: 600px; max-width: 100%"></object>
