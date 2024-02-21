@@ -145,6 +145,8 @@ Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilges
 
 * [Friedrich-Schiller-Universität Jena](https://chat.uni-jena.de/) inkl. [Doku](https://wiki.uni-jena.de/display/URZ010SD/Chatten+mit+Matrix)
 
+* [Albert-Ludwigs-Universität Freiburg](https://matrix.uni-freiburg.de/)
+
 
 Explizit für Studierende:
 

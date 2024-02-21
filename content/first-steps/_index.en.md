@@ -146,6 +146,8 @@ However, the federation with the Matrix servers of other scientific or civil soc
 
 * [Friedrich-Schiller-Universität Jena](https://chat.uni-jena.de/) incl. [Docu](https://wiki.uni-jena.de/display/URZ010SD/Chatten+mit+Matrix)
 
+* [Albert-Ludwigs-Universität Freiburg](https://matrix.uni-freiburg.de/)
+
 
 Explicitly for students:
 
