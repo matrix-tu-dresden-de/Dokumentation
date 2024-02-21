@@ -115,7 +115,7 @@ Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilges
 
 * [Uni Bielefeld](https://uni-bielefeld.de/teamchat2)
 
-* [Bauhaus-Universität Weimar](https://matrix.bau-ha.us) inkl. [Doku](https://m18.uni-weimar.de/stuko/referate/digitale-infrastruktur)
+* [Bauhaus-Universität Weimar](https://chat.uni-weimar.de/) inkl. [Doku](https://chat.uni-weimar.de/docs/matrix/)
 
 * [RWTH Aachen](https://riot.comsys.rwth-aachen.de/)
 
