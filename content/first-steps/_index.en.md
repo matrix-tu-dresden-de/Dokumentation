@@ -169,6 +169,8 @@ Other European universities:
 
 * [Karl-Franzens-Universität Graz](https://chat.uni-graz.at/)
 
+* [University of Oxford](https://chat.cs.ox.ac.uk) incl. [Docu](https://users.ox.ac.uk/~ball5903/oums/)
+
 <object data="/images/federation_map.svg" type="image/svg+xml" style="width: 600px; max-width: 100%"></object>
 
 
