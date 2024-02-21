@@ -147,6 +147,8 @@ Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilges
 
 * [Albert-Ludwigs-Universität Freiburg](https://matrix.uni-freiburg.de/)
 
+* [Hochschule Stralsund](https://matrix.hochschule-stralsund.de) inkl. [Doku](https://matrix.hochschule-stralsund.de/doc/)
+
 
 Explizit für Studierende:
 

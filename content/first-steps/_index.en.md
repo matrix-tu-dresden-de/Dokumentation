@@ -148,6 +148,8 @@ However, the federation with the Matrix servers of other scientific or civil soc
 
 * [Albert-Ludwigs-Universität Freiburg](https://matrix.uni-freiburg.de/)
 
+* [Hochschule Stralsund](https://matrix.hochschule-stralsund.de) incl. [Docu](https://matrix.hochschule-stralsund.de/doc/)
+
 
 Explicitly for students:
 
