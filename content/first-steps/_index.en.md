@@ -116,7 +116,7 @@ However, the federation with the Matrix servers of other scientific or civil soc
 
 * [Uni Bielefeld](https://uni-bielefeld.de/teamchat2)
 
-* [Bauhaus-Universität Weimar](https://matrix.bau-ha.us) incl. [Docu](https://m18.uni-weimar.de/stuko/referate/digitale-infrastruktur)
+* [Bauhaus-Universität Weimar](https://chat.uni-weimar.de/) inkl. [Doku](https://chat.uni-weimar.de/docs/matrix/)
 
 * [RWTH Aachen](https://riot.comsys.rwth-aachen.de/)
 
@@ -146,6 +146,12 @@ However, the federation with the Matrix servers of other scientific or civil soc
 
 * [Friedrich-Schiller-Universität Jena](https://chat.uni-jena.de/) incl. [Docu](https://wiki.uni-jena.de/display/URZ010SD/Chatten+mit+Matrix)
 
+* [Albert-Ludwigs-Universität Freiburg](https://matrix.uni-freiburg.de/)
+
+* [Hochschule Stralsund](https://matrix.hochschule-stralsund.de) incl. [Docu](https://matrix.hochschule-stralsund.de/doc/)
+
+* [Technische Hochschule Mittelhessen](https://element.thm.de) incl. [Docu](https://go.thm.de/thmconnect)
+
 
 Explicitly for students:
 
@@ -162,6 +168,10 @@ Other European universities:
 * [University for Business and Technology, Kosovo](https://ubt-uni.net/)
 
 * [Karl-Franzens-Universität Graz](https://chat.uni-graz.at/)
+
+* [University of Oxford](https://chat.cs.ox.ac.uk) incl. [Docu](https://users.ox.ac.uk/~ball5903/oums/)
+
+* [École polytechnique fédérale de Lausanne](https://element.epfl.ch/)
 
 <object data="/images/federation_map.svg" type="image/svg+xml" style="width: 600px; max-width: 100%"></object>
 

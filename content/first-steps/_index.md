@@ -115,7 +115,7 @@ Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilges
 
 * [Uni Bielefeld](https://uni-bielefeld.de/teamchat2)
 
-* [Bauhaus-Universität Weimar](https://matrix.bau-ha.us) inkl. [Doku](https://m18.uni-weimar.de/stuko/referate/digitale-infrastruktur)
+* [Bauhaus-Universität Weimar](https://chat.uni-weimar.de/) inkl. [Doku](https://chat.uni-weimar.de/docs/matrix/)
 
 * [RWTH Aachen](https://riot.comsys.rwth-aachen.de/)
 
@@ -145,6 +145,12 @@ Die Förderation mit den Matrix-Servern anderer wissenschaftlicher oder zivilges
 
 * [Friedrich-Schiller-Universität Jena](https://chat.uni-jena.de/) inkl. [Doku](https://wiki.uni-jena.de/display/URZ010SD/Chatten+mit+Matrix)
 
+* [Albert-Ludwigs-Universität Freiburg](https://matrix.uni-freiburg.de/)
+
+* [Hochschule Stralsund](https://matrix.hochschule-stralsund.de) inkl. [Doku](https://matrix.hochschule-stralsund.de/doc/)
+
+* [Technische Hochschule Mittelhessen](https://element.thm.de) inkl. [Doku](https://go.thm.de/thmconnect)
+
 
 Explizit für Studierende:
 
@@ -161,6 +167,10 @@ Weitere europäische Hochschulen:
 * [University for Business and Technology, Kosovo](https://ubt-uni.net/)
 
 * [Karl-Franzens-Universität Graz](https://chat.uni-graz.at/)
+
+* [University of Oxford](https://chat.cs.ox.ac.uk) inkl. [Doku](https://users.ox.ac.uk/~ball5903/oums/)
+
+* [École polytechnique fédérale de Lausanne](https://element.epfl.ch/)
 
 Kartendarstellung der Hochschulen und Universitäten mit einem Matrix-Dienst: 
 
