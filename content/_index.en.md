@@ -43,6 +43,7 @@ In order to meet the demand for real-time communication, the open communication 
 * [Blog/News]({{< relref "blog/_index.en.md" >}})
 * [Privacy policy]({{< relref "privacy/_index.en.md" >}})
 * [Imprint]({{< relref "imprint/_index.en.md" >}})
+* [Terms of use]({{< relref "imprint/_index.en.md" >}})
 * [Declaration of Accessibility]({{< relref "accessibility/_index.en.md" >}})
 
 ### Questions and Contact

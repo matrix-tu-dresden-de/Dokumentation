@@ -56,6 +56,7 @@ setInterval(() => {
 * [Blog/News]({{< relref "blog/_index.md" >}})
 * [Datenschutzerklärung]({{< relref "privacy/_index.md" >}})
 * [Impressum]({{< relref "imprint/_index.md" >}})
+* [Nutzungsbedingungen]({{< relref "termsofuse/_index.md" >}})
 * [Barrierefreiheitserklärung]({{< relref "accessibility/_index.md" >}})
 
 ### Fragen / Kontakt
