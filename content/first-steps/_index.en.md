@@ -157,7 +157,7 @@ Explicitly for students:
 
 * [StudiChat](https://chat.studichat.de/#/welcome) (for all)
 
-* [Fachschaften](https://matrix.fachschaften.org/) (for student representatives)
+* [Fachschaften.org](https://matrix.fachschaften.org/) (for students of german speaking universities)
 
 Other European universities:
 

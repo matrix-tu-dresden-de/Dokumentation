@@ -156,7 +156,7 @@ Explizit für Studierende:
 
 * [StudiChat](https://chat.studichat.de/#/welcome) (für alle)
 
-* [Fachschaften](https://matrix.fachschaften.org/) (für Fachschaften)
+* [Fachschaften.org](https://matrix.fachschaften.org/) (für alle Hochschulangehörige im DACH-Raum)
 
 Weitere europäische Hochschulen:
 
