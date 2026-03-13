@@ -12,13 +12,12 @@ Integrationen erweitern den Funktionsumfang von Matrix.
 
 * [Verwaltung](#management)
 * [Widgets](#widgets)
-	* [Jitsi (Videokonferenz)](#jitsi)
-	* [Etherpad (Texteditor)](#etherpad)
-	* [Custom Widget](#custom-widget)
+  * [Jitsi (Videokonferenz)](#jitsi)
+  * [Etherpad (Texteditor)](#etherpad)
+  * [Custom Widget](#custom-widget)
 * [Bots](#bots)
 * [Bridges](#bridges)
-	* [Microsoft Teams](#microsoft-teams)
-
+  * [Microsoft Teams](#microsoft-teams)
 
 ## Verwaltung {#management}
 
@@ -30,10 +29,10 @@ Hier kann bspw. ein Etherpad, eine Jitsi-Videokonferenz, ein RSS-Bot o.a. eingeb
 
 ## Widgets
 
-Widgets betten Apps in Räume ein, sodass dessen Mitglieder gemeinsam darauf zugreifen können.  
+Widgets betten Apps in Räume ein, sodass dessen Mitglieder gemeinsam darauf zugreifen können.
 
 {{% notice warning %}}
-Die TU Dresden stellt mit Matrix lediglich eine Plattform zur Verfügung. Bei der Einbindung von Widgets werden ggf. personenbezogenen Daten an Dritte übermittelt. Die Verantwortlichkeit dafür liegt bei den Nutzer:innen, zwischen denen und den Drittparteien die Übermittlung dieser Daten direkt erfolgt.
+Die TU Dresden stellt mit Matrix lediglich eine Plattform zur Verfügung. Bei der Einbindung von Widgets werden gegebenenfalls personenbezogenen Daten an Dritte übermittelt. Die Verantwortlichkeit dafür liegt bei den Nutzer:innen, zwischen denen und den Drittparteien die Übermittlung dieser Daten direkt erfolgt.
 {{% /notice %}}
 
 Prof. Dr. Alexander Lasch präsentiert in folgenden Videos einige Möglichkeiten zum Einbinden von Widgets in Matrix-Räume für die digitale Lehre:
@@ -56,11 +55,11 @@ Wenn das Videotelefonat über das Kameraicon rechts unten begonnen wird, wird au
 Wenn die Jitsi-Integration über den Integrationmanager hinzugefügt wird, wird nicht die Jitsiinstanz der TU Dresden verwendet
 {{% /notice %}} -->
 
-Auch bei Jitsi ist das öffnen des Widgets als eigener Tab sinnvoll, um die volle Funktionalität (bspw. Bildschirm teilen / Screensharing) zu nutzen. 
+Auch bei Jitsi ist das öffnen des Widgets als eigener Tab sinnvoll, um die volle Funktionalität (bspw. Bildschirm teilen / Screensharing) zu nutzen.
 
 Die Nutzung eines Headsets (Kopfhörer + Mikrofon) ist sehr zu empfehlen, um Rückkopplungen zwischen Tonaufnahme und Tonwiedergabe zu verhindern. Idealerweise ein Headset mit Mikro in Kopfnähe und nicht nur ein Kopfhörer und eine Nutzung des Mikro-Löchleins am Laptop, was zu Geräuschen durch diesen führt.
 
-Die Taste m schaltet das eigene Mikrofon stumm - mit dieser Einstellung sollte mensch immer in eine Konferenz starten. Die Leertaste schaltet bei aktiver Stummschaltung das Mikrofon an (Push-to-talk). Da die Mikrofon-Eingangspegel alle unterschiedlich einstellen, können alle hörenden Teilnehmenden die Lautstärke aller Konferenzteilnehmenden individuell anpassen. Weiterhin ist die eigene Videoqualität einstellbar. 
+Die Taste m schaltet das eigene Mikrofon stumm - mit dieser Einstellung sollte mensch immer in eine Konferenz starten. Die Leertaste schaltet bei aktiver Stummschaltung das Mikrofon an (Push-to-talk). Da die Mikrofon-Eingangspegel alle unterschiedlich einstellen, können alle hörenden Teilnehmenden die Lautstärke aller Konferenzteilnehmenden individuell anpassen. Weiterhin ist die eigene Videoqualität einstellbar.
 
 Für das Teilen des Bildschirminhaltes (bzw. spezifischer Programmfenster) ist ggf. eine Anpassung der Sicherheitseinstellungen des Betriebssystems nötig (bspw. in MacOS unter Systemeinstellungen > Sicherheit > Datenschutz > Bildschirmaufnahme).
 
@@ -91,5 +90,6 @@ Bridges stellen eine Verbindung mit einem anderen Dienst her, sodass aus Matrix 
 
 ### Microsoft Teams
 
-Um Nutzer:innen von Element und MS Teams zusammenzubringen, bietet Element Matrix Services (EMS) eine MS Teams Bridge an, die allerdings kostenpflichtig ist:
-[https://element.io/blog/ems-launches-bridging-for-microsoft-teams/](https://element.io/blog/ems-launches-bridging-for-microsoft-teams/) und [https://element.io/blog/microsoft-teams-and-slack-integration-using-matrix/](https://element.io/blog/ems-launches-bridging-for-microsoft-teams/).
+Um Nutzer:innen von Element und MS Teams zusammenzubringen, bietet Element Matrix Services (EMS) eine MS Teams Bridge an, die allerdings kostenpflichtig ist. Siehe:
+* [element.io/blog/ems-launches-bridging-for-microsoft-teams/](https://element.io/blog/ems-launches-bridging-for-microsoft-teams/)
+* [element.io/blog/microsoft-teams-and-slack-integration-using-matrix/](https://element.io/blog/ems-launches-bridging-for-microsoft-teams/)

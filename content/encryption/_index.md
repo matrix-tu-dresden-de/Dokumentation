@@ -8,9 +8,9 @@ weight: 60
 
 # Ende-zu-Ende-Verschlüsselung nutzen
 
-1:1 Gespräche sind seit Kurzem standardmäßig Ende-zu-Ende-verschlüsselt. Daher wird eine eingerichtete Schlüsselsicherung sowie eine Verifikation aller selbst eingesetzten Client-Geräte empfohlen ([Wichtige Einstellungen]({{< ref "settings" >}}))
+1:1 Gespräche sind standardmäßig Ende-zu-Ende-verschlüsselt. Daher wird eine eingerichtete Schlüsselsicherung sowie eine Verifikation aller selbst eingesetzten Client-Geräte empfohlen (siehe [Wichtige Einstellungen]({{< ref "settings" >}})).
 
-Die Entscheidung, ob ein erzeugter Raum derartig verschlüsselt werden soll muss gut überlegt sein und kann nicht mehr rückgängig gemacht werden. Wenn es sich um größere oder öffentliche Räume handelt, könnte das Prüfen aller Schlüssel aller Gesprächspartner viel Zeit in Anspruch nehmen. Diese manuelle Prüfung kann man aber auch später bei Gelegenheit durchführen und auch direkt Ende-zu-Ende-verschlüsselte Gespräche mit vorerst blindem Vertrauen starten.
+Die Entscheidung, ob ein erzeugter Raum verschlüsselt werden soll, muss gut überlegt sein und kann nicht mehr rückgängig gemacht werden. Wenn es sich um größere oder öffentliche Räume handelt, könnte das Prüfen aller Schlüssel aller Gesprächspartner viel Zeit in Anspruch nehmen. Diese manuelle Prüfung kann man aber auch später bei Gelegenheit durchführen und auch direkt Ende-zu-Ende-verschlüsselte Gespräche mit vorerst blindem Vertrauen starten.
 
 ![Neuen Raum mit aktivierter Verschlüsselung erstellen](/images/01_Create-Room-wE2E_de.png)
 
@@ -32,13 +32,13 @@ In der sich öffnenden Leiste der am Gespräch Beteiligten kann nun auf die Kont
 
 ![Raum mit Hinweis, dass nicht alle eilnehmenden verifiziert sind.](/images/05_People-Unverified_de.png)
 
-Die Leiste zeigt jetzt die Gesprächsperson im Detail an. Hier ist eine Schlüsselverifikation durch Klick auf „Verifizieren“ einleitbar. Durch einen Klick auf "Start Verifikation" wird die Gegenseiten benachrichtigt und nach Bestätigung (siehe nächstes Bild) kann die "Verifizierung durch Emojis" beginnen.
+Die Leiste zeigt jetzt die Gesprächsperson im Detail an. Hier ist eine Schlüsselverifikation durch Klick auf „Verifizieren“ einleitbar. Durch einen Klick auf "Starte Verifikation" wird die Gegenseiten benachrichtigt und nach Bestätigung (siehe nächstes Bild) kann die "Verifizierung durch Emojis" beginnen.
 
 ![Menü zu der zu verifizierenden Person mit dem Verifizieren-Knopf ausgewählt](/images/06_E2EE_Verify_de.png)
 
 ![Menü zum starten der Verifikation](/images/07_E2EE_Accept_de.png)
 
-Diese Verifizierung sollte mit der Kontaktperson durch Abgleich (z.B. mündlichen via Telefon, im selben Zimmer o.a. Medium) geschehen. Da dies nicht immer leicht ist, kann auch ersteinmal das Vertrauen ausgesprochen werden (sonst wird man immer wieder gefragt, die Verifizierung durchzuführen) und bei Gelegenheit (bspw. beim nächsten Meeting) durchzuführen.
+Diese Verifizierung sollte mit der Kontaktperson durch Abgleich (z.B. mündlichen via Telefon, im selben Zimmer oder anderes Medium) geschehen. Da dies nicht immer leicht ist, kann auch ersteinmal das Vertrauen ausgesprochen werden (sonst wird man immer wieder gefragt, die Verifizierung durchzuführen) und bei Gelegenheit (bspw. beim nächsten Meeting) durchzuführen.
 
 Eine ausführliche Darstellung des Themas findet sich in diesem [Video von Prof. Plikat](https://invidious.ggc-project.de/VOxfa6dqXSk) sowie [im diesem Matrix-Blogartikel](https://blog.riot.im/e2e-encryption-by-default-cross-signing-is-here).
 
@@ -46,7 +46,7 @@ Der Abgleich selbst geschieht über Emoji-Bildchen oder QR-Codes, die je nach Ge
 
 ![Emojivergleich zum verifizieren des Schlüsselaustauschs](/images/16_E2EE.png)
 
-Analog geschieht dies in Räumen mit mehreren Teilnehmenden, jeweils einzeln. 
+Analog geschieht dies in Räumen mit mehreren Teilnehmenden, jeweils einzeln.
 
 ![Verifikationsprozess war erfolgreich](/images/08_Verified_de.png)
 
@@ -58,7 +58,7 @@ Mindestens eine Person im Raum wurde noch nicht verifiziert.
 
 ![Symbol für eine verifizierte Person, die unverifizierte Sitzungen geöffnet hat](/images/unverified.png)
 
-Im Raum ist mindestens eine Person, die bereits verifiziert wurde, aber die ihrerseits weitere unverifizierte Sitzungen geöffnet hat. 
+Im Raum ist mindestens eine Person, die bereits verifiziert wurde, aber die ihrerseits weitere unverifizierte Sitzungen geöffnet hat.
 
 ![Symbol für alle Personen im Raum sind verifiziert](/images/green.png)
 

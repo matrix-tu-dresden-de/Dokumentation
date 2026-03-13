@@ -30,18 +30,18 @@ Mittels Text, der in der Auszeichnungssprache [**MarkDown**](https://de.wikipedi
 
 Die aktuelle [MarkDown-Spezifikation ist hier](https://spec.commonmark.org/current/) zu finden.
 
-Das Eingeben von LaTeX-Formeln wird als Labor-Funktion unterstützt, und kann vom Gegenüber *gerendert* betrachtet werden, wenn dort auch unter Labor-Funktionen die Darstellung von LaTeX-Formeln aktiviert ist.
+Das Eingeben von LaTeX-Formeln wird als Labor-Funktion unterstützt und kann von allen Gesprächsteilnehmern *gerendert* (also betrachtet) werden, die in den Labor-Funktionen die Darstellung von LaTeX-Formeln aktiviert haben.
 
 **Hashtags** können benutzt werden um Begriffe leichter in der Suche auffindbar zu machen.
 
-**Emojis** erreicht man mit einem beginnenden Doppelpunkt „:“ und dem Tippen von min. zwei weiteren Buchstaben. Wer gewünschte Emoji-Namen nicht auswendig kennt, kann mit Mausklick auf das Smiley-Zeichen rechts in der Eingabezeile durch viele Emojis scrollen.
+**Emojis** erreicht man mit einem beginnenden Doppelpunkt „:“ und dem Tippen von mindestens zwei weiteren Buchstaben. Wer gewünschte Emoji-Namen nicht auswendig kennt, kann mit Mausklick auf das Smiley-Zeichen rechts in der Eingabezeile durch viele Emojis scrollen.
 
 ![Aufeklapptes Emoji Menü](/images/14_Direktnachricht14.webp)
 
-Wenn es mehr ungelesene Nachrichten in einem Raum gibt, als der Bildschirm anzeigen kann, lässt einen ein Klick auf das Symbol rechts vom zentralen Inhalt mit Dreieck nach oben und einem Punkt nach oben zur ältesten ungelesenen Nachricht springen.
+Wenn es mehr ungelesene Nachrichten in einem Raum gibt, als der Bildschirm anzeigen kann, lässt einen ein Klick auf das Symbol rechts oben vom zentralen Inhalt mit Pfeil nach oben und einem Punkt zur ältesten ungelesenen Nachricht springen.
 
 ![Makierung des Sprung zur letzten ungeleseen Nachrichtbuttons](/images/18_Sprung_hoch.webp)
-Analog springt man zum neuesten Zeitstempel einer Unterhaltung durch Klick auf das Dreieck nach unten in einem Kreis am rechten Rand der zentralen Inhaltsseite.
+Analog springt man zu den neuesten Nachrichten einer Unterhaltung durch Klick auf das Dreieck nach unten in einem Kreis am rechten Rand der zentralen Inhaltsseite.
 
 ![Makierung des zur neusten Nachricht-springen buttons](/images/18_Sprung_nach_unten.webp)
 

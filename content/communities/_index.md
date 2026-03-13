@@ -9,7 +9,7 @@ weight: 50
 # Communities (veraltet)
 
 {{% notice note %}}
-[Spaces]({{< relref "spaces/_index.md" >}}) lösen die Communities zur Raumverwaltung ab. Die Funktion ist in aktuellen Element-Versionen automatisch aktiviert. (Desktop/Web 1.9, Android 1.3, iPadOS/iOS 1.6 oder neuer)
+[Spaces]({{< relref "spaces/_index.md" >}}) lösen die Communities zur Raumverwaltung ab. Die Funktion ist in aktuellen Element-Versionen automatisch aktiviert. <!--(Desktop/Web 1.9, Android 1.3, iPadOS/iOS 1.6 oder neuer)-->
 {{% /notice %}}
 
 ## Inhalt
@@ -21,7 +21,7 @@ weight: 50
 
 ![Auswahl des Punkts "Alle Einstellungen" im personlichen Menü](/images/06_Settings_de.png)
 
-Klicken Sie auf den nach unten zeigenden Pfeil oben rechts in der Personenspalte und rufen Sie `Alle Einstellungen` auf. 
+Klicken Sie auf den nach unten zeigenden Pfeil oben rechts in der Personenspalte und rufen Sie `Alle Einstellungen` auf.
 
 ![Element-Einstellungen mit Optionen zu Communities](/images/20_Communities_Settings1_de.png)
 
@@ -49,9 +49,9 @@ Ist der Prozess abgeschlossen, erhalten Sie eine Erfolgsmeldung. Über den Butto
 
 Alle Matrix-Nutzenden des Clients Element (und einiger weniger weiterer Clients) können Communities (zu deutsch Gemeinschaften) nutzen, um verschiedene Räume zu filtern, die in der Raumliste links vllt. untergehen oder zu verstreut platziert sind.
 
-Communities können nur für sich selbst oder für Andere erstellt werden (wenn man diese in eine Community einlädt) und schaffen eine übergeordnete Struktur für Räume. Bspw. für eine Semestergruppe/Studiengruppe oder für ein Lehrstuhlteam etc.
+Communities können nur für sich selbst oder für Andere erstellt werden (wenn man diese in eine Community einlädt) und schaffen eine übergeordnete Struktur für Räume. Beispielsweise für eine Semestergruppe/Studiengruppe oder für ein Lehrstuhlteam etc.
 
-Bestehende Räume können einer Community in den Community-Einstellungen zugewiesen werden (unter #).
+Bestehende Räume können einer Community in den Community-Einstellungen zugewiesen werden.
 
 ![Screenshot der Auswahl der aktuellen Community](/images/20_Communities.webp)
 
@@ -65,7 +65,8 @@ Das Entfernen von Räumen aus Communities geht durch Klick auf die Raute # oben 
 
 Eine Community kann gelöscht werden, wenn die administrierende Person diese verlässt.
 
+<!--
 ### weitere Administratoren
 
 Über Element können aktuell keine weiteren Administratoren zu einer Community hinzugefügt werden. [Issue auf Github](https://github.com/vector-im/riot-web/issues/5240) Wenn Sie weitere Administratoren in einer Community benötigen, können diese durch das Matrix Admin Team hinzugefügt werden. Schreiben Sie dazu bitte eine Supportanfrage an servicedesk@tu-dresden.de.
-
+-->

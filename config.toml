@@ -21,11 +21,11 @@ home = [ "HTML", "RSS", "JSON"]
     [markup.goldmark.renderer]
       unsafe = true
 [languages]
-	[languages.en]
-    		title = "Matrix Documentation"
-    		weight = 2
-		languageName = "English"
-	[languages.de]
-		title = "Matrix Dokumentation"
-		weight = 1
-		languageName = "Deutsch"
+  [languages.en]
+    title = "Matrix Documentation"
+    weight = 2
+    languageName = "English"
+  [languages.de]
+    title = "Matrix Dokumentation"
+    weight = 1
+    languageName = "Deutsch"

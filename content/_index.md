@@ -10,7 +10,7 @@ Matrix ist ein freies und offenes, sicheres, dezentralisiertes Protokoll für Ec
 
 <object data="/images/matrix_interactive.svg" type="image/svg+xml" style="width: 1280px; max-width: 100%"></object>
 
-Zur Zusammenarbeit in Teams stieg in den letzten Jahren der Bedarf an unterstützenden digitalen Werkzeugen (engl. *tool*). Ein zentrales Werkzeug ist dabei ein Team-Chat. Ein Chat bezeichnet, laut Wikipedia, „die elektronische Kommunikation mittels geschriebenem Text in Echtzeit, meist über das Internet“ ([Quelle](https://de.wikipedia.org/wiki/Chat)). Die dazugehörige Handlung nennt man „*chatten*“. Mit einem Chattool (manchmal auch Messenger genannt) können sich Teammitglieder gegenseitig auf aktuelle Informationen aufmerksam machen und insb. Verknüpfungen (*Hyperlinks* / *Links*) zur weitergehenden Zusammenarbeit teilen (bspw. zur Terminfindung, zum kollaborativen Schreiben, zum Planen von Events, zum Bearbeiten von Daten, Code, Mindmaps oder Prozessen). Viele Teams an der TU Dresden haben sich aufgrund des bisher fehlenden zentralen Angebots eigene Lösungen gesucht, die zum Teil datenschutzbedenklich sind oder nicht mit anderen Systemen verknüpfbar sind.
+Zur Zusammenarbeit in Teams stieg in den letzten Jahren der Bedarf an unterstützenden digitalen Werkzeugen. Ein zentrales Werkzeug ist dabei ein Team-Chat. Ein Chat bezeichnet, laut Wikipedia, „die elektronische Kommunikation mittels geschriebenem Text in Echtzeit, meist über das Internet“ ([Quelle](https://de.wikipedia.org/wiki/Chat)). Mit einem Messenger (die Software zum Chatten) können sich Teammitglieder gegenseitig auf aktuelle Informationen aufmerksam machen und insbesondere Verknüpfungen (*Hyperlinks* / *Links*) zur weitergehenden Zusammenarbeit teilen (beispielsweise zur Terminfindung, zum kollaborativen Schreiben, zum Planen von Events, zum Bearbeiten von Daten, Code, Mindmaps oder Prozessen). Viele Teams an der TU Dresden haben sich aufgrund des bisher fehlenden zentralen Angebots eigene Lösungen gesucht, die zum Teil datenschutzbedenklich sind oder nicht mit anderen Systemen verknüpfbar sind.
 
 Zur Deckung des Bedarfes an Echtzeitkommunikation wurde daher Ende 2018, nach vergleichender Analyse mehrerer potentieller Lösungsoptionen, innerhalb der TU Dresden das offene Kommunikationsprotokoll Matrix in einem Pilotbetrieb eingeführt und im April 2019 im CIO präsentiert. Im Herbst 2019 wurde der Pilotbetrieb in den Regelbetrieb überführt. U.a. in der [digitalen](https://invidio.xamh.de/AtkA-sE-9uU) [Lehre](https://invidio.xamh.de/jEvKdFTKSxU) (Videos von Prof. Lasch) findet Matrix als Ergänzung zu [OPAL](https://bildungsportal.sachsen.de/opal) Anwendung.
 
@@ -63,7 +63,7 @@ setInterval(() => {
 
 Allgemeine Fragen richten Sie bitte an den [Service Desk](https://tu-dresden.de/zih/dienste/service-desk) der TU Dresden.
 
-Probleme und Lösungen können darüber hinaus durch Schildern des Sachverhalts gemeinsam im [Matrix-Support-Raum](https://matrix.tu-dresden.de/#/room/#matrix-support:tu-dresden.de) diskutiert werden, sodass alle Anderen durch den transparenten Austausch lernen können.
+Probleme und deren Lösungen können darüber hinaus im [Matrix-Support-Raum](https://matrix.tu-dresden.de/#/room/#matrix-support:tu-dresden.de) diskutiert werden, sodass andere Nutzende durch den transparenten Austausch lernen können.
 
 {{% notice tip %}}
 Man kann bei manchen Anomalien probieren den Cache (Zwischenspeicher) zu leeren und alles neu zu laden: Einstellungen > Hilfe & Über > Cache löschen und neu laden
